@@ -1,0 +1,1 @@
+# rockman-exe5-kr-patch
