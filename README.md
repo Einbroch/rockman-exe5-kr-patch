@@ -1,4 +1,4 @@
-# 록맨 에그제 5 한글 패치 v0.9.1
+# 록맨 에그제 5 한글 패치 v0.9.2
 
 록맨 에그제 5 **팀 오브 블루스 / 팀 오브 커널** (일본판, GBA) 한글 패치입니다.
 
@@ -12,14 +12,14 @@
 1. [xdelta UI](https://www.romhacking.net/utilities/598/) 같은 패치 도구를 준비합니다.
 2. **Patch** 에 아래 xdelta 파일, **Source File** 에 **원본 일본판 ROM** 을 지정합니다.
 3. 나온 파일을 에뮬레이터나 플래시카트에 올립니다.
-   (v0.9 를 적용한 ROM 이 아니라 **원본**에 적용해야 합니다. 세이브는 그대로 이어서 쓸 수 있습니다.)
+   (이전 판을 적용한 ROM 이 아니라 **원본**에 적용해야 합니다. 세이브는 그대로 이어서 쓸 수 있습니다.)
 
 패치 파일은 [Releases](https://github.com/Einbroch/rockman-exe5-kr-patch/releases) 에서 받으세요.
 
 | 판 | 패치 파일 | 원본 ROM SHA-256 |
 |---|---|---|
-| 팀 오브 블루스 | `RockmanEXE5_TeamOfBlues_JP_KR_v0.9.1.xdelta` | `284ae3c7c9d3b6eaaf8ed858f33de91a62b0bcf66d04cf21d6838d042b83a4ab` |
-| 팀 오브 커널 | `RockmanEXE5_TeamOfColonel_JP_KR_v0.9.1.xdelta` | `c066880ffd7c668afe0824000eedf7266c4b91aa22092838db4566564bbbddfd` |
+| 팀 오브 블루스 | `RockmanEXE5_TeamOfBlues_JP_KR_v0.9.2.xdelta` | `284ae3c7c9d3b6eaaf8ed858f33de91a62b0bcf66d04cf21d6838d042b83a4ab` |
+| 팀 오브 커널 | `RockmanEXE5_TeamOfColonel_JP_KR_v0.9.2.xdelta` | `c066880ffd7c668afe0824000eedf7266c4b91aa22092838db4566564bbbddfd` |
 
 원본 ROM 의 해시가 위와 다르면 적용되지 않습니다.
 
@@ -27,12 +27,16 @@
 
 | 판 | 패치 적용 결과 SHA-256 |
 |---|---|
-| 팀 오브 블루스 | `fa0d0f101a5440516c0855cd33c2b08ab53b1f38e3979ffe05658c904ac008bf` |
-| 팀 오브 커널 | `a51510b8cf68eaffdf2f2a0004accc3ec17d76a7b38f8b669e68ef31b465d0fa` |
+| 팀 오브 블루스 | `f3d1f7b2589af1d943c86cdf0d2aaaf2bcf768d8e04f6bc9ba6efecbd5f17189` |
+| 팀 오브 커널 | `8c3d4b47d20e9f1b7d5550d593b4c1cc3e8c7363c72553ec9537184b29247eda` |
 
 패치 파일은 만든 뒤 **원본에 다시 적용해서 위 해시가 나오는지 확인**한 것만 넣었습니다.
 
 ---
+
+## v0.9.2 에서 바뀐 것 (v0.9.1 대비)
+
+- **개수 단위** 「コ」→「개」: PET 메뉴의 BUGPIECE(「0개」), 상점 재고 개수 등 숫자 뒤 단위 22곳.
 
 ## v0.9.1 에서 바뀐 것 (v0.9 대비)
 
