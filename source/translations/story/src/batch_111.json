@@ -1,0 +1,258 @@
+{
+ "batch": 111,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 285,
+   "src": "_____たんまつの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    123
+   ],
+   "uses": 2
+  },
+  {
+   "id": 286,
+   "src": "ネットバトルマシンの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    124
+   ],
+   "uses": 2
+  },
+  {
+   "id": 287,
+   "src": "__ワインクーラーの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    125
+   ],
+   "uses": 2
+  },
+  {
+   "id": 288,
+   "src": "_____だんごやの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    126
+   ],
+   "uses": 2
+  },
+  {
+   "id": 289,
+   "src": "__ファクトリーがいかん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    128
+   ],
+   "uses": 2
+  },
+  {
+   "id": 290,
+   "src": "___ファクトリーろうか",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    129
+   ],
+   "uses": 2
+  },
+  {
+   "id": 291,
+   "src": "ダークチップファクトリー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    130
+   ],
+   "uses": 2
+  },
+  {
+   "id": 292,
+   "src": "_____サーバールーム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    131
+   ],
+   "uses": 2
+  },
+  {
+   "id": 293,
+   "src": "__ファクトリーの電脳1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    132
+   ],
+   "uses": 2
+  },
+  {
+   "id": 294,
+   "src": "__ファクトリーの電脳2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    133
+   ],
+   "uses": 2
+  },
+  {
+   "id": 295,
+   "src": "__ファクトリーの電脳3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    134
+   ],
+   "uses": 2
+  },
+  {
+   "id": 296,
+   "src": "__ファクトリーの電脳4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    135
+   ],
+   "uses": 2
+  },
+  {
+   "id": 297,
+   "src": "__ココロサーバーの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    136
+   ],
+   "uses": 2
+  },
+  {
+   "id": 298,
+   "src": "_じっけんサーバーの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    137
+   ],
+   "uses": 2
+  },
+  {
+   "id": 299,
+   "src": "_____ふうじんの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    138
+   ],
+   "uses": 2
+  },
+  {
+   "id": 300,
+   "src": "___パイプそうちの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    139
+   ],
+   "uses": 2
+  },
+  {
+   "id": 301,
+   "src": "_メッセージボードの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    140
+   ],
+   "uses": 2
+  },
+  {
+   "id": 302,
+   "src": "コ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    242
+   ],
+   "uses": 22
+  }
+ ]
+}

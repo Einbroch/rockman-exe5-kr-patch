@@ -1,0 +1,2407 @@
+{
+ "batch": 37,
+ "items": [
+  {
+   "id": 7001,
+   "src": "そうではありませんか?",
+   "speakers": [
+    "BlackWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0797E64",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7002,
+   "src": "ここから見る だいぶつの\nながめが サイコーなんだよ\nだから じゃましないで!",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0797E64",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7003,
+   "src": "おねがいだから アッチ\n行ってくれって!",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0797E64",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7004,
+   "src": "ほんと おねがい!\nかわりに いいことを\nおしえてあげるから!",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0797E64",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7005,
+   "src": "「45654128」\nロットナンバーだよ",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0797E64",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7006,
+   "src": "はやく アッチ行ってくれよ、\nたのむから~!",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0797E64",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7007,
+   "src": "ウゥッ・・・",
+   "speakers": [
+    "BlackWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0797E64",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7008,
+   "src": "あしきチカラが ココロに\nながれこんできます・・・!!",
+   "speakers": [
+    "BlackWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0797E64",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7009,
+   "src": "く、くるしい・・・",
+   "speakers": [
+    "BlackWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0797E64",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7010,
+   "src": "ウガー!!\n今のオレに はなしかけるとは\nいい どきょうだ!",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0797E64",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7011,
+   "src": "いたい目に あいたくなかったら\nさっさと どこかへ行けー!!",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0797E64",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7012,
+   "src": "この むしゃホログラムの\nデザイン、なかなかの\nものでしょう",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7013,
+   "src": "ここだけの はなしですが\nワタシが デザインしたんですよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7014,
+   "src": "ひたいの 三日月、\nまんげつに したほうが\nよかったかなぁ・・・",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7015,
+   "src": "あなた どう おもいます?",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7016,
+   "src": "こんなのを よんでいると\nげんだいに うまれてきた\nじぶんを くやしく おもうよ",
+   "speakers": [
+    "Man"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7017,
+   "src": "サムライ!",
+   "speakers": [
+    "Man"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7018,
+   "src": "\\nかっせん!",
+   "speakers": [
+    "Man"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7019,
+   "src": "\\nげこくじょう!",
+   "speakers": [
+    "Man"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7020,
+   "src": "ふぅ・・・\nオトコの ロマンだよなぁ・・・",
+   "speakers": [
+    "Man"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7021,
+   "src": "このさきは キクの間の 2かいで\nそのさきが てんしゅですよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7022,
+   "src": "あ、しってましたか\nそうですか\nそれは しつれいしました",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7023,
+   "src": "むぅ・・・\nみごとな カタナじゃ・・・",
+   "speakers": [
+    "OldMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7024,
+   "src": "こういう わざものを、\nひとふり ほしいのぉ・・・",
+   "speakers": [
+    "OldMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7025,
+   "src": "この前 ココが おそわれたのに\nつづいて、こんどは 科学省が\nしゅうげき されたそうですよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7026,
+   "src": "まったく、ぶっそうな\nよのなかです",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7027,
+   "src": "なぜ そんなことを する\nれんちゅうが いるのか、\nりかいに くるしみますよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079814C",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7028,
+   "src": "グワーッ!\nダレでも いいから\nなぐりたいー!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798358",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7029,
+   "src": "なぐらせろー!\nなぐらせろー!!\nなぐらせろー!!!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798358",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7030,
+   "src": "クッ・・・\nワタシは いったい ナニを\nやってたんだ?",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798358",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7031,
+   "src": "ざんねんだが おかしくなっている\nあいだの コトを まったく\nおぼえてないんだ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798358",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7032,
+   "src": "どうして あんなコトになったのか\nけんきゅうしたくても、きおくが\nないんじゃ どうしようもないよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798358",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7033,
+   "src": "科学省にいる ゆうじんから\nきいたよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798358",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7034,
+   "src": "キミも ネットナビチームの\nいちいん だったんだね",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798358",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7035,
+   "src": "後のコトは すべて われわれに\nまかせて、キミは ネビュラを\nぶっつぶしてきてくれ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798358",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7036,
+   "src": "がんばってくれよ!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798358",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7037,
+   "src": "ワタシのもっている\n「",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7038,
+   "src": "」 を\nつかってみる気はありませんか?",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7039,
+   "src": "もしもの時のために、\n名人みならいから\nあずかっていたんです",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7040,
+   "src": "今、あなたの もっている\nよびフォルダに うわがきしても\nいいのなら、",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 7041,
+   "src": "すぐに てんそうしますよ\nどうしますか?",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 7042,
+   "src": "」 が\nつかいたくなったら、\nいつでも きてください",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 7043,
+   "src": "」 を\nつかってみる気に\nなったんですか?",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7044,
+   "src": "それでは、てんそうを\nかいしします・・・",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7045,
+   "src": "てんそうが かんりょうしました!",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7046,
+   "src": "これで あなたの\nよびフォルダは",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7047,
+   "src": "」 に\nなりましたよ",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7048,
+   "src": "へいわのために つかってください\n名人みならいも そうねがっている\nはずですから・・・",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07984C0",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7049,
+   "src": "ここは シャチホコ城のてんしゅ、\nむかし このお城の おとのさまが\nいたところね",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7050,
+   "src": "そして、今は ニホンの\nネットワークの かんしセンターに\nなってるのよ",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7051,
+   "src": "え?\nそうは 見えないですって?",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7052,
+   "src": "それも そうかもね\nこの お城には\nれきしてきな かちも あるから、",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7053,
+   "src": "さいしんの 電子ききは\nなるべく めだたないように\nせっち されているの",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7054,
+   "src": "たとえば そこの ぞうを\nしらべてごらんなさい",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7055,
+   "src": "シャチホコ城のHPに\nプラグインできるように\nなっているわよ",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7056,
+   "src": "どうだい、\nみごとな ふすまえ だろう",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7057,
+   "src": "まいにち\nこれを見られるだけでも、\nここで はたらく かちがあるよ",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7058,
+   "src": "あれ? へんな ところに\nまよいこんじゃったぞ\nどこだろう、ココ?",
+   "speakers": [
+    "CapBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7059,
+   "src": "あの人、さっきから\nああやって にんぎょうに\nはなしかけてるけど、",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7060,
+   "src": "まさか、ホンモノの\nショーグンだと\nおもってるんじゃあ・・・",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7061,
+   "src": "・・・ま、まさかな",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7062,
+   "src": "ショーグンさまに おめにかかれて\nキョーエツシゴクに ぞんじマース",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7063,
+   "src": "どーですか?\nワタシの ニホンゴは?",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7064,
+   "src": "テレビの ジダイゲキを 見て\nおぼえましたネー",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798654",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7065,
+   "src": "キーッ!!\nなにを見ても ハラがたつわー!",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07988A0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7066,
+   "src": "あの きんいろの びょうぶが\nにくいー!",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07988A0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7067,
+   "src": "この ちょんまげアタマが\nにくいー!!",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07988A0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7068,
+   "src": "ぐわぁー!\nにくいー!!\nすべてを ぶちこわせーー!!",
+   "speakers": [
+    "SciLabYoungMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07988A0",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7069,
+   "src": "アタマが・・・いたい・・・",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07988A0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7070,
+   "src": "はぁはぁはぁ・・・\nもう・・・はしれませんネ・・・",
+   "speakers": [
+    "SciLabYoungMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07988A0",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7071,
+   "src": "ごめんなさい・・・\nアタマが いたくて\nなにも かんがえられないの・・・",
+   "speakers": [
+    "SciLabWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07988A0",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7072,
+   "src": "はぁはぁはぁ・・・\nじぶんでも なぜ はしってたのか\nわからないですネ・・・",
+   "speakers": [
+    "SciLabYoungMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07988A0",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7073,
+   "src": "ソーリー もうすこし\nやすませて ください・・・",
+   "speakers": [
+    "SciLabYoungMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07988A0",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7074,
+   "src": "エンドエリア4にむかうぞ",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7075,
+   "src": "ホンモノの じつりょくを\n見せてやる・・・",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7076,
+   "src": "熱斗くん、エンドエリア4に\nむかうでマス!!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7077,
+   "src": "アッシの いかりのパワーを\n見せてやるでマス!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7078,
+   "src": "で、電脳のメンテナンスを\nたのまれたのは いいけど・・・\nこ、こわい・・・",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7080,
+   "src": "ワタシ たかい ところって\nだーいすき!",
+   "speakers": [
+    "PigtailsGirl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7081,
+   "src": "けしきは いいし\n風も きもちいいし\nもー サイコーってかんじ!",
+   "speakers": [
+    "PigtailsGirl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7082,
+   "src": "シャチホコには オスと メスが\nあるのよ",
+   "speakers": [
+    "YoungWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7083,
+   "src": "クチを あけているほうが オス、\nクチを とじてるほうが メス\nなんだけど、",
+   "speakers": [
+    "YoungWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7084,
+   "src": "この城の シャチホコは\nどっちも クチをとじているでしょ",
+   "speakers": [
+    "YoungWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7085,
+   "src": "なぜ どちらも メスなのかは、\nいまだに りゆうが わからない\nれきし上の ミステリーなんだって",
+   "speakers": [
+    "YoungWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7086,
+   "src": "ふしぎよね!",
+   "speakers": [
+    "YoungWoman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07989D4",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7087,
+   "src": "この シャチホコ城にいる者は\nみんな キミがネットナビチームの\nいちいんだって しってるよ",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798B78",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7088,
+   "src": "キミみたいな しょうねんに\nこんな かこくな 戦いをしいて\n大人として はずかしくおもうよ",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798B78",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7089,
+   "src": "できれば ついていきたいが\nボクの ウデじゃ\nあしでまといに なるだけだ",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798B78",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7090,
+   "src": "だから これをうけとってくれ",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798B78",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7091,
+   "src": "がんばってくれよ\nきたいしているからね",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798B78",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 7092,
+   "src": "こんどは まけるまいと\nがんばったんだけど、\nやっぱ、つよいな!",
+   "speakers": [
+    "Charlie"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798B78",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7093,
+   "src": "こんかい、ネビュラが\nしかけた こうげきは\nかなりヤバい シロモノだぜ・・・",
+   "speakers": [
+    "Charlie"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798B78",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7094,
+   "src": "熱斗くん、\nだいじなコト、わすれてない?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7095,
+   "src": "熱斗くん、このさき\nきょうりょくな でんぱが\nでていて",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7096,
+   "src": "セーブが できなくなっちゃうけど\nだいじょうぶ?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7098,
+   "src": "じゃあ、じゅんびが\nかんぜんに ととのったら行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7099,
+   "src": "光、たのんだぞ・・・",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7100,
+   "src": "リーガルなんて、\nガツンと やっつけちゃってよね!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7101,
+   "src": "熱斗、あなたと ロックマンなら\nリーガルを たおせます!",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7102,
+   "src": "おまえと ロックマンの\nコンビネーションがあれば\nリーガルなんて 目じゃないぜ!",
+   "speakers": [
+    "Charlie"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7103,
+   "src": "・・・・・・フッ、\nせいぜい がんばるんだな",
+   "speakers": [
+    "Dusk"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7104,
+   "src": "でっかい ハナビを\nブチあげようぜ!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7105,
+   "src": "リーガルのやぼうなんか、\nブチこわしてやれ!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7106,
+   "src": "・・・れいせいにな",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7107,
+   "src": "れいせいさを うしなわなければ\nかならず しょうきはある",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7108,
+   "src": "ね、熱斗くん・・・\nがんばってくれでマス!!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7109,
+   "src": "熱斗、がんばるネ!\nアタシ、おうえんしてるヨ!!",
+   "speakers": [
+    "Jasmine"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7110,
+   "src": "熱斗くんの かつやくは\nトップニュースで\nとりあつかうわよ!",
+   "speakers": [
+    "Ribitta"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798D18",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7111,
+   "src": "このおくが うらぐちだ\n・・・行くぞ!",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7112,
+   "src": "このおくに うらぐちが\nあるようだな・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7113,
+   "src": "・・・行くぞ!",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7114,
+   "src": "いかにも ヤバそうな\nたてものよね・・・",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7115,
+   "src": "ちゃんと いきてかえって\nこられるかしら・・・",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7116,
+   "src": "おそろしい ふんいきが\nただよっていますわね・・・",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7117,
+   "src": "しかし、ここまで\nきたのですもの\nぜんりょくで たたかいましょう",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7118,
+   "src": "これが ネビュラのアジトか・・・\nここなら いくらブッこわしても\nもんだいなしだな!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7120,
+   "src": "ネビュラの アジトか・・・\nおもいきり あばれられそうだな!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7121,
+   "src": "ここは てきの ほんきょち\nゆだんするなよ・・・",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7122,
+   "src": "しかし、しずかすぎる・・・",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7123,
+   "src": "オ、オトコいっぴき\n日暮闇太郎、ぜんっぜん\nこわくないでマスよー!!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7124,
+   "src": "コレっぱかりも こわく\nないでマスよ~~!!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7125,
+   "src": "う~・・・\nなんか、ドキドキするネ・・・",
+   "speakers": [
+    "Jasmine"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7126,
+   "src": "今まで アポなし\nとつげきしゅざいなら\nなんども やったけど、",
+   "speakers": [
+    "Ribitta"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7127,
+   "src": "ここまで キケンな\nとつげきは したコトないわ・・・",
+   "speakers": [
+    "Ribitta"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7128,
+   "src": "ガッチリ カギがかかってる\nここからは はいれそうにないな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0798F84",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7129,
+   "src": "それじゃ、行きましょうか!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7130,
+   "src": "ここまできて ひきかえすワケには\nいかないしね!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7131,
+   "src": "熱斗、行きましょう!",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7132,
+   "src": "へっへっへ・・・\nウデがなるぜ!!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7133,
+   "src": "熱斗、ぜんしんあるのみだ!\nブンまわすぜ~!!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7134,
+   "src": "ゆだんするなよ・・・",
+   "speakers": [
+    "Raika",
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    4
+   ],
+   "uses": 6
+  },
+  {
+   "id": 7135,
+   "src": "し、しょうじき ちょっと\nかえりたいでマス・・・",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7136,
+   "src": "熱斗くん、ボクたちが\nすすむのは、こっちじゃないよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7137,
+   "src": "ガッチリ カギがかかってる\nここからは でられそうにないな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7138,
+   "src": "サーチマンといっしょってのが\nすこし気にくわねえが、\nついに オレのでばんだな!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7139,
+   "src": "いよいよ トマホークマンの\nでばんだな!!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7140,
+   "src": "おもいっきり ブンまわすぜ!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7141,
+   "src": "もたついている時間はないぞ\nいそいで トビラのロックを\nかいじょするんだ",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7142,
+   "src": "アッシもナンバーマンも\nカクゴは できてるでマス!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7143,
+   "src": "熱斗くん、がんばろうでマス!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7144,
+   "src": "オレたちに かまうんじゃねえ\nおまえは さきをいそげ!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7145,
+   "src": "熱斗、あとは おまえに\nたくしたぜ・・・",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7146,
+   "src": "なにをしている・・・",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7147,
+   "src": "オレたちを シンパイしているなら\nそれは まちがいだ",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7148,
+   "src": "今、おまえがなにをするべきかを\nかんがえろ・・・",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7149,
+   "src": "熱斗くん・・・\nあとは たのんだでマスよ・・・",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07991B8",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7150,
+   "src": "テスラさん、オレ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7151,
+   "src": "行きなさい、熱斗くん",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7152,
+   "src": "マグネットマンは\nじぶんの シゴトを\nやりとげただけ!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7153,
+   "src": "今は かなしんでる\nヒマなんてないでしょ!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    30
+   ],
+   "uses": 2
+  }
+ ]
+}

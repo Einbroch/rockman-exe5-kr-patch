@@ -1,0 +1,412 @@
+{
+ "batch": 139,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 16446,
+   "src": " シモテル     科学省ケイジバンです   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16447,
+   "src": " ねこまんま    おめでとうございます   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16448,
+   "src": " もろよん     名人だぞ!        ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16449,
+   "src": " ドンクン     伊集院炎山だな      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16450,
+   "src": " コマッキー    つうしん かいふくきぼう ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16451,
+   "src": " みずっぱ     バグでちゃった      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16452,
+   "src": " ハッシィー    RE:バグでちゃった   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16453,
+   "src": " ぐっさん     光はかせ         ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16454,
+   "src": " やっちゃん    光はかせは すごいッス  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16455,
+   "src": " ナカムラ     クイズだす人       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16456,
+   "src": " スーザン     RE:クイズだす人    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16457,
+   "src": " かっぺぽ     ふしぎな 数字      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16458,
+   "src": " ゴエーツにいさん それはロットナンバー   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16459,
+   "src": " マダムあきこ   ワタクシのフローラちゃんが",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16460,
+   "src": " タツジ      イッツ ダンディズム   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16461,
+   "src": " シズカ      ユーモアセンスがおすすめ ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16462,
+   "src": " ビエ~リ     ニほんはサイコーでス   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16463,
+   "src": " シモテル     RE:ニほんはサイコーでス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16464,
+   "src": " イワムー     これはトクダネ      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16465,
+   "src": " クロロン     それってまさか!?    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16466,
+   "src": " タカノ      電脳ツバメはっけん!   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16467,
+   "src": " TANAべ    ウラねたはヤバイです   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16468,
+   "src": " マラドンナ    ウガー          ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16469,
+   "src": " ジョリ      イライラするわ      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16470,
+   "src": " バウハー     キー           ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16471,
+   "src": " シモテル     しっかりかきこみましょう ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16472,
+   "src": " ピエ~ロ     す すごいな       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16473,
+   "src": " ゴーダ      ふあんだよ        ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16474,
+   "src": " シモテル     おわび          ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E385C",
+    28
+   ],
+   "uses": 2
+  }
+ ]
+}

@@ -1,0 +1,2420 @@
+{
+ "batch": 77,
+ "items": [
+  {
+   "id": 13130,
+   "src": "今の たたかいで\nおまえたちの カラダは\nもうボロボロ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    5
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13131,
+   "src": "オレたちでも らくしょうダ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    5
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13132,
+   "src": "リーガルさまに デカい\n手みやげができたゼ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    5
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13133,
+   "src": "それじゃ、\nボクが むかしの秋原町で\nあったサーチマンは・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13134,
+   "src": "ギャハハ!\nそれは オレダ!",
+   "speakers": [
+    "SearchMan",
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    7
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13135,
+   "src": "では、ワタシのニンムの\nジャマをしたのは・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13136,
+   "src": "ソイツは オレだゼ!\nギャハハハハハ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    9
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13137,
+   "src": "それに、このシャチホコの\nサーバーを ぼうそう\nさせたのもナ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    9
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13138,
+   "src": "オレたちを たおせば\nぼうそうは おさまるゼ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    9
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13139,
+   "src": "たおせたらの ハナシだがナ!\nギャハハハハハ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    9
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13140,
+   "src": "ロックマン、おまえに\nあやまらなければ\nならないようだな・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13141,
+   "src": "ううん、ボクのほうこそ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    11
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13142,
+   "src": "なにゴチャゴチャ\nいってやがル!",
+   "speakers": [
+    "SearchMan",
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    12
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13143,
+   "src": "いっておくが、オレたちからは\nにげられねえゼ!",
+   "speakers": [
+    "SearchMan",
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    12
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13144,
+   "src": "おとなしく、デリートされナ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13145,
+   "src": "ライカ、1つ ていあんが\nあるんだけどさ、",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13146,
+   "src": "ゴカイも とけたコトだし、\nなかなおり がてら・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    14
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13147,
+   "src": "いっしょに コイツらを\nたおすか?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13148,
+   "src": "ぐうぜんだな・・・",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13149,
+   "src": "オレも、おなじことを\nかんがえていたところだ",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13150,
+   "src": "おまえたちは、ぜったいに",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    16
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13151,
+   "src": "ゆるさん!!",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13152,
+   "src": "なにが ゆるさん ダ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    18
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13153,
+   "src": "この しにぞこないどもガ!\nいっしゅんで デリート\nしてやるゼ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13154,
+   "src": "いくゼ、オラァッ!!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    18
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13155,
+   "src": "グォォォォッ!!",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    19
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13156,
+   "src": "バケのかわが はがれたな・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13157,
+   "src": "しょせん おまえたちは\nニセモノだ",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13158,
+   "src": "ホンモノの われわれに\nかてるはずがない!",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13159,
+   "src": "しかし、オレたちのカタキは\nエンドエリア5を マモる\nコスモマンさまが・・・",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13160,
+   "src": "かならず・・・とって・・・\nくだ・・・さ・・・",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13161,
+   "src": "グワァーーーッ!!",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13162,
+   "src": "コスモマンが、\nエンドエリア5に・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13163,
+   "src": "サーチマン、\nコスモマンを しっているの?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13164,
+   "src": "コスモマンは ネビュラ\nシャーロしぶの かんぶだ",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13165,
+   "src": "ワタシは ヤツをたおすために\nチームにはいったんだ",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13166,
+   "src": "エンドエリア4のトビラを\nかいじょしに行くぞ!",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13168,
+   "src": "な、なんのコトです!?\nワタシ、ネビュラなどに\nはいったおぼえはありませんよ!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13169,
+   "src": "それじゃあ いわして\nもらいますけど",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13170,
+   "src": "なんでアナタは まり子先生の\nナビをこうげきしたんですか!?",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13171,
+   "src": "そんなコト、したおぼえはないよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13172,
+   "src": "そりゃ そうだろうナ\nそれは みんなオレたちが\nやったコトだからナ!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13173,
+   "src": "それじゃ、\nボクが むかしの秋原町で\nあったナンバーマンは・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13174,
+   "src": "じゃあ、まり子先生のナビを\nこうげきしたのは・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13175,
+   "src": "ロックマン、どうやら\nあやまらなければ\nならないみたいですね・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13176,
+   "src": "日暮さん、1つ ていあんが\nあるんだけどさ、",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13177,
+   "src": "いっしょに コイツらを\nやっつけない?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13178,
+   "src": "そいつは\nいい ていあんでマス・・・",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13179,
+   "src": "アッシ、今 ハラワタが\nにえくりかえっているでマス",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13180,
+   "src": "手かげんは できないでマスよ",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13181,
+   "src": "ゆるしませんよ!!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13182,
+   "src": "この しにぞこないどもが!\nいっしゅんで デリート\nしてやるゼ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13183,
+   "src": "バケのかわが はがれましたね",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13184,
+   "src": "ニセモノなんかに やられる\nワタシたちじゃ ありませんよ!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13185,
+   "src": "フーッ! フーッ!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13186,
+   "src": "まだ いかりが\nおさまりません!!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13187,
+   "src": "ナンバーマン・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13188,
+   "src": "そのいかりを つぎの\nミッションに ぶつけようよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13189,
+   "src": "そうですね・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13190,
+   "src": "この いかりのパワーが\nメラメラと もえあがっている\nうちに、",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13191,
+   "src": "エンドエリア4のトビラを\nとりはらってやりますよ!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13192,
+   "src": "さぁ、行きましょう!!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5484",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13193,
+   "src": "これで ぜんいんそろったな",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13194,
+   "src": "どうだ、サーチマン?",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13195,
+   "src": "もうすこしだ・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13196,
+   "src": "・・・・・・・・・\n・・・かいじょかんりょう",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13197,
+   "src": "ひらいたぞ・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13198,
+   "src": "行くぞ!",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    4
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13199,
+   "src": "どうだ、ナンバーマン?",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13200,
+   "src": "もうすこしです・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13201,
+   "src": "・・・・・・・・・\n・・・かいじょかんりょうです!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    7
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13202,
+   "src": "ひらきましたよ!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13203,
+   "src": "熱斗くん、\nボクたちも行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13204,
+   "src": "これより、エンドエリア5の\nリベレートミッションをかいしする",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    14
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13205,
+   "src": "そのまえに、ジャイロマン\nおまえは ここにのこって",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13206,
+   "src": "てきのえんぐんが こないか\nみはっておいてほしい",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    14
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13207,
+   "src": "えっ? オレが のこるの?",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13208,
+   "src": "みはりなんか いらないんじゃ\nないのか?",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13209,
+   "src": "いや、ここからは\nいくら ようじんしても\nしすぎるというコトはない",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13210,
+   "src": "もし なにかあったときには\nすぐにしらせてくれ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    16
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13211,
+   "src": "わかったよ、リーダーには\nさからわないよ",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13212,
+   "src": "けど、オレをつれて\nいかなかったコトを\nこうかいするなよ!",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13213,
+   "src": "フッ、そういうな・・・",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13214,
+   "src": "チームイチの スピードを\n見こんでいっているんだ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13216,
+   "src": "まかせときなって!",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13217,
+   "src": "ネコのコ いっぴきとおさないぜ\nま、もっとも、電脳世界に\nネコが いたらのハナシだけどな!",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13218,
+   "src": "ま、おおぶねに のったきぶんで\n行ってきなって!",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13219,
+   "src": "そのまえに、シャドーマン\nおまえは ここにのこって",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13220,
+   "src": "・・・いらいしゃの\nたのみとあらば、\nモンクはいわんが",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13221,
+   "src": "みはりなど ひつようなのか?",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13222,
+   "src": "ウム、ここからは\nいくら ようじんしても\nしすぎるというコトはない",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13223,
+   "src": "しかし、せっしゃを\nつれていかなかったことを\nこうかいしてもしらぬぞ・・・",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13224,
+   "src": "チームイチの スピードを\n見こんでのコトだ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13225,
+   "src": "ククク・・・わかっておるわ",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13226,
+   "src": "ここのみはりは ひきうけた\nおぬしらは ぞんぶんに\nたたかってくるがいい",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5B90",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13227,
+   "src": "このエリアを かいほうしたことで\nオモテの インターネットは\nわれらの手にもどった",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13228,
+   "src": "のこるは ウラインターネットを\nかいほうするのみだ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13229,
+   "src": "ウラインターネット・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13230,
+   "src": "おいつめた かんじだな",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13231,
+   "src": "どうする、\nすぐに うってでるのか?",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13232,
+   "src": "ていさつなら まかせてくれよ",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13233,
+   "src": "オレも いつでもいいぜ・・・",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13234,
+   "src": "オレも、じゅんびはできてるぜ",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13235,
+   "src": "いきおいづくのは けっこうだが、\nこういうときほど しんちょうに\nなるべきだ・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13236,
+   "src": "なんだ、\nウラインターネットと きいて\nおじけづいちまったか?",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13237,
+   "src": "・・・いや、\nサーチマンの いうとおりだ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13238,
+   "src": "グッ・・・",
+   "speakers": [
+    "NapalmMan",
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    8
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13239,
+   "src": "今のネビュラは いわば、\nておいの やじゅうだ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13240,
+   "src": "ヘタに手をだせば、\nどんな シッペがえしをくうか\nわからない",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    9
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13241,
+   "src": "それに、われわれも\nすくなからず ダメージを\nおっている",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13242,
+   "src": "・・・くわえて、\nあのウラインターネットへの\nルートをふさぐ そのトビラ、",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13243,
+   "src": "そう かんたんには\nかいじょできないだろう・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13244,
+   "src": "ヤツらが、すんなり\nウラインターネットに\nいれてくれるとは かんがえられん",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13245,
+   "src": "そういうことだ・・・\nいちど、プラグアウトするぞ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    11
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13246,
+   "src": "ミッションをかいしする さいに\nふたたび しょうしゅうをかける",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    11
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13247,
+   "src": "ちょっとまてよ、\nほんとうに そのトビラが\nひらかないモノなのか",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13248,
+   "src": "たしかめさせてくれよ",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13249,
+   "src": "・・・フッ、すきにしろ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13250,
+   "src": "それじゃあ、行くぜ!!",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13251,
+   "src": "ウォォォォォッ!!",
+   "speakers": [
+    "MagnetMan",
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    14
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13252,
+   "src": "ぬおぉぉぉぉぉぉっ!!",
+   "speakers": [
+    "MagnetMan",
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    15
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13253,
+   "src": "ハァハァ・・・フンッ!",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13254,
+   "src": "ぬがががぁぁぁぁっ!!",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13255,
+   "src": "マグネットマン、もういいだろう\nプラグアウトだ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13256,
+   "src": "・・・チッ!",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13257,
+   "src": "われわれも プラグアウトだ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13258,
+   "src": "じゅんびが ととのいしだい\nれんらくをいれる",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 13259,
+   "src": "のこるは ウラインターネットを\nかいほうするのみだ・・・",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13260,
+   "src": "・・・カーネル、\nどうするつもりだ・・・",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13261,
+   "src": "・・・うってでるのか?",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13262,
+   "src": "いよいよ けっせんか?\nちがたぎるのう!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13263,
+   "src": "オレは いつでもいいぜ",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13264,
+   "src": "ちょ、ちょっと まってください",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13265,
+   "src": "こういうときこそ、\nいちど ひといきいれて",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13266,
+   "src": "たいせいを たてなおすべきかと\nおもうのですが・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13267,
+   "src": "どうした、\nウラインターネットと きいて\nおじけづいたのか!?",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13268,
+   "src": "・・・いや、\nナンバーマンの いうとおりだ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13269,
+   "src": "今のネビュラは いわば、\nておいの やじゅう・・・",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13270,
+   "src": "それに、われわれも\nむきずでは ないからな・・・",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13271,
+   "src": "そ、それとですね・・・\nあのウラインターネットへの\nみちをふさぐ そのトビラ、",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13272,
+   "src": "かんたんには ひらかない\nでしょうからね・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13273,
+   "src": "ちょっとまたれい、\nほんとうに そのトビラが\nひらかぬモノなのか",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13274,
+   "src": "たしかめさせては\nもらえんか?",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13275,
+   "src": "ナイトとして、\nおいつめた てきに せを\nむけるのは なっとくがいかん",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13276,
+   "src": "・・・すきにしろ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13277,
+   "src": "ムゥゥゥ・・・いざっ!!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13278,
+   "src": "ハァハァ・・・ヌォッ!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13279,
+   "src": "フンヌゥゥゥッ!!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13280,
+   "src": "ナイトマン、わかっただろう\nプラグアウトだ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 13281,
+   "src": "ウムム・・・\nしかたあるまい・・・",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C5F1C",
+    42
+   ],
+   "uses": 2
+  }
+ ]
+}

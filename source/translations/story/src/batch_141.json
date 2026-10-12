@@ -1,0 +1,427 @@
+{
+ "batch": 141,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 16817,
+   "src": " ウラのかんりにん ケイジバンだ       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16818,
+   "src": " NO NAME  ネビュラ         ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16819,
+   "src": " NO NAME  RE:ネビュラ      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16820,
+   "src": " NO NAME  RE:RE:ネビュラ   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16821,
+   "src": " NO NAME  オ オレの体が・・・   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16822,
+   "src": " NO NAME  RE:オ オレの体が・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16823,
+   "src": " NO NAME  スカラビア        ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16824,
+   "src": " NO NAME  SPチップはつかえねー  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16825,
+   "src": " NO NAME  DSチップ        ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16826,
+   "src": " NO NAME  じつはオレは       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16827,
+   "src": " NO NAME  RE:じつはオレは    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16828,
+   "src": " NO NAME  オモテがすごいぜ     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16829,
+   "src": " もとネビュラ   やつは・・・       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16830,
+   "src": " NO NAME  闇のシハイする世界    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16831,
+   "src": " のんちゃん    ナビカスGET!     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    14
+   ],
+   "uses": 2,
+   "hint": " 논짱       내비커스 GET!    "
+  },
+  {
+   "id": 16832,
+   "src": " マーぼー     RE:ナビカスGET!  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    15
+   ],
+   "uses": 2,
+   "hint": " 마보       RE:내비커스 GET! "
+  },
+  {
+   "id": 16833,
+   "src": " ぼるく      バグ?          ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    16
+   ],
+   "uses": 2,
+   "hint": " 보루쿠      버그?          "
+  },
+  {
+   "id": 16834,
+   "src": " やいと      RE:バグ?       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    17
+   ],
+   "uses": 2,
+   "hint": " 야이토      RE:버그?       "
+  },
+  {
+   "id": 16835,
+   "src": " ゴウ       くろいナビ        ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    18
+   ],
+   "uses": 2,
+   "hint": " 고우       검은 내비        "
+  },
+  {
+   "id": 16836,
+   "src": " ゾノサン     RE:くろいナビ     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    19
+   ],
+   "uses": 2,
+   "hint": " 조노 씨     RE:검은 내비     "
+  },
+  {
+   "id": 16837,
+   "src": " ゴウ       そのご・・・       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    20
+   ],
+   "uses": 2,
+   "hint": " 고우       그 후...       "
+  },
+  {
+   "id": 16838,
+   "src": " サキ       大会!          ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    21
+   ],
+   "uses": 2,
+   "hint": " 사키       대회!          "
+  },
+  {
+   "id": 16839,
+   "src": " かんりにんデカオ RE:大会!       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    22
+   ],
+   "uses": 2,
+   "hint": " 관리인 데카오  RE:대회!       "
+  },
+  {
+   "id": 16840,
+   "src": " メイル      RE:大会!       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    23
+   ],
+   "uses": 2,
+   "hint": " 메일       RE:대회!       "
+  },
+  {
+   "id": 16841,
+   "src": " ベルツさん    バリアブルソード     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    24
+   ],
+   "uses": 2,
+   "hint": " 베르츠 씨    배리어블소드       "
+  },
+  {
+   "id": 16842,
+   "src": " ニコ       クモのたおし方      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    25
+   ],
+   "uses": 2,
+   "hint": " 니코       거미 잡는 법      "
+  },
+  {
+   "id": 16843,
+   "src": " リュウジ     RE:クモのたおし方   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    26
+   ],
+   "uses": 2,
+   "hint": " 류지       RE:거미 잡는 법   "
+  },
+  {
+   "id": 16844,
+   "src": " うるふ      つうしんたいせんで    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    27
+   ],
+   "uses": 2,
+   "hint": " 우루후      통신대전에서       "
+  },
+  {
+   "id": 16845,
+   "src": " コーエツにいさん RE:つうしんたいせんで ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E5E70",
+    28
+   ],
+   "uses": 2,
+   "hint": " 코에츠 형    RE:통신대전에서    "
+  }
+ ]
+}

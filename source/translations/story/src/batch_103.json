@@ -1,0 +1,2296 @@
+{
+ "batch": 103,
+ "items": [
+  {
+   "id": 17322,
+   "src": "シャドーマンは、\n「ハート」\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17323,
+   "src": "シャドーマンのHPが\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17324,
+   "src": "シャドーマンは、\n「オーダーポイント」\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17325,
+   "src": "シャドーマンは、\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    73
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17326,
+   "src": "シャドーマンは、\n「バグのかけら」\nを ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    74
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17327,
+   "src": "シャドーマンは、バトルチップ\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17328,
+   "src": "シャドーマンのHPが\nかんぜんにかいふくした!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    78
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17329,
+   "src": "グッ",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    80
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17330,
+   "src": "シャドーマンは、\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    80
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17331,
+   "src": "シャドーマンは、\nマヒした・・・!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    81
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17332,
+   "src": "シャドーマンは、\nかいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    85
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17333,
+   "src": "シャドーマンは、\nマヒから かいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    86
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17334,
+   "src": "シャドーマンは、\nマヒして うごけない!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    87
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17335,
+   "src": "やられるとは なんたるフカク\nからだが うごかぬ・・・",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17336,
+   "src": "シャドーマンは\nこうどうふのうに\nなってしまった!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17337,
+   "src": "でなおし いたす\nてったい!",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    91
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17338,
+   "src": "てったいするのか・・・?\\n",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    92
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17339,
+   "src": "にんむかんりょう!\nボスをデリートいたした!",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF158",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17340,
+   "src": "では、いきますよ!\nパネルリベレート!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17341,
+   "src": "フフフ!\nリベレートせいこうです!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17342,
+   "src": "や・・・やった!\n1ターンリベレートです!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17343,
+   "src": "す、すみません・・・\nリベレートしっぱいです・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17344,
+   "src": "ボーナスパネルです!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17345,
+   "src": "ツインリベレートです!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17346,
+   "src": "やった!\nツインリベレートせいこうです!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17347,
+   "src": "ツインリベレート\nじゅんびOKです!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17348,
+   "src": "このはんいないのアイテムと\nトラップをかいじょしますか?\n",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17349,
+   "src": "よし、ナンバーマン!\nオーダーポイントをつかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17350,
+   "src": "はい! それではいきます!\nナンバーチェック!!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17351,
+   "src": "トラップのあるパネルをハッケン!\nかいじょします!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17352,
+   "src": "アイテムのあるパネルをハッケン!\nゲットします!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17353,
+   "src": "なにも見つけることが\nできませんでした・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17354,
+   "src": "ここは やすんで\nHPかいふくに つとめますか?\n",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17355,
+   "src": "なにもせずに\nおわるのですか?\n",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17356,
+   "src": "ハート\nを はっけんしました!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17357,
+   "src": "ナンバーマンは、\n「ハート」\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17358,
+   "src": "ナンバーマンのHPが\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17359,
+   "src": "オーダーポイント\nを はっけんしました!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17360,
+   "src": "ナンバーマンは、\n「オーダーポイント」\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17361,
+   "src": "ゼニー\nを はっけんしました!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    73
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17362,
+   "src": "ナンバーマンは、\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    73
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17363,
+   "src": "バグのかけら\nを はっけんしました!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    74
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17364,
+   "src": "ナンバーマンは、\n「バグのかけら」\nを ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    74
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17365,
+   "src": "バトルチップ\nを はっけんしました!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17366,
+   "src": "ナンバーマンは、バトルチップ\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17367,
+   "src": "ナンバーマンのHPが\nかんぜんにかいふくした!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    78
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17368,
+   "src": "ウワー!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    80
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17369,
+   "src": "ナンバーマンは、\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    80
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17370,
+   "src": "ナンバーマンは、\nマヒした・・・!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    81
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17371,
+   "src": "フ~、やっとうごけそうです!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    85
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17372,
+   "src": "ナンバーマンは、\nかいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    85
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17373,
+   "src": "ナンバーマンは、\nマヒから かいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    86
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17375,
+   "src": "ナンバーマンは、\nマヒして うごけない!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    87
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17376,
+   "src": "や・・・やられてしまいました\nからだが うごきません・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17377,
+   "src": "ナンバーマンは\nこうどうふのうに\nなってしまった!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17378,
+   "src": "ここは でなおすとしますか\nてったいです!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    91
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17379,
+   "src": "てったいするのですか?\\n",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    92
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17380,
+   "src": "や、やりました!\nボスをたおしましたよっ!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EF788",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17381,
+   "src": "ウララァー!\nパネルリベレートせいこうだぜ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17382,
+   "src": "ウララララァァァァ!\n1ターンリベレートだぜ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17383,
+   "src": "なんてこったい!\nリベレートしっぱいだ・・・",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17384,
+   "src": "このあたりいったいを\nぶったぎるのか?\n",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17385,
+   "src": "よし、トマホークマン!\nオーダーポイントをつかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17386,
+   "src": "おうよ! いくぜ!\nトマホークスイング!!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17387,
+   "src": "なにもせずに やすんで\nHPをかいふくするか?\n",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17388,
+   "src": "ウララー!\nハート\nを はっけんしたぜ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17389,
+   "src": "トマホークマンは、\n「ハート」\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17390,
+   "src": "トマホークマンのHPが\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17391,
+   "src": "ウララー!\nオーダーポイント\nを はっけんしたよ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17392,
+   "src": "トマホークマンは、\n「オーダーポイント」\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17393,
+   "src": "ウララー!\nゼニー\nを はっけんしたぜ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    73
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17394,
+   "src": "トマホークマンは、\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    73
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17395,
+   "src": "ウララー!\nバグのかけら\nを はっけんしたぜ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    74
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17396,
+   "src": "トマホークマンは、\n「バグのかけら」\nを ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    74
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17397,
+   "src": "ウララー!\nバトルチップ\nを はっけんしたぜ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17398,
+   "src": "トマホークマンは、バトルチップ\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17399,
+   "src": "トマホークマンのHPが\nかんぜんにかいふくした!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    78
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17400,
+   "src": "ぐぁっ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    80
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17401,
+   "src": "トマホークマンは、\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    80
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17402,
+   "src": "トマホークマンは、\nマヒした・・・!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    81
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17403,
+   "src": "ウララー!\nなんとか うごけそうだぜ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    85
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17404,
+   "src": "トマホークマンは、\nかいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    85
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17405,
+   "src": "トマホークマンは、\nマヒから かいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    86
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17406,
+   "src": "トマホークマンは、\nマヒして うごけない!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    87
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17407,
+   "src": "トマホークマンは\nこうどうふのうに\nなってしまった!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17408,
+   "src": "また でなおしてくるか\nてったい!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17409,
+   "src": "なんだ?\nてったいするのか?\n",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    92
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17410,
+   "src": "ここはひくとするか\nてったい!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    93
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17411,
+   "src": "ウララララァァァァ!\nボスをたおしたぜ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07EFE64",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17412,
+   "src": "では、まいる!\nパネルリベレート!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17413,
+   "src": "ウム!\nリベレートせいこうなり!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17414,
+   "src": "1ターンリベレートなり!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17415,
+   "src": "ムム・・・!\nリベレートしっぱいである",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17416,
+   "src": "ボーナスパネルである!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17417,
+   "src": "ツインリベレートせいこうなり!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    6
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17418,
+   "src": "ツインリベレート\nじゅんびかんりょうである!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17419,
+   "src": "なにもせずに からだをやすめ\nHPをかいふくいたすか?\n",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17420,
+   "src": "なにもせずに\nしゅうりょういたすか?\n",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17421,
+   "src": "ハート\nを はっけんしましたぞ!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17422,
+   "src": "ナイトマンは、\n「ハート」\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17423,
+   "src": "ナイトマンのHPが\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17424,
+   "src": "オーダーポイント\nを はっけんしましたぞ!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17425,
+   "src": "ナイトマンは、\n「オーダーポイント」\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17426,
+   "src": "ゼニー\nを はっけんしましたぞ!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    73
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17427,
+   "src": "ナイトマンは、\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    73
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17428,
+   "src": "バグのかけら\nを はっけんしましたぞ!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    74
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17429,
+   "src": "ナイトマンは、\n「バグのかけら」\nを ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    74
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17430,
+   "src": "バトルチップ\nを はっけんしましたぞ!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17431,
+   "src": "ナイトマンは、バトルチップ\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17432,
+   "src": "ナイトマンのHPが\nかんぜんにかいふくした!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    78
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17433,
+   "src": "ムムッ",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    80
+   ],
+   "uses": 6
+  },
+  {
+   "id": 17434,
+   "src": "ナイトマンは、\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    80
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17435,
+   "src": "ナイトマンは、\nマヒした・・・!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    81
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17436,
+   "src": "ナイトマンは、\nかいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    85
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17437,
+   "src": "ナイトマンは、\nマヒから かいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    86
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17438,
+   "src": "ナイトマンは、\nマヒして うごけない!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    87
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17439,
+   "src": "なんたるフカク・・・\nからだが・・・うごかぬ・・・",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17440,
+   "src": "ナイトマンは\nこうどうふのうに\nなってしまった!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17441,
+   "src": "むねんであるが・・・\nここは タイキャクすべし\nてったい!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    91
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17442,
+   "src": "てったい いたすのか?\\n",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    92
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17443,
+   "src": "やりましたぞ!\nボスを デリートいたした!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F04F0",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17444,
+   "src": "がんばるケロ~!\nパネルリベレート!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17445,
+   "src": "ケロロ!\nリベレートせいこうだケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17446,
+   "src": "ケロケロー!\n1ターンリベレートだケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17447,
+   "src": "ケロロ~\nリベレートしっぱいだケロ・・・",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17448,
+   "src": "ボーナスパネルだケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17449,
+   "src": "ツインリベレートだケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17450,
+   "src": "ケロロ!\nツインリベレートせいこうだケロ",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17451,
+   "src": "ケロロ!\n1ターンリベレートだケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17452,
+   "src": "ツインリベレートせいこうケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17453,
+   "src": "ツインリベレート\nじゅんびOKだケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17454,
+   "src": "に うたうケロ?\n(A:けってい B:キャンセル)\n(LRボタン:ナビせんたく)",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17455,
+   "src": "ボクのうたで、",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17456,
+   "src": "を\nおうえんするケロ?\n",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17457,
+   "src": "よし、トードマン!\nオーダーポイントをつかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17458,
+   "src": "ケロー!\nゲンキデルメロディ~\nケロケロ!!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17459,
+   "src": "セーブするケロ~\nOKだケロか?\n",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17460,
+   "src": "すでにある セーブデータに\nうわがき するケロよ?\n",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17461,
+   "src": "セーブに しっぱいしたケロ・・・",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17462,
+   "src": "もう1回 セーブするケロ\nOKでケロ?\n",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17463,
+   "src": "すでにある セーブデータに\nうわがき するケロ?\n",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17464,
+   "src": "セーブかんりょうだケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    57
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17465,
+   "src": "なにもせずに やすんで\nHPをかいふくするケロ?\n",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17466,
+   "src": "なにもしないで\nおわるけどOKだケロ?\n",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17467,
+   "src": "ハート\nを はっけんしたケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17468,
+   "src": "トードマンは、\n「ハート」\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17469,
+   "src": "トードマンのHPが\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17470,
+   "src": "オーダーポイント\nを はっけんしたケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17471,
+   "src": "トードマンは、\n「オーダーポイント」\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17472,
+   "src": "ゼニー\nを はっけんしたケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F0AB8",
+    73
+   ],
+   "uses": 2
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "batch": 132,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 2390,
+   "src": " バグのかけら ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076829C",
+    1
+   ],
+   "uses": 2,
+   "hint": " 버그 조각 "
+  },
+  {
+   "id": 2391,
+   "src": "    HPマックス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076829C",
+    10
+   ],
+   "uses": 2,
+   "hint": "    HP 최대"
+  }
+ ]
+}

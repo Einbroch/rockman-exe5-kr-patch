@@ -1,0 +1,2399 @@
+{
+ "batch": 60,
+ "items": [
+  {
+   "id": 10518,
+   "src": "さて、どこで きがえよっか?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10519,
+   "src": "フフフフ・・・",
+   "speakers": [
+    "Dex",
+    "Regal"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    5
+   ],
+   "uses": 4
+  },
+  {
+   "id": 10520,
+   "src": "かいパンに きがえるといえば\nアレだな!!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10521,
+   "src": "ア、アレって まさか・・・\nあの・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10522,
+   "src": "そう、かいパン きがえじゅつ\nきんだんの ひぎ・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10523,
+   "src": "「パンツやぶり」!!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10524,
+   "src": "熱斗くん、なに?\nその、パ、パンツやぶりって?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10525,
+   "src": "このワザは むかしから\nつたわる きんだんの\nきがえかた なんだ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10526,
+   "src": "まず、ズボンをぬいで、\nパンツのうえに かいパンを\nはくんだ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10527,
+   "src": "そして、かいパンの下の\nパンツを ぬぐ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10528,
+   "src": "これで、いちども\nスッポンポンに なることなく",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10529,
+   "src": "かいパンに\nきがえられるんだ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10530,
+   "src": "けど、それのどこが\nきんだんのひぎ なの?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10531,
+   "src": "そこからは オレがはなそう",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10532,
+   "src": "いいか、このワザは、\n人まえで スッポンポンに\nならなくてすむという",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10533,
+   "src": "大きなメリットとひきかえに\nおそろしいリスクも\nもっているんだ・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10534,
+   "src": "・・・このワザで、\nかいパンの下に はいてる\nパンツをぬぐときはな、",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10535,
+   "src": "かいパンのすそから\n下にはいてるパンツを\nひっぱりだして、",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10536,
+   "src": "かたあしずつ\nぬいでいくんだ・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10537,
+   "src": "そうするためには、\nパンツの ゴムがのびる\nげんかいをこえるほど",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10538,
+   "src": "ひっぱらなきゃ\nならねえ・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10539,
+   "src": "このワザを つかうたび、\nパンツは ミチミチと\nひめいをあげる・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10540,
+   "src": "ここで 気をぬくと、\nげんかいをこえて のばされた\nパンツのゴムは、",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10541,
+   "src": "おとをたてて ひきちぎれる\nだろう・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10542,
+   "src": "さらにヘタを すりゃ・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10543,
+   "src": "あぁ、コレいじょうは\nおそろしくていえねえ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10544,
+   "src": "ひぃっ、デカオ、\nもうやめてくれ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10545,
+   "src": "なに、くだらないコト\nいってるのよ!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10546,
+   "src": "ジャジャーン!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10547,
+   "src": "さぁ、アンタたち、\nすいえいで しょうぶよ!!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10548,
+   "src": "はやく、そこらで\nきがえてらっしゃい!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10549,
+   "src": "熱斗、デカオくん、\nさきに、うみにはいってるね!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10550,
+   "src": "デカオ、オレたちも\nきがえようぜ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10551,
+   "src": "・・・パンツやぶりでな!!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10552,
+   "src": "・・・ビリッ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10553,
+   "src": "キャーーーーー!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10554,
+   "src": "やいとのヤツ、たしかに\nすいえいで しょうぶって\nいったよな・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10555,
+   "src": "あぁ、たしかにいった・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10556,
+   "src": "けど、アレは・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10557,
+   "src": "やいとちゃん、\nスゴい、スゴい!!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10558,
+   "src": "どう、コレこそ、\nやいとちゃん せんよう\nジェットうきぶくろのパワーよ!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10559,
+   "src": "このっ! やいと!\nぜったい 見えてるだろ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10560,
+   "src": "エイエイ!!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10561,
+   "src": "右だ! 左だ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10562,
+   "src": "がんばれ やいと!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10563,
+   "src": "おぼえてろよ、熱斗~!!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10564,
+   "src": "キャハハハッ!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10565,
+   "src": "あ~、たのしかった~!!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10566,
+   "src": "なにいってるの、メイルちゃん\nワタシたちの バカンスは\nまだまだ これからよ!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10567,
+   "src": "グゥ~・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10568,
+   "src": "・・・けど、そのまえに\nハラごしらえ しなくちゃね・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10569,
+   "src": "ハラごしらえか・・・\nだったら、オレたちが\nサカナでも つってきてやるよ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10570,
+   "src": "熱斗、オレさまと つりで\nしょうぶだ!!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10571,
+   "src": "けど、つりったって、\nどうぐも なにもないじゃん",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10572,
+   "src": "なにいってんだよ、",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10573,
+   "src": "つりなんて、\nサオと いと と ハリ、\nあと、エサがあればいいんだ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10574,
+   "src": "このへんを さがせば\nすぐに 見つかるぜ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10575,
+   "src": "しょうぶは どっちが\nたくさん サカナをつるかだ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10576,
+   "src": "やいと と メイルは\nここでまっててくれ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10577,
+   "src": "それじゃあ、ひとあしさきに\nいかせてもらうぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10578,
+   "src": "ったく、げんきなヤツだな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10579,
+   "src": "炎山くんからの\nしれいメールだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10580,
+   "src": "ここは、メイルちゃんたちが\nいるから、ちょっと はなれた\nところでよもう",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    41
+   ],
+   "uses": 4
+  },
+  {
+   "id": 10581,
+   "src": "バレルさんからの\nしれいメールだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10583,
+   "src": "さぁて、オレも つりどうぐを\nさがしに行こうかなぁ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10584,
+   "src": "あんまり きたいしないで\nまってるわね",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10585,
+   "src": "気をつけてね!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10586,
+   "src": "それじゃあ、\nちょっと行ってくるぜ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B4ACC",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10587,
+   "src": "このさきが、\nつぎに かいほうするエリアだ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10588,
+   "src": "このさきが、\nつぎの ミッションのぶたいだ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10589,
+   "src": "ネビュラのヤツらも\nそうカンタンに せめさせては\nくれなさそうだな・・・",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10590,
+   "src": "ぜんかいの ミッションで\nネビュラも けいかいを\nつよめたようだな・・・",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10591,
+   "src": "このみち いがいに\nおくにすすむルートは ないな",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10592,
+   "src": "ロックマン、行くぞ・・・",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10593,
+   "src": "このみち いがいに\nおくにすすむルートは ない",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10594,
+   "src": "われわれがとる\nこうどうは1つ・・・",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10595,
+   "src": "ぜんしんあるのみだ!",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10597,
+   "src": "ゴーッ!!",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10598,
+   "src": "す、すさまじい 攻撃だ!\nまったくまえにすすめない!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    11
+   ],
+   "uses": 4
+  },
+  {
+   "id": 10599,
+   "src": "ここを とっぱするには、\nあの だんまくを\nガードしなくては・・・",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10600,
+   "src": "しかし、オレのシールドでも\nおさえきれない あの だんまくを\nどうやって とっぱするか・・・",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10601,
+   "src": "いったん でなおしだ\nオレは さくせんを\nたてなおす・・・",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10602,
+   "src": "プラグアウトするぞ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10603,
+   "src": "ここを とっぱするには、\nあの だんまくを\nガードするひつようがあるな・・・",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10604,
+   "src": "だが、ワタシでも\nさばききれない あの だんまく\nどうやってガードするか・・・",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10605,
+   "src": "ここは いったん ひいたほうが\nけんめいだな・・・",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10607,
+   "src": "あの だんまくを\nどうにかしないと、",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10608,
+   "src": "ミッションかいしは\nむずかしいね・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10609,
+   "src": "ボクたちも プラグアウトしよう\nデカオくんとの つりたいけつの\nとちゅうだったしね",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10610,
+   "src": "そうだな、今ここで\nゴチャゴチャなやんでも、\nしかたないしな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10611,
+   "src": "よし、プラグアウトして\nつりどうぐを さがすか!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10612,
+   "src": "そのうち、いいアイデアも\nうかぶかもしれないしな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B51B0",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10613,
+   "src": "このへんで いいかな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10614,
+   "src": "でっかいのを つるぜ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10615,
+   "src": "熱斗くん、がんばってね!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10616,
+   "src": "10分後・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 10617,
+   "src": "かぁ~っ、\nぜんっぜん つれないな~",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10618,
+   "src": "なにいってるの、熱斗くん\nそんなにすぐに つれるワケ\nないじゃない",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10619,
+   "src": "のんびり、気ながにまとうよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10620,
+   "src": "まってるだけなんて、\nタイクツだなぁ~",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10621,
+   "src": "やっぱ、オレに\nむいてないんだよ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10622,
+   "src": "おぅ! またつれちゃったぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10623,
+   "src": "5ひき目ゲットだぜ~~!!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10624,
+   "src": "デカオのヤツ、わざと\nきこえるように いいやがってー!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10625,
+   "src": "ぜったい まけられねえっ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10626,
+   "src": "そのいきだよ、熱斗くん!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10627,
+   "src": "カーーッ!!\nぜんっぜん つれねぇ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10628,
+   "src": "ひゃっほー!\n12ひき目ゲットーッ!!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10629,
+   "src": "なんで、デカオだけつれて\nオレは ボウズなんだよ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10630,
+   "src": "まぁまぁ 熱斗くん、\nそんなにイライラしないで\nそのうちアタリは くるよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10631,
+   "src": "アタリなんて、いっかいも・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10632,
+   "src": "・・・?\nん? なんか・・・ひいてる?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10633,
+   "src": "き、き、き、きたっ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10634,
+   "src": "コイツは デカイぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10635,
+   "src": "熱斗くん、ひっぱれ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10636,
+   "src": "うぉーーーーっ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10637,
+   "src": "スゴいひきだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10638,
+   "src": "がんばれ、熱斗くん!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10639,
+   "src": "ふんがーーーーっ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10640,
+   "src": "あ・あ・が・が・が・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10641,
+   "src": "つりのがした サカナは\n大きいっていうけど・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10642,
+   "src": "あ、あぁ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    23
+   ],
+   "uses": 4
+  },
+  {
+   "id": 10643,
+   "src": "ホントだって!\nすっごくデカかったんだって!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10644,
+   "src": "でっかいワカメの\n見まちがいじゃないのか?",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10645,
+   "src": "とにかく、しょうぶは\nおまえの まけだ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10646,
+   "src": "これから、オレさまが\nつったサカナを たべるから\nおまえは 火をおこせ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10647,
+   "src": "えーーーっ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10648,
+   "src": "えーじゃない!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10649,
+   "src": "おまえは まけたんだ\nしょうしゃに したがうのは\nあたりまえだろ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10650,
+   "src": "ライターは もってきてるから、\nあとは、もやすモノがいる",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10651,
+   "src": "かれくさ と、かれえだ と、\nあと、かんそうした 木のいた を\nさがしてきな!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10652,
+   "src": "ちぇーっ、\n行ってくりゃいいんだろ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10653,
+   "src": "ワ! じしんか?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10654,
+   "src": "きっと、カミサマが\nはやく たきぎを\nとってこいって いってるのよ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10655,
+   "src": "熱斗、がんばってねー!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10656,
+   "src": "ガハハー! まってるぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10657,
+   "src": "ちぇ~・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B548C",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10658,
+   "src": "ホラよ、あつめてきたぜ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10659,
+   "src": "おー、でかした でかした!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10660,
+   "src": "それじゃ、サカナをたべるぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10661,
+   "src": "ふぅ、くったくった!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10662,
+   "src": "じぶんが つったサカナだと\nうまさも ばいぞうだぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10663,
+   "src": "なぁ、みんな!",
+   "speakers": [
+    "Dex",
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 10664,
+   "src": "ちょうみりょうを\nつかわなかったのに、\nすごくおいしかった!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10665,
+   "src": "これが しぜんのあじ\nなんだね!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10666,
+   "src": "いちりゅうの りょうりにんが\nつくる りょうりも\nおいしいけど、",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10667,
+   "src": "たまには こういう\nそぼくな あじわいも\nいいものね!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10668,
+   "src": "くっそー、あのときの\nサカナを つりあげていたらなぁ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10669,
+   "src": "さぁて、ハラも\nふくれたことだし、",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 10670,
+   "src": "むじんとう たんけんに\nでかけるとしようぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07B5894",
+    6
+   ],
+   "uses": 2
+  }
+ ]
+}

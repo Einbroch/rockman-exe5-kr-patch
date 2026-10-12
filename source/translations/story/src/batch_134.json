@@ -1,0 +1,290 @@
+{
+ "batch": 134,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 2978,
+   "src": "カスタム1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    2
+   ],
+   "uses": 2,
+   "hint": "커스텀1"
+  },
+  {
+   "id": 2979,
+   "src": "カスタム2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    3
+   ],
+   "uses": 2,
+   "hint": "커스텀2"
+  },
+  {
+   "id": 2980,
+   "src": "メガフォルダ1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    4
+   ],
+   "uses": 2,
+   "hint": "메가폴더1"
+  },
+  {
+   "id": 2981,
+   "src": "メガフォルダ2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    5
+   ],
+   "uses": 2,
+   "hint": "메가폴더2"
+  },
+  {
+   "id": 2982,
+   "src": "ギガフォルダ1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    6
+   ],
+   "uses": 2,
+   "hint": "기가폴더1"
+  },
+  {
+   "id": 2983,
+   "src": "ファーストバリア",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    7
+   ],
+   "uses": 2,
+   "hint": "퍼스트배리어"
+  },
+  {
+   "id": 2984,
+   "src": "リフレクト",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    9
+   ],
+   "uses": 2,
+   "hint": "리플렉트"
+  },
+  {
+   "id": 2985,
+   "src": "カワリミマジック",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    10
+   ],
+   "uses": 2,
+   "hint": "바꿔치기매직"
+  },
+  {
+   "id": 2986,
+   "src": "バスターパック",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    25
+   ],
+   "uses": 2,
+   "hint": "버스터팩"
+  },
+  {
+   "id": 2987,
+   "src": "ボディパック",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    26
+   ],
+   "uses": 2,
+   "hint": "바디팩"
+  },
+  {
+   "id": 2988,
+   "src": "サイトバッチ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    27
+   ],
+   "uses": 2,
+   "hint": "사이트배지"
+  },
+  {
+   "id": 2989,
+   "src": "ギガウイルス",
+   "speakers": [],
+   "windows": [
+    "none",
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    34
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2990,
+   "src": "アタック+1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    35
+   ],
+   "uses": 2,
+   "hint": "어택+1"
+  },
+  {
+   "id": 2991,
+   "src": "ラピッド+1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    36
+   ],
+   "uses": 2,
+   "hint": "래피드+1"
+  },
+  {
+   "id": 2992,
+   "src": "チャージ+1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    37
+   ],
+   "uses": 2,
+   "hint": "차지+1"
+  },
+  {
+   "id": 2993,
+   "src": "ソウルタイム+1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2994,
+   "src": "アタックMAX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    39
+   ],
+   "uses": 2,
+   "hint": "어택MAX"
+  },
+  {
+   "id": 2995,
+   "src": "ラピッドMAX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    40
+   ],
+   "uses": 2,
+   "hint": "래피드MAX"
+  },
+  {
+   "id": 2996,
+   "src": "チャージMAX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E748",
+    41
+   ],
+   "uses": 2,
+   "hint": "차지MAX"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "batch": 117,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 625,
+   "src": "HPを50かいふく!",
+   "speakers": [],
+   "windows": [
+    "none",
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    0
+   ],
+   "uses": 4,
+   "hint": "HP를 50 회복!"
+  },
+  {
+   "id": 626,
+   "src": "HPをマックスまで\nかいふく!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    1
+   ],
+   "uses": 2,
+   "hint": "HP를 최대까지\n회복!"
+  },
+  {
+   "id": 627,
+   "src": "しばらくのあいだ\nよわいウイルスと\nであわなくなる",
+   "speakers": [],
+   "windows": [
+    "none",
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    2
+   ],
+   "uses": 4,
+   "hint": "잠시 동안\n약한 바이러스와\n마주치지 않는다"
+  },
+  {
+   "id": 628,
+   "src": "ミステリーデータに\nかかったワナをはずす",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    3
+   ],
+   "uses": 2,
+   "hint": "미스터리 데이터에\n걸린 함정을 푼다"
+  },
+  {
+   "id": 629,
+   "src": "ちょくぜんに であった\nテキと、もういちど\nであいやすくなる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    4
+   ],
+   "uses": 2,
+   "hint": "바로 전에 만난\n적과 다시\n만나기 쉬워진다"
+  },
+  {
+   "id": 630,
+   "src": "セキュリティのかかった\nミステリーデータを\nかいせきする",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    5
+   ],
+   "uses": 2,
+   "hint": "보안이 걸린\n미스터리 데이터를\n해석한다"
+  }
+ ]
+}

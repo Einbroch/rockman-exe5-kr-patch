@@ -1,0 +1,412 @@
+{
+ "batch": 137,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 16109,
+   "src": " かんりにんデカオ ごあいさつだぜ!     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16110,
+   "src": " やいと      オメデト!        ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16111,
+   "src": " かんりにんデカオ チャンプルはまかせろ  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16112,
+   "src": " ガッツマン    ガッツマンでガッツ    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16113,
+   "src": " グライド     さすがはデカオさん    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16114,
+   "src": " メイル      きょうのしゅくだい    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16115,
+   "src": " コーエツにいさん RE:きょうのしゅくだい ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16116,
+   "src": " ちゃっかん    ないしょのうわさ     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16117,
+   "src": " かんりにんデカオ RE:ないしょのうわさ  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16118,
+   "src": " ちゃっかん    ありがとー        ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16119,
+   "src": " ユウ       なぞのミステリーデータ  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16120,
+   "src": " もずくず     レギュラーチップ     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16121,
+   "src": " コーエツにいさん RE:レギュラーチップ  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16122,
+   "src": " ひろひろ     ナビカスGET!     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16123,
+   "src": " リックん     RE:ナビカスGET!  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16124,
+   "src": " トキタダ     ナビカスのつかいかた   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16125,
+   "src": " コーエツにいさん RE:ナビカスのつかいかた",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16126,
+   "src": " コーチス     バグ!?         ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16127,
+   "src": " イノッペ     これもバグ?      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16128,
+   "src": " コーエツにいさん それはダークチップ    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16129,
+   "src": " うるふ      RE:それはダークチップ ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16130,
+   "src": " ともすけ     それはヤバイ!      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16131,
+   "src": " ヌッキー     せんすいかんウイルス   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16132,
+   "src": " ナナコ      RE:せんすいかんウイルス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16133,
+   "src": " ザッキー     カウンターをとれ!    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16134,
+   "src": " ムッカイ     つじぎりじけん!     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16135,
+   "src": " モサシ      RE:つじぎりじけん!  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16136,
+   "src": " BBS0  1B つうしんたいせんで    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    27
+   ],
+   "uses": 4
+  },
+  {
+   "id": 16137,
+   "src": " BBS0  1B RE:つうしんたいせんで ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E1558",
+    28
+   ],
+   "uses": 4
+  }
+ ]
+}

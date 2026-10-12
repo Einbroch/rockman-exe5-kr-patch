@@ -1,0 +1,48 @@
+{
+ "batch": 123,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 1198,
+   "src": "てるひろ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07086DC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1199,
+   "src": "こうへい",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07086DC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1200,
+   "src": "しょうぶしよーぜ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07086DC",
+    12
+   ],
+   "uses": 2
+  }
+ ]
+}

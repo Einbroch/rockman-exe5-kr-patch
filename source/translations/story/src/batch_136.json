@@ -1,0 +1,90 @@
+{
+ "batch": 136,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 16060,
+   "src": "ひらがな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16061,
+   "src": "カタカナ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16062,
+   "src": "すすむ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16063,
+   "src": "もどる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16064,
+   "src": "けってい",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    54
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16065,
+   "src": "ちゅうし",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    55
+   ],
+   "uses": 2
+  }
+ ]
+}

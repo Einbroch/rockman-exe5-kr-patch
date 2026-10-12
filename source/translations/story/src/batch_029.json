@@ -1,0 +1,2427 @@
+{
+ "batch": 29,
+ "items": [
+  {
+   "id": 5786,
+   "src": "炎山くんなら\nまだ もどらないよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5787,
+   "src": "かれも いそがしいからね",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    15
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5788,
+   "src": "バレルさんなら\nまだ もどらないよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5789,
+   "src": "オラン島エリアのけん、\nそして、科学省エリアのしさつ\nごくろうだったな・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    20
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5790,
+   "src": "科学省エリアから\nオラン島エリアへと\nおせんが ひろがっている",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    24
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5791,
+   "src": "光、インターネットに\nむかってくれ",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    24
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5792,
+   "src": "光熱斗、インターネットに\nむかってくれ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    25
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5793,
+   "src": "伊集院くんなら、\nでて行ったよ・・・",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5794,
+   "src": "どこに 行ったかは\nちょっと わからないな",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    26
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5795,
+   "src": "バレルさんなら、\nでて行ったよ・・・",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5796,
+   "src": "どうした、光・・・\nミッションを はじめるぞ",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5797,
+   "src": "どうした、光熱斗・・・\nミッションを はじめるぞ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5798,
+   "src": "エンドエリアのちょうさ\nたのんだぞ・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    40
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5799,
+   "src": "しょうたいけんを\nさがすんだ・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    45
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5800,
+   "src": "しょうたいけんを\n手にいれたようだな・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    47
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5801,
+   "src": "パーティーは あすだ\n今日は ゆっくりとやすめ",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    47
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5802,
+   "src": "れいの パーティーのけん\nよろしく たのんだぞ・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    50
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5803,
+   "src": "ナパームマンか・・・\nたのもしい なかまが\nはいったな・・・",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5804,
+   "src": "さっそく エンドエリア1へ\nむかってくれ",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    55
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5805,
+   "src": "トマホークマンか・・・\nたのもしい なかまが\nはいったな・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5806,
+   "src": "ミッションを かいしするぞ\nエンドエリア2に ブルースを\nおくりこめ・・・",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    57
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5807,
+   "src": "ミッションを かいしするぞ\nエンドエリア2に カーネルを\nおくりこめ・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F2F8",
+    58
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5808,
+   "src": "カオスユニゾン・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5809,
+   "src": "ボクにそんなチカラが\nくわわっただなんて・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5810,
+   "src": "けど、メールのおくりぬしは\nダレだったんだろう・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5812,
+   "src": "炎山くん、わたしたいものが\nあるって いってたよね?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5813,
+   "src": "バレルさん、わたしたいものが\nあるって いってたよね?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5814,
+   "src": "光、ロックマンの\nふっきいわいだ とっておけ",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5815,
+   "src": "炎山・・・サンキュ-!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5816,
+   "src": "フッ、れいには およばん・・・",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5817,
+   "src": "ロックマンには まだまだ\nがんばってもらわないと\nいけないからな・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    5
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5818,
+   "src": "光熱斗、ロックマンの\nふっきいわいだ とっておけ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5819,
+   "src": "バレルさん・・・サンキュ-!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5820,
+   "src": "れいには およばん・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5821,
+   "src": "もくひょうは エンドエリア4だ\nいそげ・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    7
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5822,
+   "src": "ミッションが\nえんきしたからとはいえ、",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5823,
+   "src": "いつでもでられる\nじゅんびはしておけ",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5824,
+   "src": "伊集院くんなら、\nべっしつで やすんでいるよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5825,
+   "src": "さすがに つかれも\nたまってるだろうしね",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    15
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5826,
+   "src": "バレルさんなら、\nべっしつで やすんでいるよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5827,
+   "src": "なに?\nライカが ネビュラの・・・",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5829,
+   "src": "今日はもう かえって\nやすんでくれ",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    20
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5830,
+   "src": "まさか ライカが・・・\nいったい どういうコトだ?",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5831,
+   "src": "なに?\n日暮が ネビュラの・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5832,
+   "src": "ごくろうだったな・・・\nおまえは、もう かえって\nやすんでくれ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5833,
+   "src": "エンドエリア3にある\nつうしんシステムには",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    24
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5834,
+   "src": "きょうこな セキュリティが\nかけられていて、ネビュラも\nおいそれと 手はだせんはずだが",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    24
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5835,
+   "src": "光、いちど見に行ってきてくれ",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5836,
+   "src": "光熱斗、いちど見に行ってきてくれ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5837,
+   "src": "クッ、シャチホコ城が\nねらわれたか!?",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5838,
+   "src": "オレは インターネットの\nこんらんを おさえる!",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5839,
+   "src": "おまえは シャチホコ城に\nむかえ!!",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5840,
+   "src": "チッ、シャチホコ城が\nねらわれたか・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5841,
+   "src": "オレは インターネットの\nこんらんを おさえる",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5842,
+   "src": "おまえは シャチホコ城に\nむかえ!",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5843,
+   "src": "つぎのミッションは\nエンドエリア5だ・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    35
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5844,
+   "src": "まずは エンドエリア4に\nむかうぞ・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    35
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5845,
+   "src": "すぐに ロックマンを\nおくりこめ・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    35
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5846,
+   "src": "さっそく マグネットマンを\nおくりこまなきゃね",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5847,
+   "src": "さぁ 熱斗、\nエンドエリア4に\nむかいましょう",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5848,
+   "src": "さてさて、おシゴトの時間だぜ\nがんばろうぜ、熱斗",
+   "speakers": [
+    "Charlie"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5849,
+   "src": "くぅ~、ウデがなるぜ!\nはやく エンドエリアに\n行かねえとな!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5850,
+   "src": "エンドエリアって\nけっこう ひろいんだな",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5851,
+   "src": "オレちょっと かんしん\nしちゃったよ・・・",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5852,
+   "src": "行くか",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5853,
+   "src": "が、が、がんばるでマスよ!!\nみんなに いいトコロを\n見せるでマス!!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5854,
+   "src": "パストビジョンには\nなにかあるはず・・・\nたのんだぞ",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5855,
+   "src": "パストビジョンには\nなにかあるはずだ・・・\nたのんだぞ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5856,
+   "src": "イヌが いない・・・\n・・・まさか?",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    62
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5857,
+   "src": "・・・わかった\nちょうさを つづけてくれ",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    62
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5858,
+   "src": "伊集院くんは\nがいしゅつ中だよ",
+   "speakers": [
+    "SciLabYoungMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    65
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5859,
+   "src": "かれも たまには\nいきぬきしないと\nみがもたないんだろうね",
+   "speakers": [
+    "SciLabYoungMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    65
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5860,
+   "src": "バレルさんは\nがいしゅつ中だよ",
+   "speakers": [
+    "SciLabYoungMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5861,
+   "src": "光、ネビュラのヤツらが\nせめてきたぞ!",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5862,
+   "src": "えんごを たのむ!!",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    70
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5863,
+   "src": "光熱斗、ネビュラのヤツらが\nせめてきたぞ!",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    71
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5864,
+   "src": "あらたなる しれい室のけん、\nたのんだぞ・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078F5F4",
+    75
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5866,
+   "src": "このあたりは おいしいサカナが\nつれることで ちょっとゆうめいな\nトコロなのよ!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5867,
+   "src": "なにを つってくれるか\nたのしみね!!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5868,
+   "src": "さぁて、まずはサオだな!\nなにか いいモノないかな・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5869,
+   "src": "どうしたんだ、そんなかおして\nなにか あったのか?",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5870,
+   "src": "さて、つりどうぐ さがしを\nさいかいするか!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    3
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5871,
+   "src": "つりどうぐが そろった\nみたいだな!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5872,
+   "src": "あとは よくつれるポイントを\nさがして つりはじめようぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5873,
+   "src": "ぜったい まけないからな!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5874,
+   "src": "おう、つりどうぐは\n見つかったのか?",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5875,
+   "src": "オレはもう\n見つけちゃったぜ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5876,
+   "src": "おまえも はやく\nさがしてこいよな!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5877,
+   "src": "さて、オレは どこで\nつろうかな・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5878,
+   "src": "デカオくんは つりのどうぐを\nぜんぶあつめたんだって\n熱斗も がんばってね!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5879,
+   "src": "はやく ワタシたちに\nごくじょうの うみのさちを\nゴチソウしてよね!!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5880,
+   "src": "ホラホラ、しょうぶに\nまけたんだから、\nたき火のよういをしてきな!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5881,
+   "src": "とりあえず そうだな・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5882,
+   "src": "いた、かれくさ、かれえだが\nあれば、ちゃんとした たき火が\nできるぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5883,
+   "src": "いそいでくれよ、サカナは\nしんせんさが イノチだからな!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5884,
+   "src": "熱斗のつった サカナ、\n見てみたかったな!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5885,
+   "src": "つったばかりの サカナを\nたき火で まるやき・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5886,
+   "src": "げんしてきだけど、\nそざいの あじわいを\nたんのうするには サイコーね",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5887,
+   "src": "熱斗くん、ドコ行くの!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5888,
+   "src": "さぁ、熱斗くん\nデカオくんたちのあとを\nおおうよ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5889,
+   "src": "はやく 行きましょうよ\nいそいでるんでしょ!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5890,
+   "src": "さ、はやく 行きましょう",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FBE8",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5891,
+   "src": "うーん!\nうみって、ひろくていいわね!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5892,
+   "src": "こうやって しおかぜに\nふかれていると\nキブンがさっぱりするわ!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5893,
+   "src": "この島は しぜんがおおくて\nいいところですわね",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5894,
+   "src": "クリームランドを\nおもいだしますわ",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5895,
+   "src": "えっ、オラン島エリアに\nネビュラのざんとうが?",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5896,
+   "src": "まいったわね・・・\n今、マグネットマンは\nメンテナンス中なのよね・・・",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5897,
+   "src": "・・・オラン島エリアに\nネビュラのざんとうが?",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5898,
+   "src": "こまりましたわ・・・\n今、ナイトマンは\nメンテナンス中ですの・・・",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5899,
+   "src": "ミッションは まだかしら\nマグネットマンは\nいつでも いけるわよ",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5900,
+   "src": "メンテナンスが おわりましたわ\nナイトマンは\nいつでも いけますわよ",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5901,
+   "src": "アラ、熱斗くんじゃないの\nどうしたのよ?",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5902,
+   "src": "あ、あのさ テスラさんのトコに\nクィーン・チェーコごうで\nかいさいされる",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5903,
+   "src": "パーティーの\nしょうたいけんって\nきてない?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5904,
+   "src": "しょうたいけん?\n・・・あぁ、なんか きてたわね",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5905,
+   "src": "もし よかったら\nゆずってほしいんだけど・・・\n・・・ダメ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5906,
+   "src": "・・・べつに かまわないわよ",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5907,
+   "src": "けど、パーティーなんかにでて\nなにを するつもりよ",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5908,
+   "src": "もしかして、デート!?",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5909,
+   "src": "ちがうよ、シゴトだよシゴト!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5910,
+   "src": "シゴトねぇ・・・\nアナタも タイヘンね",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5911,
+   "src": "まぁ、おいしいものでもたべて\nたのしく シゴトしてらっしゃいよ",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5912,
+   "src": "サンキュー!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5913,
+   "src": "けど、テスラさん\nパーティーに でなくても\nだいじょうぶなの?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5914,
+   "src": "ま、そのていどの パーティーなら\nしょっちゅうでてるからね",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5915,
+   "src": "そんなコトより、\nたのしい シゴトに\nなればいいわね",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5916,
+   "src": "それじゃ、そろそろ行くよ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    40
+   ],
+   "uses": 4
+  },
+  {
+   "id": 5917,
+   "src": "がんばってね!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5918,
+   "src": "アラ、熱斗ではありませんか\nどうされたのですか?",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5919,
+   "src": "あ、あのさ プライドのトコに\nクィーン・チェーコごうで\nかいさいされる",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5920,
+   "src": "しょうたいけん?",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5921,
+   "src": "・・・あっ、\nたしか きてましたわ",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5922,
+   "src": "・・・かまわないですわよ",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5923,
+   "src": "けど、パーティーなんかにでて\nなにを するつもりですの?",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5924,
+   "src": "シゴトだよ シゴト",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5925,
+   "src": "おシゴトですか・・・\n熱斗も タイヘンですね",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5926,
+   "src": "なにも おきないことを\nいのっていますわ",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5927,
+   "src": "けど、プライド\nパーティーに でなくても\nだいじょうぶなの?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5928,
+   "src": "ワタクシ、あまりパーティーは\nすきじゃないの",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5929,
+   "src": "そんなコトより、\nたのしい おシゴトに\nなればいいですね・・・",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5930,
+   "src": "おシゴト がんばってくださいね",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5931,
+   "src": "今日は パーティーの日ね\nま、たのしんでらっしゃいよね",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5932,
+   "src": "今日は パーティーの日ですわね\nおシゴト がんばってくださいね",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5933,
+   "src": "いよいよ ミッションかいしね?",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5934,
+   "src": "つぎは、エンドエリア2・・・\nわかったわ",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5935,
+   "src": "いよいよ ミッションかいし\nですわね?",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5936,
+   "src": "つぎは、エンドエリア2・・・\nわかりましたわ",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078FF1C",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5937,
+   "src": "今日は マグネットマンと\nゆっくりするわ\nあしたに そなえておかないとね",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0790370",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5938,
+   "src": "あすのミッションに\nそなえて ナイトマンを\nやすめておきますわ",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0790370",
+    6
+   ],
+   "uses": 2
+  }
+ ]
+}

@@ -101,6 +101,10 @@
   SIL Open Font License 1.1. 라이선스 전문은 `LICENSE-Galmuri.txt` 에 있습니다.
 - 타이틀 로고 부제: **에스코어 드림**(S-Core Dream 9). 라이선스는 `LICENSE-SCoreDream.png` 를 보세요.
 
+## 작업 소스
+
+패치를 만든 빌드·검증 도구와 한국어 번역 파일은 [`source/`](source/) 폴더에 있습니다(ROM 미포함).
+
 ## 저작권
 
 록맨 에그제 5 는 CAPCOM 의 저작물입니다. 이 패치는 비공식 팬 번역이며 원본 ROM 을 포함하지 않습니다.

@@ -1,0 +1,2434 @@
+{
+ "batch": 106,
+ "items": [
+  {
+   "id": 17774,
+   "src": "ガンガンぶっぱなすぜ、\nあたんねえように気をつけな",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17775,
+   "src": "こりゃ、ぶっそうなナビだねぇ、\nま、ヨロシクな!",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17776,
+   "src": "で、このエリアをしはいしてる\nワルモノは どんなヤツなわけ?",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17777,
+   "src": "そうだな、きょうてきであることは\nまちがいないな・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    6
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17778,
+   "src": "ほほぉ、アンタがそこまでいう\nあいてかい、どれどれ・・・",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17779,
+   "src": "ククク、\nようやくそろったようだな、\nこしぬけチームどもが",
+   "speakers": [
+    "DarkMegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    8
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17780,
+   "src": "ア、アララ・・・?",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17781,
+   "src": "ずいぶん ふんいき\nかわっちゃってるけど・・・",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17782,
+   "src": "そうだ、やつをデリートしなければ\nこのエリアを かいほうする\nことはできない",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17783,
+   "src": "かくじ、作戦に ふひつような\nかんじょうを もたぬように\nちゅういするんだぞ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17784,
+   "src": "あ、ああ・・・",
+   "speakers": [
+    "GyroMan",
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    11
+   ],
+   "uses": 6
+  },
+  {
+   "id": 17785,
+   "src": "では、このエリアのもうひとつの\nもんだいてんだが・・・あれをみろ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17786,
+   "src": "見てのとおりダークパネルの数が\nひじょうに おおいうえに\nアイテムのパネルがすくない",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17787,
+   "src": "そりゃ オーダーポイントが\nたりなくなっちまいそうだな",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17788,
+   "src": "そう つまり\n少ない オーダーポイントで",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    15
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17789,
+   "src": "こうはんいの パネルを\nリベレートしなければ\nならないわけだな",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    15
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17790,
+   "src": "こうはんいリベレートならオレの\nナパームボムがやくに立つな",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17791,
+   "src": "ただ、はかい力がありすぎて\n中にはいってるアイテムまで\nこわしちまうぜ",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17792,
+   "src": "バリアのかいじょキーだけは\nがんじょうそうだから\nだいじょうぶだとおもうがな",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17793,
+   "src": "フ、きいたか、光",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17794,
+   "src": "・・・しんぱいするな",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    19
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17795,
+   "src": "かのうなかぎり\nデリートせずにロックマンを\nだっかんするようにつとめる",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    19
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17796,
+   "src": "しかし、さいあくの かのうせいは\nかくごしておくようにな・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    19
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17797,
+   "src": "・・・わかった、\n・・・さあ、いくぜブルース!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17798,
+   "src": "ウム!\nもくひょうリベレートは\n10フェイズいないとする",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17799,
+   "src": "またせたな・・・\nべつのいらいが\nながびいて しまってな・・・",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17800,
+   "src": "きたな、\nさっそくしょうかいする、\n攻撃たんとうのトマホークマンだ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17801,
+   "src": "へへ あばれさせてもらうぜ!\nオレのトマホークスイングに\nあたらないように 気をつけな",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17802,
+   "src": "ムム・・・\nわかいながらも\nかなりのパワーを もっておる",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17803,
+   "src": "して カーネル\nこたびの ターゲットは\nいかなる あいてか?",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17804,
+   "src": "おぬしが そこまでいうとは・・・\nどこの手のものか・・・?",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17805,
+   "src": "ヌッ・・・!\nあれは・・・ロックマン",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17806,
+   "src": "・・・そういうことでござったか",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17807,
+   "src": "・・・しょうち!",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17808,
+   "src": "では、このエリアのもうひとつの\nもんだいてんだが・・・あれを見ろ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17809,
+   "src": "オーダーポイントぶそくが\nしんぱいであるな・・・",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17810,
+   "src": "お、そいつぁ まさに\nオレのトマホークスイングの\nでばんだな!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17811,
+   "src": "いっきに 6マスはんいを\nぶったぎって リベレートできるぜ",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17812,
+   "src": "ただ、はかい力がありすぎて\n中にはいってるアイテムまで\nこわしちまうけどな",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17813,
+   "src": "バリアのかいじょキーだけは\nがんじょうそうだから\nだいじょうぶだとおもうぜ",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17814,
+   "src": "・・・きいたか、光熱斗",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17815,
+   "src": "・・・わかった、\n・・・さあ、いくぜカーネル!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F4DE4",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17816,
+   "src": "へえ、オレさま ナシで\nちゃんとここまで\nたどりつけるとはな",
+   "speakers": [
+    "DarkMegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17817,
+   "src": "そうだ、ロックマン!\nオレのこえがきこえるか!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17818,
+   "src": "クク、むだむだ!\nこのからだは やみのこころに\nしはいされている",
+   "speakers": [
+    "DarkMegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17819,
+   "src": "オレをたおしたいなら、\nこのからだごと\nデリートするしかねえぜ",
+   "speakers": [
+    "DarkMegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17820,
+   "src": "ロックマーン!\n・・・く、やるしかないのか",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17821,
+   "src": "ロックマン!\nめを さますんだ!",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17822,
+   "src": "やむをえん・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    11
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17823,
+   "src": "いくぞ 光熱斗、\nバトルオペレーションだ",
+   "speakers": [
+    "ProtoMan",
+    "NapalmMan",
+    "MagnetMan",
+    "Colonel",
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    11
+   ],
+   "uses": 10
+  },
+  {
+   "id": 17824,
+   "src": "いくぞ!",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    12
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17825,
+   "src": "おい ロックマン!\nめを さませよ!",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17826,
+   "src": "しょうがねえ・・・",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17827,
+   "src": "いくぞ 熱斗、\nバトルオペレーションだ",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17828,
+   "src": "いくぜ!",
+   "speakers": [
+    "GyroMan",
+    "NapalmMan",
+    "MagnetMan",
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    16
+   ],
+   "uses": 8
+  },
+  {
+   "id": 17829,
+   "src": "おい ロックマン!\nめを さましな!",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17830,
+   "src": "しょうがねえ ヤツだな",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17831,
+   "src": "おい ロックマン!\nめを さませ!",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17832,
+   "src": "しょうがないな・・・",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17833,
+   "src": "ロックマン!\nしょうきに もどるのだ!",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17834,
+   "src": "ムム・・・やむをえん",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17835,
+   "src": "光熱斗どの、\nバトルオペレーションでござる",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17836,
+   "src": "おい ロックマン!\nめを さますんだ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17837,
+   "src": "どうしようもねえな・・・",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17838,
+   "src": "ロックマンどの!\nめを さますのだ!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17839,
+   "src": "ヌヌ、しかたあるまい・・・",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17840,
+   "src": "光熱斗どの、\nバトルオペレーションですぞ",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17841,
+   "src": "いざ まいらん!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5724",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17842,
+   "src": "ムッ・・・\nこのエリアのダークパネル・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17843,
+   "src": "きづいたか、\nさすがだなサーチマン",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17844,
+   "src": "リサーチによると、このエリアでは\nダークパネルないに トラップが\nしかけられているらしい",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17845,
+   "src": "むやみにリベレート\nするのはキケンというわけだ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17846,
+   "src": "・・・この けはい!!",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17847,
+   "src": "チーム・オブ・ブルースのしょくん\nようこそ エンドエリア5へ・・・",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17848,
+   "src": "なんだぁ? テメェは",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17849,
+   "src": "ワタシのなは コスモマン、\nあんこくのうちゅうをじざいに\nあやつることをとくいとしてる",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    7
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17850,
+   "src": "キミたちがここまで\nたどりつけるかどうか、\nはいけんさせていただこう",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    7
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17851,
+   "src": "ケッ、えらそうにしてるけど、\nわざわざ じぶんから 手のうちを\n明かすなんて、",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17852,
+   "src": "いがいと\nアタマわるいんじゃねえの?",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17853,
+   "src": "それはじしんのあらわれという\nものだろう、",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17854,
+   "src": "かなりのりきりょうであることは\nまちがいなさそうだ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    9
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17855,
+   "src": "ところで、こんかいも\nバリアパネルが\nいくつも あるみたいだけど",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17856,
+   "src": "トラップだらけの中で\nバリアキーをさがすのは\nたいへんそうだね",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17857,
+   "src": "そういうことになるな・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    11
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17858,
+   "src": "いけそうか? サーチマン",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17859,
+   "src": "ウム\nワタシの サーチリベレートなら\nてきかくにアイテムをみつけ、",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17860,
+   "src": "はなれた いちからでも\nリベレートできる",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17861,
+   "src": "たのもしいな\nそのサーチのうりょく",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17862,
+   "src": "見せてもらうとしよう\n光熱斗、それではいくぞ!",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17863,
+   "src": "もくひょうリベレートは\n9フェイズいないとする\nたのんだぞ!",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17864,
+   "src": "おや・・・\nこのエリアのダークパネル・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17865,
+   "src": "きづいたか、\nさすがだなナンバーマン",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17866,
+   "src": "ムムー、ここのボスは\nずいぶん せいかくが\nわるそうですね・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17867,
+   "src": "おほめにあずかりこうえいだよ、\nチーム・オブ・カーネルのしょくん",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17868,
+   "src": "なんだ オマエは",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17869,
+   "src": "じぶんから さきに なのるとは\nれいぎは しっておるようだな",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17870,
+   "src": "うむ、じしんのあらわれ\nなのだろう、",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17871,
+   "src": "いけそうか? ナンバーマン",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17872,
+   "src": "ええ\nワタシのナンバーチェックなら\n6マスはんいにあるアイテムを",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17873,
+   "src": "たたかわずして\nひろうことができますよ",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17874,
+   "src": "たのもしいな\nその チョウサのうりょく",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F5B34",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17875,
+   "src": "ここまでたどりつくとは・・・\nすばらしいミッション\nすいこうのうりょくだ",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17876,
+   "src": "しかし、それはキミたちに\nとってふこうなことでもある",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17877,
+   "src": "ワタシがキミたちにたいして\nけっして ゆだんすることは\nないだろう",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17878,
+   "src": "それによって1%の のぞみが\n0%になってしまった",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17879,
+   "src": "かくじつなバトルなんて\nあるもんか",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17880,
+   "src": "だからこそネットバトルは\nもえるんだぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17881,
+   "src": "フフ、はてのない\nうちゅうくうかんへ\nしょうたいしてさしあげよう!",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17883,
+   "src": "そのとおりだよ、熱斗くん、\nいくぞコスモマン!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17884,
+   "src": "よくいった、光熱斗、\nいくぞ コスモマン!",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17885,
+   "src": "たしかに、おまえの\nいうとおりだ・・・\nいくぞ コスモマン!",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17886,
+   "src": "イイこというじゃねえか、光熱斗\nふっとばしてやろうぜ!",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17887,
+   "src": "いうじゃねえか、光熱斗、\nそれじゃ コイツをこらしめて\nやるとするか! いくぜ!",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17888,
+   "src": "そのとおりだ、光熱斗、\nいくぞ コスモマン!",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17889,
+   "src": "そのとおり、バトルとは\nけいさんどおり いかぬものです\nいきますよ コスモマン",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17890,
+   "src": "いうじゃねえか、光熱斗、\nオラいくぜ コスモマン!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17891,
+   "src": "そのこころいき りっぱですぞ\nコスモマン いざしょうぶ!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F616C",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17892,
+   "src": "あれは・・・\nそんな、まさか・・・!?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17893,
+   "src": "どうした、ロックマン?",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17894,
+   "src": "ブルース、いきてたんだね!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17895,
+   "src": "・・・まって、\nようすが おかしいわ!",
+   "speakers": [
+    "Meddy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17896,
+   "src": "ブルース・・・!?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17897,
+   "src": "・・・オマエらが\nオフィシャルの\nてさきどもか?",
+   "speakers": [
+    "DarkProtoMan",
+    "DarkColonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    6
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17898,
+   "src": "な、なんだぁ?\nなにいってやがんだ!?",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17899,
+   "src": "おい、ブルース、\nオレたちが わかるか!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17900,
+   "src": "・・・オレはリーガルさまに\nいのちをたすけられ、\nちゅうせいをちかった",
+   "speakers": [
+    "DarkProtoMan",
+    "DarkColonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    9
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17901,
+   "src": "このエリアを まもることが\nオレのしめいだ",
+   "speakers": [
+    "DarkProtoMan",
+    "DarkColonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    9
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17902,
+   "src": "これは・・・まさか",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17903,
+   "src": "まさか・・・いぜんのボクのように\nダークロイドかいぞうを\nほどこされてしまったんじゃ・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    11
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17904,
+   "src": "そうみるのが\nだとうみたいだな",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17905,
+   "src": "つまり、なんとかおくまで\nたどりついて",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17906,
+   "src": "ブルースを だっかん\nしなきゃなんねえわけだが・・・",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17907,
+   "src": "こりゃまたダークパネルが\nビッシリしきつめられてるな~",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17908,
+   "src": "さすがのオレさまの火力でも\nコレはちとホネだな",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17909,
+   "src": "ここはワタシの\nでばんみたいね",
+   "speakers": [
+    "Meddy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17910,
+   "src": "お、\nなんか いいさくでもあんの?",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17911,
+   "src": "ワタシのツインリベレートなら",
+   "speakers": [
+    "Meddy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17912,
+   "src": "ダークパネルのながいれつの\nはしとはしをリベレートすることで\nいっきにかいほうできるわ",
+   "speakers": [
+    "Meddy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17913,
+   "src": "そりゃいい",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17914,
+   "src": "ダークパネルを とびこえて\nすすめるオレとくめば\nこうりつよくリベレートできるな",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17915,
+   "src": "そのさくせんが よさそうだな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    19
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17916,
+   "src": "よしいくぜ!\nブルースをネビュラのてから\nとりかえすんだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17917,
+   "src": "もくひょうリベレートは\n10フェイズいないにしよう\nじゃあ いくよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    20
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17918,
+   "src": "ロックマン、\nどうかしましたか?",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17919,
+   "src": "カーネル、いきてたんだね!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17920,
+   "src": "・・・な、なんか、\nようすが おかしいケロ!?",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17921,
+   "src": "カーネル・・・!?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17922,
+   "src": "な、なんだ?\nなにいってんだ、カーネルのやつ",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17923,
+   "src": "おい、カーネル、\nオレたちが わかるか!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17924,
+   "src": "そうみるのが\nだとうでござろう",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F64F4",
+    42
+   ],
+   "uses": 2
+  }
+ ]
+}

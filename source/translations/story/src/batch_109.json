@@ -1,0 +1,1266 @@
+{
+ "batch": 109,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 4,
+   "src": "きかく",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    0
+   ],
+   "uses": 2,
+   "hint": "기획"
+  },
+  {
+   "id": 5,
+   "src": "        やすま まさひろ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    1
+   ],
+   "uses": 4,
+   "hint": "        야스마 마사히로"
+  },
+  {
+   "id": 6,
+   "src": "        おざき こうへい",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7,
+   "src": "       しもがわ てるひろ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 8,
+   "src": "シナリオ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    4
+   ],
+   "uses": 2,
+   "hint": "시나리오"
+  },
+  {
+   "id": 9,
+   "src": "        えぐち まさかず",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    5
+   ],
+   "uses": 2,
+   "hint": "        에구치 마사카즈"
+  },
+  {
+   "id": 10,
+   "src": "        たけなか つかさ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11,
+   "src": "キャラクターデザイン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    7
+   ],
+   "uses": 2,
+   "hint": "캐릭터 디자인"
+  },
+  {
+   "id": 12,
+   "src": "        いしはら ゆうじ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    8
+   ],
+   "uses": 2,
+   "hint": "         이시하라 유지"
+  },
+  {
+   "id": 13,
+   "src": "        なかしま ときこ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    9
+   ],
+   "uses": 2,
+   "hint": "        나카시마 도키코"
+  },
+  {
+   "id": 14,
+   "src": "          かじ はやと",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    10
+   ],
+   "uses": 2,
+   "hint": "          가지 하야토"
+  },
+  {
+   "id": 15,
+   "src": "コスモマンデザイン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16,
+   "src": "        なめがや つとむ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17,
+   "src": "スワローマンデザイン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18,
+   "src": "        いわさき そうた",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 19,
+   "src": "フットマンデザイン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 20,
+   "src": "        あおき ひでのり",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 21,
+   "src": "オブジェクト",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    17
+   ],
+   "uses": 2,
+   "hint": "오브젝트"
+  },
+  {
+   "id": 22,
+   "src": "        さとう かずたか",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    18
+   ],
+   "uses": 2,
+   "hint": "         사토 가즈타카"
+  },
+  {
+   "id": 23,
+   "src": "        なかやま いくお",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    19
+   ],
+   "uses": 2,
+   "hint": "        나카야마 이쿠오"
+  },
+  {
+   "id": 24,
+   "src": "        おおいし まいこ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 25,
+   "src": "スクロール",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    21
+   ],
+   "uses": 2,
+   "hint": "스크롤"
+  },
+  {
+   "id": 26,
+   "src": "          きじま みき",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    22
+   ],
+   "uses": 2,
+   "hint": "          기지마 미키"
+  },
+  {
+   "id": 27,
+   "src": "        りゅうご ちえこ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 28,
+   "src": "       ふじさき じゅんこ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    24
+   ],
+   "uses": 2,
+   "hint": "         후지사키 준코"
+  },
+  {
+   "id": 29,
+   "src": "プログラム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    25
+   ],
+   "uses": 4,
+   "hint": "프로그램"
+  },
+  {
+   "id": 30,
+   "src": "       しんがき ひでかず",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    26
+   ],
+   "uses": 2,
+   "hint": "        신가키 히데카즈"
+  },
+  {
+   "id": 31,
+   "src": "        まつだ こうえつ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    27
+   ],
+   "uses": 2,
+   "hint": "         마쓰다 고에쓰"
+  },
+  {
+   "id": 32,
+   "src": "        さかの みつのり",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    28
+   ],
+   "uses": 2,
+   "hint": "        사카노 미쓰노리"
+  },
+  {
+   "id": 33,
+   "src": "        あない としひで",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    29
+   ],
+   "uses": 2,
+   "hint": "        아나이 도시히데"
+  },
+  {
+   "id": 34,
+   "src": "        いとう そういち",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 35,
+   "src": "        たはら たけふみ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 36,
+   "src": "        にしやま なおみ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 37,
+   "src": "         いくた しんや",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    33
+   ],
+   "uses": 2,
+   "hint": "          이쿠타 신야"
+  },
+  {
+   "id": 38,
+   "src": "おんがく",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    34
+   ],
+   "uses": 2,
+   "hint": "음악"
+  },
+  {
+   "id": 39,
+   "src": "         かいだ あかり",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 40,
+   "src": "こうかおん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    36
+   ],
+   "uses": 2,
+   "hint": "효과음"
+  },
+  {
+   "id": 41,
+   "src": "        あまぎし しんじ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    37
+   ],
+   "uses": 2,
+   "hint": "         아마기시 신지"
+  },
+  {
+   "id": 42,
+   "src": "        もりぐち たかし",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 43,
+   "src": "オフィシャルイラスト",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    39
+   ],
+   "uses": 2,
+   "hint": "공식 일러스트"
+  },
+  {
+   "id": 44,
+   "src": "        こまき しんすけ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    40
+   ],
+   "uses": 2,
+   "hint": "         고마키 신스케"
+  },
+  {
+   "id": 45,
+   "src": "        みずの けいすけ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 46,
+   "src": "せいさくきょうりょく",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 47,
+   "src": "          コナミJPN",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 48,
+   "src": "         こじま ひでお",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 49,
+   "src": "        ひなみ まさひろ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 50,
+   "src": "        なかむら いくや",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 51,
+   "src": "        おくた まさふみ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 52,
+   "src": "        やまだ まさたか",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 53,
+   "src": "マニュアルせいさく",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    49
+   ],
+   "uses": 2,
+   "hint": "매뉴얼 제작"
+  },
+  {
+   "id": 54,
+   "src": "        いわさき あけみ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    50
+   ],
+   "uses": 2,
+   "hint": "        이와사키 아케미"
+  },
+  {
+   "id": 55,
+   "src": "バグチェックとうかつ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    51
+   ],
+   "uses": 2,
+   "hint": "버그 체크 총괄"
+  },
+  {
+   "id": 56,
+   "src": "         なんば まさと",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    52
+   ],
+   "uses": 2,
+   "hint": "          난바 마사토"
+  },
+  {
+   "id": 57,
+   "src": "スペシャルサンクス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 58,
+   "src": "         くろさわ しん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    54
+   ],
+   "uses": 2,
+   "hint": "          구로사와 신"
+  },
+  {
+   "id": 59,
+   "src": "         うかい さとし",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    55
+   ],
+   "uses": 2,
+   "hint": "         우카이 사토시"
+  },
+  {
+   "id": 60,
+   "src": "        なかむら ひろこ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    56
+   ],
+   "uses": 2,
+   "hint": "        나카무라 히로코"
+  },
+  {
+   "id": 61,
+   "src": "        ちょうや かずお",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    57
+   ],
+   "uses": 2,
+   "hint": "          조야 가즈오"
+  },
+  {
+   "id": 62,
+   "src": "        みなみで なおと",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    58
+   ],
+   "uses": 2,
+   "hint": "        미나미데 나오토"
+  },
+  {
+   "id": 63,
+   "src": "        さとう たかゆき",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    59
+   ],
+   "uses": 2
+  },
+  {
+   "id": 64,
+   "src": "        やすだ きょうこ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 65,
+   "src": "         はやし あすか",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 66,
+   "src": "        ふなはら くにお",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    62
+   ],
+   "uses": 2,
+   "hint": "        후나하라 구니오"
+  },
+  {
+   "id": 67,
+   "src": "         さの たかゆき",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    63
+   ],
+   "uses": 2
+  },
+  {
+   "id": 68,
+   "src": "         かんだ つよし",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    64
+   ],
+   "uses": 2
+  },
+  {
+   "id": 69,
+   "src": "         おおの てつや",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    65
+   ],
+   "uses": 2
+  },
+  {
+   "id": 70,
+   "src": "         くしま おさむ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 71,
+   "src": "       こばやし しげよし",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    67
+   ],
+   "uses": 2
+  },
+  {
+   "id": 72,
+   "src": "         やすだ ゆうこ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    68
+   ],
+   "uses": 2,
+   "hint": "          야스다 유코"
+  },
+  {
+   "id": 73,
+   "src": "     ローカライズぶのみんな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    69
+   ],
+   "uses": 2
+  },
+  {
+   "id": 74,
+   "src": "    ロックマンクラブのみんな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    70
+   ],
+   "uses": 2,
+   "hint": "       록맨 클럽 여러분"
+  },
+  {
+   "id": 75,
+   "src": "         さるがくちょう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    71
+   ],
+   "uses": 2,
+   "hint": "           사루 학장"
+  },
+  {
+   "id": 76,
+   "src": "    だいにかいはつぶのみんな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 77,
+   "src": "        カプコンのみんな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    73
+   ],
+   "uses": 2,
+   "hint": "          캡콤 여러분"
+  },
+  {
+   "id": 78,
+   "src": "アシスタントプロデューサー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    74
+   ],
+   "uses": 2
+  },
+  {
+   "id": 79,
+   "src": "       ほりのうち たけし",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 80,
+   "src": "プロデューサー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    76
+   ],
+   "uses": 2,
+   "hint": "프로듀서"
+  },
+  {
+   "id": 81,
+   "src": "        いなふね けいじ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    77
+   ],
+   "uses": 2,
+   "hint": "        이나후네 게이지"
+  },
+  {
+   "id": 82,
+   "src": "ディレクター",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    78
+   ],
+   "uses": 2
+  },
+  {
+   "id": 83,
+   "src": "        よしおか まゆみ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    80
+   ],
+   "uses": 2,
+   "hint": "        요시오카 마유미"
+  },
+  {
+   "id": 84,
+   "src": "クリアじかん     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    100
+   ],
+   "uses": 2
+  },
+  {
+   "id": 85,
+   "src": "データライブラリ S  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    101
+   ],
+   "uses": 2
+  },
+  {
+   "id": 86,
+   "src": "枚",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    101
+   ],
+   "uses": 16
+  },
+  {
+   "id": 87,
+   "src": "ロックマン エグゼ5",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 88,
+   "src": "チーム オブ ブルース",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    106
+   ],
+   "uses": 2
+  },
+  {
+   "id": 89,
+   "src": "スタッフ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    107
+   ],
+   "uses": 2
+  },
+  {
+   "id": 90,
+   "src": "チーム オブ カーネル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F05D8",
+    108
+   ],
+   "uses": 2
+  }
+ ]
+}

@@ -1,0 +1,931 @@
+{
+ "batch": 130,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 2074,
+   "src": "ピカラー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    133
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2075,
+   "src": "ピカラーEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    134
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2076,
+   "src": "ピカラッタ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    135
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2077,
+   "src": "ピカラッタEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    136
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2078,
+   "src": "ピカラーザ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    137
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2079,
+   "src": "ピカラーザEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    138
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2080,
+   "src": "エレオーガ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    139
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2081,
+   "src": "エレオーガEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    140
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2082,
+   "src": "エレホーン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    141
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2083,
+   "src": "エレホーンEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    142
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2084,
+   "src": "エレガイア",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    143
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2085,
+   "src": "エレガイアEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    144
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2086,
+   "src": "サボテコロンEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    146
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2087,
+   "src": "サボテマル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    147
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2088,
+   "src": "サボテマルEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    148
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2089,
+   "src": "サボテグラス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    149
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2090,
+   "src": "サボテグラスEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    150
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2091,
+   "src": "ウドノート",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    151
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2092,
+   "src": "ウドノートEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    152
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2093,
+   "src": "ウドロンド",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    153
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2094,
+   "src": "ウドロンドEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    154
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2095,
+   "src": "ウドマックス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    155
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2096,
+   "src": "ウドマックスEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    156
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2097,
+   "src": "アップルサムEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    158
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2098,
+   "src": "アップルトム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    159
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2099,
+   "src": "アップルトムEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    160
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2100,
+   "src": "アップルジム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    161
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2101,
+   "src": "アップルジムEX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    162
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2102,
+   "src": "ガルビースト",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    163
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2103,
+   "src": "ガルビースト2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    164
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2104,
+   "src": "ガルビースト3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    165
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2105,
+   "src": "ガルビースト4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    166
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2106,
+   "src": "ガルビースト5",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    167
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2107,
+   "src": "ガルビースト6",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    168
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2108,
+   "src": "ロイホーク",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    169
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2109,
+   "src": "ロイホーク2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    170
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2110,
+   "src": "ロイホーク3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    171
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2111,
+   "src": "ロイホーク4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    172
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2112,
+   "src": "ロイホーク5",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    173
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2113,
+   "src": "ロイホーク6",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    174
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2114,
+   "src": "ブラッディア",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    175
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2115,
+   "src": "ブラッディア2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    176
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2116,
+   "src": "ブラッディア3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    177
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2117,
+   "src": "ブラッディア4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    178
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2118,
+   "src": "ブラッディア5",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    179
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2119,
+   "src": "ブラッディア6",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    180
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2120,
+   "src": "メットール1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    193
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2121,
+   "src": "メットール1EX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    194
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2122,
+   "src": "ララチューバ1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    199
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2123,
+   "src": "ララチューバ1EX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    200
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2124,
+   "src": "ララチューバ2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    201
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2125,
+   "src": "ララチューバ2EX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    202
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2126,
+   "src": "ララチューバ3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    203
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2127,
+   "src": "ララチューバ3EX",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    204
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2128,
+   "src": "フラッグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    205
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2129,
+   "src": "イワ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    206
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2130,
+   "src": "アイスキューブ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    209
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2131,
+   "src": "ボムキューブ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    212
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2132,
+   "src": "カウントボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    216
+   ],
+   "uses": 2,
+   "hint": "카운트봄"
+  },
+  {
+   "id": 2133,
+   "src": "イナズマキング",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    228
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2134,
+   "src": "エアホイール",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    229
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2135,
+   "src": "ロードオブカオス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    230
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2136,
+   "src": "レッドフルーツ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    231
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2137,
+   "src": "ケミカルフラッシュ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    232
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2138,
+   "src": "かいぞうロックマン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    233
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2139,
+   "src": "FCロックマン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751444",
+    234
+   ],
+   "uses": 2
+  }
+ ]
+}

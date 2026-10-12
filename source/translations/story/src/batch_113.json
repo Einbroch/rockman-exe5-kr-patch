@@ -1,0 +1,1701 @@
+{
+ "batch": 113,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 423,
+   "src": "ノーマルボディ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 424,
+   "src": "ファイアボディ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 425,
+   "src": "アクアボディ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 426,
+   "src": "エレキボディ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 427,
+   "src": "ウッドボディ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 428,
+   "src": "アタック+",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 429,
+   "src": "アタック-",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 430,
+   "src": "アタック×",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 431,
+   "src": "ラピッド+",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 432,
+   "src": "ラピッド-",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 433,
+   "src": "チャージ+",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 434,
+   "src": "チャージ-",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 435,
+   "src": "カスタム+",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 436,
+   "src": "カスタム-",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 437,
+   "src": "メガフォルダ+",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 438,
+   "src": "メガフォルダ-",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 439,
+   "src": "ギガフォルダ+",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 440,
+   "src": "ギガフォルダ-",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 441,
+   "src": "ソウルタイム+",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 442,
+   "src": "ソウルタイム-",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 443,
+   "src": "スーパーアーマー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    24
+   ],
+   "uses": 4,
+   "hint": "슈퍼아머"
+  },
+  {
+   "id": 444,
+   "src": "ステータスガード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 445,
+   "src": "フロートシューズ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    26
+   ],
+   "uses": 4,
+   "hint": "플로트슈즈"
+  },
+  {
+   "id": 446,
+   "src": "エアシューズ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    27
+   ],
+   "uses": 4,
+   "hint": "에어슈즈"
+  },
+  {
+   "id": 447,
+   "src": "アンダーシャツ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    28
+   ],
+   "uses": 4,
+   "hint": "언더셔츠"
+  },
+  {
+   "id": 448,
+   "src": "Bボタンシールド",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 449,
+   "src": "Bボタンソード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 450,
+   "src": "Bボタンミニボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 451,
+   "src": "Bボタンクラック",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 452,
+   "src": "Bボタンリフレク",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 453,
+   "src": "Bボタンバスター",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 454,
+   "src": "トリプルバスター",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 455,
+   "src": "バスターヒビ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 456,
+   "src": "バスターみず",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 457,
+   "src": "バスターこおり",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 458,
+   "src": "バスタークサムラ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 459,
+   "src": "バスターどくぬま",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 460,
+   "src": "バスターついか",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 461,
+   "src": "Bためインビジ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 462,
+   "src": "BためロングS",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 463,
+   "src": "BためサンダーB",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 464,
+   "src": "BためヒートS",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 465,
+   "src": "Bためヨーヨー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 466,
+   "src": "Bためスイコミ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 467,
+   "src": "Bためブーメラン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 468,
+   "src": "BためWショット",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    49
+   ],
+   "uses": 2
+  },
+  {
+   "id": 469,
+   "src": "BためサムライS",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 470,
+   "src": "BためFアーム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 471,
+   "src": "BためパルスB",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 472,
+   "src": "BためポルターG",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 473,
+   "src": "BためワイドS",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    54
+   ],
+   "uses": 2
+  },
+  {
+   "id": 474,
+   "src": "Bためミニボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 475,
+   "src": "Bためホウガン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 476,
+   "src": "Bためトルネード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    57
+   ],
+   "uses": 2
+  },
+  {
+   "id": 477,
+   "src": "Bためラビリング",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    58
+   ],
+   "uses": 2
+  },
+  {
+   "id": 478,
+   "src": "BためバブルS",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    59
+   ],
+   "uses": 2
+  },
+  {
+   "id": 479,
+   "src": "Bためクナイ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 480,
+   "src": "BためAホッケー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 481,
+   "src": "BためサークルG",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    62
+   ],
+   "uses": 2
+  },
+  {
+   "id": 482,
+   "src": "BためドリルA",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    63
+   ],
+   "uses": 2
+  },
+  {
+   "id": 483,
+   "src": "BためワイドB",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    64
+   ],
+   "uses": 2
+  },
+  {
+   "id": 484,
+   "src": "BためブラックB",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    65
+   ],
+   "uses": 2
+  },
+  {
+   "id": 485,
+   "src": "Bためオーシャン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 486,
+   "src": "BためCキャノン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    67
+   ],
+   "uses": 2
+  },
+  {
+   "id": 487,
+   "src": "BためダークS",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    68
+   ],
+   "uses": 2
+  },
+  {
+   "id": 488,
+   "src": "BためチャージS",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    69
+   ],
+   "uses": 2
+  },
+  {
+   "id": 489,
+   "src": "BためSバスター",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 490,
+   "src": "BためヘルズR",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    71
+   ],
+   "uses": 2
+  },
+  {
+   "id": 491,
+   "src": "Bためシールド",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 492,
+   "src": "Bためリフレクト",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    73
+   ],
+   "uses": 2
+  },
+  {
+   "id": 493,
+   "src": "CSにこんらん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    74
+   ],
+   "uses": 2
+  },
+  {
+   "id": 494,
+   "src": "CSにマヒ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 495,
+   "src": "CSチップはかい",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    76
+   ],
+   "uses": 2
+  },
+  {
+   "id": 496,
+   "src": "CSにブレイク",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    77
+   ],
+   "uses": 2
+  },
+  {
+   "id": 497,
+   "src": "CSにもうもく",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    78
+   ],
+   "uses": 2
+  },
+  {
+   "id": 498,
+   "src": "CSでヒビ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    79
+   ],
+   "uses": 2
+  },
+  {
+   "id": 499,
+   "src": "CSであな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    80
+   ],
+   "uses": 2
+  },
+  {
+   "id": 500,
+   "src": "CSでマグマ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    81
+   ],
+   "uses": 2
+  },
+  {
+   "id": 501,
+   "src": "CSでどくぬま",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    82
+   ],
+   "uses": 2
+  },
+  {
+   "id": 502,
+   "src": "CSでバリアけし",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    83
+   ],
+   "uses": 2
+  },
+  {
+   "id": 503,
+   "src": "CSにリセット",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    84
+   ],
+   "uses": 2
+  },
+  {
+   "id": 504,
+   "src": "CSにHPバグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    85
+   ],
+   "uses": 2
+  },
+  {
+   "id": 505,
+   "src": "CSついかこうか",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    86
+   ],
+   "uses": 2
+  },
+  {
+   "id": 506,
+   "src": "Fバリア",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    87
+   ],
+   "uses": 4
+  },
+  {
+   "id": 507,
+   "src": "Fバリア100",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    88
+   ],
+   "uses": 2
+  },
+  {
+   "id": 508,
+   "src": "Fバリア200",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    89
+   ],
+   "uses": 2
+  },
+  {
+   "id": 509,
+   "src": "Fバブルラップ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 510,
+   "src": "Fドリームオーラ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 511,
+   "src": "B+左でシールド",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    93
+   ],
+   "uses": 2
+  },
+  {
+   "id": 512,
+   "src": "B+左でメットG",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 513,
+   "src": "B+左でカースS",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    95
+   ],
+   "uses": 2
+  },
+  {
+   "id": 514,
+   "src": "B+左でリフレクト",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    96
+   ],
+   "uses": 2
+  },
+  {
+   "id": 515,
+   "src": "B+左でカワリミ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    97
+   ],
+   "uses": 2
+  },
+  {
+   "id": 516,
+   "src": "B+左",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    98
+   ],
+   "uses": 2
+  },
+  {
+   "id": 517,
+   "src": "チップリカバリー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    99
+   ],
+   "uses": 4
+  },
+  {
+   "id": 518,
+   "src": "クイックゲージ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    101
+   ],
+   "uses": 4,
+   "hint": "퀵게이지"
+  },
+  {
+   "id": 519,
+   "src": "ヘビーゲージ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    102
+   ],
+   "uses": 4,
+   "hint": "헤비게이지"
+  },
+  {
+   "id": 520,
+   "src": "ノーマルゲージ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    103
+   ],
+   "uses": 2
+  },
+  {
+   "id": 521,
+   "src": "ラッシュサポート",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    104
+   ],
+   "uses": 6,
+   "hint": "러시서포트"
+  },
+  {
+   "id": 522,
+   "src": "ビートサポート",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    105
+   ],
+   "uses": 6,
+   "hint": "비트서포트"
+  },
+  {
+   "id": 523,
+   "src": "タンゴサポート",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    106
+   ],
+   "uses": 6,
+   "hint": "탱고서포트"
+  },
+  {
+   "id": 524,
+   "src": "シノビダッシュ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    107
+   ],
+   "uses": 6,
+   "hint": "시노비 대시"
+  },
+  {
+   "id": 525,
+   "src": "オイルボディ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    108
+   ],
+   "uses": 4,
+   "hint": "오일바디"
+  },
+  {
+   "id": 526,
+   "src": "アイムフィッシュ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    109
+   ],
+   "uses": 4,
+   "hint": "아임피시"
+  },
+  {
+   "id": 527,
+   "src": "バッテリーモード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    110
+   ],
+   "uses": 4,
+   "hint": "배터리모드"
+  },
+  {
+   "id": 528,
+   "src": "ジャングルランド",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    111
+   ],
+   "uses": 4,
+   "hint": "정글랜드"
+  },
+  {
+   "id": 529,
+   "src": "サーチ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    112
+   ],
+   "uses": 2
+  },
+  {
+   "id": 530,
+   "src": "ミリオネア",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    113
+   ],
+   "uses": 4
+  },
+  {
+   "id": 531,
+   "src": "セルフリカバリー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    114
+   ],
+   "uses": 4
+  },
+  {
+   "id": 532,
+   "src": "メガウイルス",
+   "speakers": [],
+   "windows": [
+    "none",
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    115
+   ],
+   "uses": 6
+  },
+  {
+   "id": 533,
+   "src": "いどうバグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    116
+   ],
+   "uses": 2
+  },
+  {
+   "id": 534,
+   "src": "いどうでヒビ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    117
+   ],
+   "uses": 2
+  },
+  {
+   "id": 535,
+   "src": "いどうであな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    118
+   ],
+   "uses": 2
+  },
+  {
+   "id": 536,
+   "src": "いどうで水",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    119
+   ],
+   "uses": 2
+  },
+  {
+   "id": 537,
+   "src": "いどうでこおり",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    120
+   ],
+   "uses": 2
+  },
+  {
+   "id": 538,
+   "src": "いどうでクサムラ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    121
+   ],
+   "uses": 2
+  },
+  {
+   "id": 539,
+   "src": "いどうでじしゃく",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    122
+   ],
+   "uses": 2
+  },
+  {
+   "id": 540,
+   "src": "いどうでホーリー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    123
+   ],
+   "uses": 2
+  },
+  {
+   "id": 541,
+   "src": "いどうでどくぬま",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    124
+   ],
+   "uses": 2
+  },
+  {
+   "id": 542,
+   "src": "いどうでノーマル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    125
+   ],
+   "uses": 2
+  }
+ ]
+}

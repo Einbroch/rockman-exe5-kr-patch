@@ -1,0 +1,284 @@
+{
+ "batch": 122,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 1142,
+   "src": "ネットバトルせんせき",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1143,
+   "src": "チームバトルせんせき",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1144,
+   "src": "戦",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    20
+   ],
+   "uses": 4
+  },
+  {
+   "id": 1145,
+   "src": "勝",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    20
+   ],
+   "uses": 4
+  },
+  {
+   "id": 1146,
+   "src": "メニュー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    22
+   ],
+   "uses": 2,
+   "hint": "메뉴"
+  },
+  {
+   "id": 1147,
+   "src": "ネットバトル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    23
+   ],
+   "uses": 2,
+   "hint": "넷배틀"
+  },
+  {
+   "id": 1148,
+   "src": "チームバトル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1149,
+   "src": "コンペア",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    25
+   ],
+   "uses": 2,
+   "hint": "비교"
+  },
+  {
+   "id": 1150,
+   "src": "トレード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    26
+   ],
+   "uses": 2,
+   "hint": "트레이드"
+  },
+  {
+   "id": 1151,
+   "src": "シングルバトル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    27
+   ],
+   "uses": 4,
+   "hint": "싱글배틀"
+  },
+  {
+   "id": 1152,
+   "src": "トリプルバトル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    28
+   ],
+   "uses": 4,
+   "hint": "트리플배틀"
+  },
+  {
+   "id": 1153,
+   "src": "れんしゅう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    29
+   ],
+   "uses": 2,
+   "hint": "연습"
+  },
+  {
+   "id": 1154,
+   "src": "ほんばん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    30
+   ],
+   "uses": 2,
+   "hint": "실전"
+  },
+  {
+   "id": 1155,
+   "src": "ライブラリコンペア",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    31
+   ],
+   "uses": 2,
+   "hint": "도감 비교"
+  },
+  {
+   "id": 1156,
+   "src": "レコードコンペア",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    32
+   ],
+   "uses": 2,
+   "hint": "기록 비교"
+  },
+  {
+   "id": 1157,
+   "src": "バトルチップ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    33
+   ],
+   "uses": 2,
+   "hint": "배틀칩"
+  },
+  {
+   "id": 1163,
+   "src": "ナシ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    40
+   ],
+   "uses": 4,
+   "hint": "없음"
+  },
+  {
+   "id": 1182,
+   "src": "改造:あり",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    68
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1183,
+   "src": "改造:なし",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0707C24",
+    69
+   ],
+   "uses": 2
+  }
+ ]
+}

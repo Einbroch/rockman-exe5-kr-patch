@@ -1,0 +1,2199 @@
+{
+ "batch": 10,
+ "items": [
+  {
+   "id": 2767,
+   "src": "・・・さぁな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2768,
+   "src": "たたかいの中で いきてきた\nオレにとっては、",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2769,
+   "src": "電脳のこうやが ゆりかご・・・\nそして、じゅうせいが\nこもりうたなのさ・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2770,
+   "src": "じゃあ、PETは?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2771,
+   "src": "PETは オレの",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2772,
+   "src": "・\nう、",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2773,
+   "src": "う、",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2774,
+   "src": "うばぐるまだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2775,
+   "src": "うばぐるま なのか!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2776,
+   "src": "ゆりかごと ちょっと\nカブってるぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2777,
+   "src": "ム・・・ムゥ・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2778,
+   "src": "なんど キズついても\nオレは たちあがる・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2779,
+   "src": "なぜなのかは オレにも\nわからない・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2780,
+   "src": "しかし、キズつくたびに\nたましいが さけぶんだよ\nたちあがれってな・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2781,
+   "src": "わかる、わかるでガスよ~~",
+   "speakers": [
+    "GutsMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2783,
+   "src": "どうしたんだ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    30
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2784,
+   "src": "い、今、ガッツマンの\nこえが きこえたような・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2785,
+   "src": "オレたちの イノチなんて\nこのホシの イノチと くらべたら",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2786,
+   "src": "いっしゅんの ひばなの\nようなものだ・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2787,
+   "src": "けどな、おなじ ひばなでも、\n目もくらむような まばゆい\n光を はなってやるぜ・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2788,
+   "src": "光を はなつ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2789,
+   "src": "これくらい?",
+   "speakers": [
+    "Yai",
+    "BlueShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    31
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2790,
+   "src": "それとも・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2791,
+   "src": "ちがーう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2792,
+   "src": "う~ん、ダンディ~",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2793,
+   "src": "たまには こういうのも\nいいじゃない!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2794,
+   "src": "ね、ね!?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2795,
+   "src": "ちょっと、きたいはずれだな~",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2796,
+   "src": "・・・・・・シュン",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2797,
+   "src": "オトコってヤツは\nむかい風が つよければ\nつよいほど もえるのさ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2798,
+   "src": "それは わかるぜ!\nタコあげみたいなもんだよな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2799,
+   "src": "わかってない!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076B0CC",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2800,
+   "src": "は、\nミステリーデータを\nしらべた・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    0
+   ],
+   "uses": 44
+  },
+  {
+   "id": 2803,
+   "src": "は、バトルチップ\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2806,
+   "src": "は、サブチップ\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    12
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2808,
+   "src": "は、\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    22
+   ],
+   "uses": 8
+  },
+  {
+   "id": 2810,
+   "src": "は、\n「バグのかけら」\nを ",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    42
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2814,
+   "src": "は、きょうかプログラム\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    72
+   ],
+   "uses": 16
+  },
+  {
+   "id": 2815,
+   "src": "は、ナビカスプログラム\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    82
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2819,
+   "src": "ナビカスのメモリMAPが\nひろくなった!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    112
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2820,
+   "src": "このデータは オレには\nひつようのないものだ・・・",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    120
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2821,
+   "src": "このデータは ワタシには\nひつようのないものだ・・・",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    121
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2822,
+   "src": "は、\nきょうかプログラム",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    125
+   ],
+   "uses": 12
+  },
+  {
+   "id": 2823,
+   "src": "は、\nナビカスプログラム",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    131
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2824,
+   "src": "このデータは オレには\nひつようないな・・・",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    133
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2825,
+   "src": "このデータは ワタシには\nひつようありませんな・・・",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    134
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2826,
+   "src": "こんなデータ、\nオレには ひつようねえぜ!",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    135
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2827,
+   "src": "このデータは ワタシには\nひつようないな・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    136
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2828,
+   "src": "このデータ、\nオレには ひつようないぜ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    137
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2829,
+   "src": "このデータは ワタシには\nひつようありませんね・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076C030",
+    138
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2830,
+   "src": "ブルースは、\nミステリーデータを\nしらべた・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076D098",
+    0
+   ],
+   "uses": 20
+  },
+  {
+   "id": 2831,
+   "src": "ブルースは、\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076D098",
+    22
+   ],
+   "uses": 28
+  },
+  {
+   "id": 2832,
+   "src": "ブルースは、\n「バグのかけら」\nを ",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076D098",
+    42
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2833,
+   "src": "ブルースは、きょうかプログラム\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076D098",
+    72
+   ],
+   "uses": 6
+  },
+  {
+   "id": 2834,
+   "src": "ブルースは、ナビカスプログラム\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076D098",
+    82
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2906,
+   "src": "熱斗の けいたいたんまつ\nロックマンは、このPETに\nインストールされている",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2907,
+   "src": "ママとくせいシチューの\nつくりかたが かかれた\nテキストデータだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2908,
+   "src": "科学省の しょくいんであることを\nしょうめいするIDカードだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2909,
+   "src": "よくしなる たけ\nつりざおには もってこいだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2910,
+   "src": "だれかが すてていった\nつりばりつきの いとだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2911,
+   "src": "サカナつりの エサにつかうムシ\nあんまり さわりたくない",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2912,
+   "src": "かんそうした 木のいた\nコレに火をつけたら、\nよくもえそうだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2913,
+   "src": "かれ木から とってきた かれえだ\n手でポキポキ おれる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2914,
+   "src": "パサパサに かんそうした\nかれくさだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2915,
+   "src": "オラン島の たんこうの\n電子ロックを かいじょするための\nカギデータだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2916,
+   "src": "ナビが じぶんでものを\nかんがえるための プログラムだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2917,
+   "src": "ナビが おしゃべりするために\nひつような プログラムだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2918,
+   "src": "ナビが うごくために\nひつような プログラムだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2919,
+   "src": "ナビが たたかうために\nひつようなプログラムだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2920,
+   "src": "メモようしだ\n「5 3 2 1 4」 と\nかかれている",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2921,
+   "src": "これを くみこむと、\nどんなナビでも イワをくだく\nのうりょくを えられる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2922,
+   "src": "いろんな 気体を\nすいこむことができる\nプログラムだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2923,
+   "src": "イワの きょうきゅうを\nせいぎょする そうちを\nうごかすためのキーだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2924,
+   "src": "きんきゅうじたいの時にしまる\nぼうすいへきの キーだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2925,
+   "src": "きんきゅうじたいの時にしまる\nぼうすいへきの キーだ\nこれは、3つで1くみ みたいだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    19
+   ],
+   "uses": 6
+  },
+  {
+   "id": 2926,
+   "src": "科学省が かんりする\nセキュリティトビラを\nひらくためのカギ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2927,
+   "src": "クィーン・チェーコごうで\nひらかれるパーティーの\nしょうたいけんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2928,
+   "src": "クィーン・チェーコごうでの\nよきょうに つかわれる\nスタンプカード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2929,
+   "src": "ガウは サカナが大すきだ・・・\nとくに 大きいサカナには\n目がない・・・と、かかれている",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    25
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2930,
+   "src": "ホネぶとで ずっしりとおもそうな\nカギのカタチをした データだ\nけっこう ふるいものらしい",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2931,
+   "src": "3つめの秋原、4つめのひろば\nオランへのいりぐちを 見つめる\nそのちゅうおうを ひらけ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2932,
+   "src": "ヨロイのイメージデータだ・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2933,
+   "src": "カタナのイメージデータだ・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2934,
+   "src": "カブトのイメージデータだ・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2935,
+   "src": "カシの木で つくられた ボクトウ\nちょっとや そっとでは\nおれたりはしない",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2936,
+   "src": "おじいちゃんと ガウが\nいっしょに うつったしゃしん\nとても ほほえましい",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2937,
+   "src": "光正の のこした\nカギのカタチをした データだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2938,
+   "src": "そのむかし、光正が\nみにつけていた おまもり",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2939,
+   "src": "メイルのPETだ\nただし、ロールはいない・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2940,
+   "src": "デカオのPETだ\nただし、ガッツマンはいない・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2941,
+   "src": "やいとのPETだ\nただし、グライドはいない・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2942,
+   "src": "ネビュラの いちいんである\nしょうめいしょ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2943,
+   "src": "インターネット、科学省、3、\nまん中、まっすぐ27すすみ、\nまがって4すすむ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2944,
+   "src": "さらに まがって4すすんだ\nトコロをしらべる・・・\n光データ、はんのう・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2945,
+   "src": "と、かかれている・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    39
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2946,
+   "src": "わがムスコ、祐一朗へ・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2947,
+   "src": "ガウのせわを おこたらんように\nたのんだぞ いつもいっているが\nガウを水に ぬらしてはいかんぞ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2948,
+   "src": "ゴキゲンが わるくなるからな\nあめがふったら いえの中に\nいれてやってくれ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2949,
+   "src": "ヒグレヤの おきゃくさんの\nじょうほうが はいった\nだいじな データファイル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2950,
+   "src": "ナビカス中に、L・Rボタンで\nしろい プログラムパーツを\nかいてんさせることができる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    64
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2951,
+   "src": "ナビカス中に、L・Rボタンで\nきいろい プログラムパーツを\nかいてんさせることができる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    65
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2952,
+   "src": "ナビカス中に、L・Rボタンで\nピンクの プログラムパーツを\nかいてんさせることができる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2953,
+   "src": "ナビカス中に、L・Rボタンで\nあかい プログラムパーツを\nかいてんさせることができる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    67
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2954,
+   "src": "ナビカス中に、L・Rボタンで\nあおい プログラムパーツを\nかいてんさせることができる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    68
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2955,
+   "src": "ナビカス中に、L・Rボタンで\nみどりの プログラムパーツを\nかいてんさせることができる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    69
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2956,
+   "src": "メイルのHPと\nインターネットを つなぐ\nコードが かかれたテキストだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    80
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2957,
+   "src": "デカオのHPと\nインターネットを つなぐ\nコードが かかれたテキストだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    81
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2958,
+   "src": "やいとのHPと\nインターネットを つなぐ\nコードが かかれたテキストだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    82
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2959,
+   "src": "科学省のHPと\nインターネットを つなぐ\nコードが かかれたテキスト",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    83
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2960,
+   "src": "シャチホコ城のHPと\nインターネットを つなぐ\nコードが かかれたテキスト",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    84
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2961,
+   "src": "どこかの エリアとエリアをつなぐ\nコードが かかれたテキスト",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    85
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2962,
+   "src": "メイルのHPのバナー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    86
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2963,
+   "src": "デカオのHPのバナー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    87
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2964,
+   "src": "やいとのHPのバナー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    88
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2965,
+   "src": "科学省のHPのバナー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    89
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2966,
+   "src": "シャチホコ城のHPのバナー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2967,
+   "src": "HPのマックスを\n+20",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    96
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2968,
+   "src": "ナビカスの\nメモリMAPが\nひろくなる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    97
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2969,
+   "src": "レギュラーシステムの\nようりょうを+1",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    98
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2970,
+   "src": "レギュラーシステムの\nようりょうを+2",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    99
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2971,
+   "src": "レギュラーシステムの\nようりょうを+3",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    100
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2972,
+   "src": "サブチップを\nもてるかずがふえる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    101
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2973,
+   "src": "HPをマックスまでかいふく!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    113
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2974,
+   "src": "ミステリーデータにかかった\nワナをはずす",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    115
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2975,
+   "src": "ちょくぜんにであったテキと\nもういちどであいやすくなる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    116
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2976,
+   "src": "セキュリティのかかった\nミステリーデータをかいせきする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    117
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2977,
+   "src": "すべてのサブチップ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076DF54",
+    118
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2997,
+   "src": "攻撃をくらっても\nのけぞらなくなる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2998,
+   "src": "カスタム画面で\nさいしょにえらべる\nチップ枚数が+1",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2999,
+   "src": "カスタム画面で\nさいしょにえらべる\nチップ枚数が+2",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3000,
+   "src": "フォルダに入れられる\nメガクラスチップの\n枚数が+1",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3001,
+   "src": "フォルダに入れられる\nメガクラスチップの\n枚数が+2",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3002,
+   "src": "フォルダに入れられる\nギガクラスチップの\n枚数が+1",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3003,
+   "src": "さいしょからバリアが\nそうびされている!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3004,
+   "src": "B+左のコマンドで\nほとんどの攻撃を\nふせぐシールド!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3005,
+   "src": "B+左のコマンドで\n攻撃をはねかえす\nリフレクト!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3006,
+   "src": "B+左のコマンドで\n攻撃をうけたふりして\nしゅりけんをなげる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3007,
+   "src": "地面からすこしういて\nいるのでパネルの\nえいきょうをうけない",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3008,
+   "src": "パネルのないマスでも\nいどうできる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3009,
+   "src": "ちしりょうのダメージ\nをうけてもHP1で\nとりあえずたえる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3010,
+   "src": "自分よりよわいてきと\nであわなくなる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3011,
+   "src": "炎属性ウイルスが\n大スキなオイルをぬり\nねらわれやすくなる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3012,
+   "src": "さかなになりきって\n水属性のウイルスから\nみつけられやすくなる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3013,
+   "src": "バッテリーじょうたい\nで電気属性ウイルスが\nよってくるようになる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3014,
+   "src": "ジャングルのかおりを\nほうしゅつして木属性\nウイルスをひきつける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3015,
+   "src": "てきのざんがいから\nチップデータをみつけ\nだすがんりきがアップ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3016,
+   "src": "ランダムミステリー\nデータからゼニー\nばかりが手に入る!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3017,
+   "src": "きまじめすぎるナビに\nくみこんでLボタンで\nはなしてみてください",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3018,
+   "src": "おとこのびがくが\nわかるナビになる\nLボタンでかいわ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3019,
+   "src": "Bボタンをおしながら\nじゃなくても ナビが\nはしるようになる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    23
+   ],
+   "uses": 2
+  }
+ ]
+}

@@ -1,0 +1,680 @@
+{
+ "batch": 131,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 2140,
+   "src": "ロックマン",
+   "speakers": [],
+   "windows": [
+    "none",
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    0
+   ],
+   "uses": 8,
+   "hint": "록맨"
+  },
+  {
+   "id": 2141,
+   "src": "ダークブルース",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2142,
+   "src": "ブルース[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2143,
+   "src": "ジャイロマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2144,
+   "src": "ジャイロマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2145,
+   "src": "サーチマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2146,
+   "src": "サーチマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2147,
+   "src": "ナパームマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2148,
+   "src": "ナパームマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2149,
+   "src": "マグネットマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2150,
+   "src": "マグネットマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2151,
+   "src": "メディ[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2152,
+   "src": "メディ[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2153,
+   "src": "ダークカーネル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2154,
+   "src": "カーネル[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2155,
+   "src": "シャドーマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2156,
+   "src": "シャドーマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2157,
+   "src": "ナンバーマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2158,
+   "src": "ナンバーマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2159,
+   "src": "トマホークマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2160,
+   "src": "トマホークマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    57
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2161,
+   "src": "ナイトマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    62
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2162,
+   "src": "ナイトマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    63
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2163,
+   "src": "トードマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    68
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2164,
+   "src": "トードマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    69
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2165,
+   "src": "シェードマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    74
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2166,
+   "src": "シェードマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    75
+   ],
+   "uses": 4
+  },
+  {
+   "id": 2167,
+   "src": "ブリザードマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    80
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2168,
+   "src": "ブリザードマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    81
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2169,
+   "src": "クラウドマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    86
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2170,
+   "src": "クラウドマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    87
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2171,
+   "src": "コスモマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    92
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2172,
+   "src": "コスモマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    93
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2173,
+   "src": "スワローマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    98
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2174,
+   "src": "スワローマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    99
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2175,
+   "src": "フットマン[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    104
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2176,
+   "src": "フットマン[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2177,
+   "src": "フォルテ[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    110
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2178,
+   "src": "フォルテ[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    111
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2179,
+   "src": "フォルテ[SP]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    112
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2180,
+   "src": "フォルテ[DS]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    113
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2181,
+   "src": "ネビュラグレイ[V2]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    116
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2182,
+   "src": "ネビュラグレイ[V3]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    117
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2183,
+   "src": "ネビュラグレイ[SP]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    118
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2184,
+   "src": "ネビュラグレイ[DS]",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    119
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2185,
+   "src": "ダークブランド",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    141
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2186,
+   "src": "ブンシン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    142
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2187,
+   "src": "ダークロックマン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751C7C",
+    143
+   ],
+   "uses": 4
+  }
+ ]
+}

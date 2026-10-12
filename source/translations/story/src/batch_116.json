@@ -1,0 +1,63 @@
+{
+ "batch": 116,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 606,
+   "src": "タイム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 607,
+   "src": "ライブラリ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 608,
+   "src": "チップ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 609,
+   "src": "クレジット",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    3
+   ],
+   "uses": 2,
+   "hint": "소지금"
+  }
+ ]
+}

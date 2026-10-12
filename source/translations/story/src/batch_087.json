@@ -1,0 +1,2402 @@
+{
+ "batch": 87,
+ "items": [
+  {
+   "id": 14653,
+   "src": "アッシは このチームで\nオトコを みがいて、",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEAE8",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14654,
+   "src": "そして まり子先生に\nプロポー・・・",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEAE8",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14655,
+   "src": "・・・ゴホン!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEAE8",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14656,
+   "src": "と、とにかく、アッシは\nにげも かくれもしないでマスよ!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEAE8",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14657,
+   "src": "ママ、ただいま",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14659,
+   "src": "あのね、おじいちゃんの\nつくえを せいりしていたら\nこんなものがでてきたの",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14660,
+   "src": "なに?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14661,
+   "src": "よくわからないんだけど、\n熱斗になら わかるかも\nしれないとおもって",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14662,
+   "src": "熱斗は、\n「データディスク」\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14663,
+   "src": "データディスク・・・\nなにが はいってるんだろ\nロックマン、かいせきしてくれ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14664,
+   "src": "「インターネット、科学省、3、\\n まん中、まっすぐ27すすみ、\\n まがって4すすむ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14665,
+   "src": " さらに まがって4すすんだ\\n トコロをしらべる・・・\\n 光データ、はんのう・・・」",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14666,
+   "src": "って、かかれた\nテキストデータが\nはいってるよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14667,
+   "src": "おじいちゃんの おぼえがきか",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14668,
+   "src": "・・・もしかしたら、なにかの\nやくにたつかもしれないな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14670,
+   "src": "熱斗・・・行くのね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14671,
+   "src": "・・・うん、\n・・・あしたのあさ\nしゅっぱつなんだ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14672,
+   "src": "・・・なんで わかったの?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14673,
+   "src": "あなたの ママを\n10年いじょうも\nやっているのよ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14674,
+   "src": "かおを見たら\nなんとなく わかるわ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14675,
+   "src": "また シンパイかけちゃう\nコトになるけど・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14676,
+   "src": "パパは かならず\nつれてかえるから・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14677,
+   "src": "・・・それじゃ オレ、\nこの データディスクのコト\nちょっと しらべてくるよ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14678,
+   "src": "・・・おじいちゃん、\n熱斗と 彩斗を\nまもってあげて・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CEFC0",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14679,
+   "src": "データディスクに かかれていた\nばしょって、ここかな・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF274",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14680,
+   "src": "もしかして・・・\nまた パストビジョンか?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF274",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14683,
+   "src": "ボクのむねのマークが\n光りだした・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF274",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14684,
+   "src": "う、うわーっ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF274",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14685,
+   "src": "パストビジョンへの\nいりぐちだ・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF274",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14686,
+   "src": "ロックマンの プログラムに\nはんのうしたのか・・・?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF274",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14687,
+   "src": "熱斗くん・・・行こう",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF274",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14688,
+   "src": "どうだ、ロックマ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14689,
+   "src": "シッ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14690,
+   "src": "だれかいるよ・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14691,
+   "src": "ココロネットワークの\nきそりろん かんせいだ",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14692,
+   "src": "ココロサーバーの\nせっけいずも かんせいじゃ",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14693,
+   "src": "ワタシたち 2人の\nきょうどうけんきゅう・・・",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14694,
+   "src": "ココロネットワークが\nかんせいすれば",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14695,
+   "src": "世界中の人びとが\nわかりあえる あらそいのない\n世の中を つくるコトができる",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14696,
+   "src": "しかし、そのためには\nのりこえなければならない\n大きなかだいが あるがの・・・",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14697,
+   "src": "ワタシは このりろんを\n「光レポート」 として\n祐一朗に・・・",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14698,
+   "src": "ワシは せっけいずを\nリーガルに たくす・・・",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14699,
+   "src": "・・・しかし、こうして\nここで けんきゅうするのも\n今日で さいごか・・・",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14700,
+   "src": "すこし さみしい気がするのう",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14701,
+   "src": "ハハハ、おまえらしくない\nセリフだな、ワイリー",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14702,
+   "src": "フフフ・・・\nまぁ、そういうな",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14703,
+   "src": "人のココロを データに\nへんかんして、",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14704,
+   "src": "ココロサーバーを かいして\n人と人とのココロを つないで",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14705,
+   "src": "ココロのネットワークを\nつくろうと いいだした時は\nしょうじき おどろいたが、",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14706,
+   "src": "みごとに ネットワークりろんを\nかんせいさせるとは、\nさすがじゃよ、光・・・",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14707,
+   "src": "ワタシのりろんも おまえの\nロボットこうがくの ぎじゅつが\nあってはじめて かんせいしたんだ",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14708,
+   "src": "光はかせ、光はかせ、\nおきゃくさまです",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14709,
+   "src": "だい3かいぎ室まで\nおこしください",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14710,
+   "src": "およびが かかったな",
+   "speakers": [
+    "YoungTadashi",
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    14
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14711,
+   "src": "さて、行くとするかな",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14712,
+   "src": "それじゃあな、ワイリー",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14713,
+   "src": "今の、わかいころの\nおじいちゃんだよね・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14714,
+   "src": "それに、おくにいるのが\nわかいころの ワイリー・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14715,
+   "src": "って、炎山がいってた",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14716,
+   "src": "おじいちゃんと\nきょうどうけんきゅう\nしていたっていう 科学者って、",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    18
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14717,
+   "src": "ワイリーだったのか!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    18
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14718,
+   "src": "それに、まさか リーガルが\nワイリーの ムスコ\nだったなんて・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    18
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14719,
+   "src": "ワイリーはかせ、ワイリーはかせ、\nおきゃくさまです",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14720,
+   "src": "だい1かいぎ室まで\nおこしください",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14721,
+   "src": "さて、行くとするかのう",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14722,
+   "src": "それじゃあな、光",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14723,
+   "src": "今の、わかいころの\nワイリーだよね・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14724,
+   "src": "それに、おくにいるのが\nわかいころの おじいちゃん・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14725,
+   "src": "って、バレルさんがいってた",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14726,
+   "src": "さっき、おじいちゃん\n「光レポート」 って\nいってたよね・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14727,
+   "src": "それに、リーガルは ワイリーから\nうけついだ、ココロサーバーの\nせっけいずを もっているはず",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14728,
+   "src": "リーガルが「光レポート」 を\nねらっているというコトは、",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14729,
+   "src": "おじいちゃんたちの\nけんきゅう・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14730,
+   "src": "ココロネットワークを\nつくるつもりなのか?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14731,
+   "src": "けど、おじいちゃんたちは、\n人と人のココロを つないで、",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14732,
+   "src": "ぜんじんるいが わかりあえる\n世界を つくるために",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14733,
+   "src": "ココロネットワークを\nつくったんだろ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14734,
+   "src": "いったい なにがねらいだ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14735,
+   "src": "熱斗くん、ワイリーに\nはなしを きいてみようよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14736,
+   "src": "なにか、じょうほうが\nもらえるかもしれないよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    27
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14737,
+   "src": "け、けど だいじょうぶか?\nワイリーだぜ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14738,
+   "src": "気をつけろよ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14739,
+   "src": "だいじょうぶだって\nあそこにいるのは\nむかしのワイリーだもん",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14740,
+   "src": "それじゃ、行ってくるね",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14741,
+   "src": "あ、あの・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    30
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14742,
+   "src": "ココロネットワーク・・・",
+   "speakers": [
+    "YoungWily",
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    31
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14743,
+   "src": "アレが じつようできる\n世の中がくるといいのじゃが・・・",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14744,
+   "src": "ココロネットワークは\nもろはのつるぎ・・・",
+   "speakers": [
+    "YoungWily",
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    31
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14745,
+   "src": "しかし、さいあくのばあいも\nかんがえて おかねばな・・・",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14746,
+   "src": "さて、ワシも そろそろ行くか",
+   "speakers": [
+    "YoungWily"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14747,
+   "src": "行っちゃった・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    32
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14748,
+   "src": "さいあくのばあいって\nいったい・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14749,
+   "src": "とにかく、ワイリーが\nシンパイしていたコトを",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14750,
+   "src": "リーガルは しようと\nしてるみたいだな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14751,
+   "src": "リーガル・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    33
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14752,
+   "src": "おじいちゃんたちの\nねがいを ふみにじるような\nコトをしやがって・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    33
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14753,
+   "src": "ロックマン、プラグアウトだ\nあしたの けっせんにそなえて\n今日は もうやすもう",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    33
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14754,
+   "src": "熱斗くん、おじいちゃんに\nはなしを きいてみようよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14755,
+   "src": "あぁ、そうしてみてくれ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14756,
+   "src": "きっと、ムスコたちが\nアレを じつようかできる\n世界を つくってくれるはずだ",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14757,
+   "src": "たのむぞ、ムスコたちよ・・・",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14758,
+   "src": "さて、ワタシも行くとするか",
+   "speakers": [
+    "YoungTadashi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CF364",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14759,
+   "src": "いよいよ けっせんの日だね\nきのうは よくねむれた?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFA38",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14760,
+   "src": "あぁ、バッチリだぜ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFA38",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14761,
+   "src": "さぁ、しゅうごうばしょに\n行こうぜ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFA38",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14762,
+   "src": "たしか、ヒグレヤのまえ\nだったよな?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFA38",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14763,
+   "src": "ママにちゃんと\n行ってきますを\nいってから行こうね!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFA38",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14764,
+   "src": "あぁ、もちろんさ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFA38",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14765,
+   "src": "それに、パパといっしょに\n「ただいま」 も いってやるさ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFA38",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14766,
+   "src": "リーガルを ブッとばして\nパパを たすけるぜ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14767,
+   "src": "ところでさ、ネビュラの\nほんきょちってのは、\nドコにあるんだ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14768,
+   "src": "ニホンで もっとも\nたかいばしょだ",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14769,
+   "src": "ニホンで いちばん\nたかいトコロっていえば・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    3
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14770,
+   "src": "まさか、フジ山!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    3
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14771,
+   "src": "その まさかだ・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    4
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14772,
+   "src": "ひょうこう 3777メートル\nニホンで もっとも たかい山",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    4
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14773,
+   "src": "その火口に、ネビュラの\nほんきょちが ある",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    4
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14774,
+   "src": "けど、そんなトコロに\nどうやって行くんだよ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14775,
+   "src": "まさか、みんなで\n山のぼりするのか!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    5
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14776,
+   "src": "山のぼりなど するはずが\nないだろうが",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14777,
+   "src": "オフィシャルのヘリを\nよういした",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14778,
+   "src": "なるほど、\nじゅんび ばんたんだな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    7
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14779,
+   "src": "・・・それじゃあ、行くか",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    7
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14780,
+   "src": "オレたちも のりこむか・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    9
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14781,
+   "src": "光、きゃくだぞ・・・\nオレは さきに行っている\n手みじかにな",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14782,
+   "src": "リーガルを ブッとばして\nパパを たすけよう!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14783,
+   "src": "ところで、ネビュラの\nほんきょちってのは、\nドコにあるの?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14784,
+   "src": "け、けど、そんなトコロに\nどうやって行くんだよ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14785,
+   "src": "山のぼりなど するはずが\nないだろう・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14786,
+   "src": "オフィシャルに てはいして\nヘリを よういした",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14787,
+   "src": "・・・光熱斗、きゃくだぞ\nさきに行っている\n手みじかにな・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14788,
+   "src": "み、みんな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14789,
+   "src": "熱斗、だまって行くなんて\n水くせえじゃねーか!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14790,
+   "src": "たしかに、今のワタシたちは\nアンタたちの チカラには\nなれないとおもうけど・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14791,
+   "src": "シンパイくらい\nさせなさいよね!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14792,
+   "src": "・・・熱斗、\nぶじに かえってきて\nくれなきゃヤだよ・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14793,
+   "src": "みんな・・・",
+   "speakers": [
+    "Lan",
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    26
+   ],
+   "uses": 8
+  },
+  {
+   "id": 14794,
+   "src": "ぜったいに ガッツマン、\nロール、グライドは\nつれてかえってくるからな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14795,
+   "src": "ちょっとの あいだ\nまっててくれよ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14796,
+   "src": "それじゃ、しゅっぱつの\n時間だから",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14797,
+   "src": "熱斗!!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14798,
+   "src": "ぜったい・・・ぜったいに\nぶじで かえってきてね・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14799,
+   "src": "かえってきたら、\nネットバトルしようぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14801,
+   "src": "・・・みんな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14802,
+   "src": "・・・行ってくるぜ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14803,
+   "src": "もういいのか?",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    31
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14804,
+   "src": "あぁ、またせたな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14805,
+   "src": "行こう、しゅっぱつだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    32
+   ],
+   "uses": 4
+  },
+  {
+   "id": 14806,
+   "src": "うん、おまたせ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFB14",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 14807,
+   "src": "秋原町をしゅっぱつして\n数時間・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07CFF20",
+    0
+   ],
+   "uses": 2
+  }
+ ]
+}

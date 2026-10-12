@@ -1,0 +1,95 @@
+{
+ "batch": 115,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 599,
+   "src": "フォルダ1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07006B4",
+    0
+   ],
+   "uses": 2,
+   "hint": "폴더1"
+  },
+  {
+   "id": 600,
+   "src": "フォルダ2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07006B4",
+    1
+   ],
+   "uses": 2,
+   "hint": "폴더2"
+  },
+  {
+   "id": 601,
+   "src": "オマケフォルダ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07006B4",
+    2
+   ],
+   "uses": 2,
+   "hint": "덤 폴더"
+  },
+  {
+   "id": 602,
+   "src": "メイジンフォルダ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07006B4",
+    3
+   ],
+   "uses": 2,
+   "hint": "명인 폴더"
+  },
+  {
+   "id": 603,
+   "src": "ミナライフォルダ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07006B4",
+    4
+   ],
+   "uses": 2,
+   "hint": "견습 폴더"
+  },
+  {
+   "id": 604,
+   "src": "アクニンフォルダ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07006B4",
+    5
+   ],
+   "uses": 2
+  }
+ ]
+}

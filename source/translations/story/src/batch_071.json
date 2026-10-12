@@ -1,0 +1,2396 @@
+{
+ "batch": 71,
+ "items": [
+  {
+   "id": 12215,
+   "src": "ブースターシステムを\nかこんでおりますのは、",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12216,
+   "src": "ブースターシステムで\nきょうかした ガードマンナビです!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12217,
+   "src": "かれらの せいのうは\nノーマルナビの およそ10ばい!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12218,
+   "src": "おぉ~~!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12219,
+   "src": "それでは、さっそく\nブースターシステムの チカラを\nごらんいただきましょう!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12220,
+   "src": "て、ていでんだ!\nな、なにが おこったんだ!?",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12221,
+   "src": "ぐわぁーーっ!!",
+   "speakers": [
+    "OfficialNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12222,
+   "src": "のわぁーーーーっ!!",
+   "speakers": [
+    "OfficialNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12223,
+   "src": "な、なにが おこっているんだ!?",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12224,
+   "src": "ブースターシステムは、\nブースターシステムは ぶじか!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12225,
+   "src": "はやく、電気をつけろ!!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12226,
+   "src": "あーーーーーっ!!\nブースターシステムが!!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12227,
+   "src": "なんだってーーっ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF6A4",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12228,
+   "src": "ブ、ブースターシステムが\nうばわれてしまった・・・",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12229,
+   "src": "ネビュラの しわざか!\n・・・あいつは どこだ!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12230,
+   "src": "まてよ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12231,
+   "src": "あのー、おにいさん、\nさっきの ていでんのとき、",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12232,
+   "src": "このへやに だれかが\nはいってきたり、\nでていったりした?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12233,
+   "src": "ノー・・・",
+   "speakers": [
+    "BlondMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12234,
+   "src": "オレが このいりぐちを\nまもっているいじょう、",
+   "speakers": [
+    "BlondMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12235,
+   "src": "ネコのこ いっぴき\nいれてもいないし\nだしてもいない!!",
+   "speakers": [
+    "BlondMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12236,
+   "src": "ってコトは、はんにんは\nこのへやの中ってコトか・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12237,
+   "src": "なんだ、コイツ!",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12238,
+   "src": "あやしいヤツが テーブルの下に\nかくれてたぞ!",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12239,
+   "src": "おまえは なにもんだ!",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12240,
+   "src": "な、なんのことか\nわからないよ・・・",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12241,
+   "src": "しらばっくれるのも\nいいかげんにしろ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12242,
+   "src": "みんな、コイツは\nネビュラの メンバーだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12243,
+   "src": "なにい!!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12244,
+   "src": "オイッ!!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12245,
+   "src": "ブースターシステムは どこだ!\nはやくだせ! 今すぐだせ!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12246,
+   "src": "うおるぁあっ!!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12247,
+   "src": "オ、オ、オレじゃねえよ!",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12248,
+   "src": "うるせえ、そんなこと\nしんじられるか!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12249,
+   "src": "ひんむいて しらべろ!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12250,
+   "src": "ひっ、ひーーーっ!",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12251,
+   "src": "オゥ、ノーーーォゥ・・・",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12252,
+   "src": "・・・PETの中にも\nふくの中にも どこにもない!\nどこに かくしたんだ!!",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12253,
+   "src": "だから、しらないって\nいっただろ!!",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12254,
+   "src": "オレが とろうと\nおもったときに、\nていでんが おきたんだ!",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12255,
+   "src": "じゃ、じゃあ・・・\nはんにんが ほかに\nいるってコトか!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12256,
+   "src": "そうだよ!",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12257,
+   "src": "オレいがいに はんにんが\nいるんだよ!!",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12258,
+   "src": "なにぃ!?",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12259,
+   "src": "それじゃあ、この中に\nしんはんにんが いると\nいうのか!?",
+   "speakers": [
+    "SciLabMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12260,
+   "src": "オレの見たところ、\nこのへやにいる\nじんぶつは ぜんいんシロだ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12261,
+   "src": "ていでん中、はんにんは\nなんらかのかたちで\nてんじだいにプラグインし、",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12262,
+   "src": "ガードマンナビ8体を\nいっしゅんで たおし、\nブースターシステムをうばった",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12263,
+   "src": "ワタシの見たところ、\nこのへやにいる\nじんぶつは ぜんいんシロだ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12264,
+   "src": "たしかに、あのくらやみの中で\nナビをオペレートするのは\nむずかしいな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12265,
+   "src": "さらに ブースターシステムで\nきょうかされた ガードマンナビを\nたおすなんて、ふかのうにちかいな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12266,
+   "src": "って、コトはなにか\nしかけでもあるのか・・・?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12267,
+   "src": "ちょっと、しらべてみるか",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BF7F4",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12268,
+   "src": "なんとなく わかったぜ・・・\nこのへやに しかけられた\nトリックがな!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12269,
+   "src": "・・・それは?",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12270,
+   "src": "それは・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    3
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12271,
+   "src": "テーブルがあやしい!\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    4
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12272,
+   "src": "りょうりが あやしい!\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    4
+   ],
+   "uses": 6
+  },
+  {
+   "id": 12273,
+   "src": "かがみが あやしい!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    4
+   ],
+   "uses": 12
+  },
+  {
+   "id": 12274,
+   "src": "まちがいない・・・\nテーブルに しかけがあるはずだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12275,
+   "src": "テーブルを ぜんぶしらべたけど、\nなんにもなかったぜ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12276,
+   "src": "それじゃあ、\nつぎにあやしいのは・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    6
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12277,
+   "src": "まちがいない・・・\nりょうりに しかけがあるはずだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12278,
+   "src": "モグモグ・・・ゲップ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12279,
+   "src": "ひととおり たべてみたけど、\nおいしいだけで、とくに\nしかけは なかったぜ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12280,
+   "src": "かがみだ!\nかがみがあやしい!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12281,
+   "src": "かがみ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12282,
+   "src": "どういうコトだ?",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12283,
+   "src": "マジックミラーだ!\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12284,
+   "src": "かがみの はんしゃだ!\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    13
+   ],
+   "uses": 6
+  },
+  {
+   "id": 12285,
+   "src": "かがみを わるんだよ!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12286,
+   "src": "見てろよ・・・\nこのかがみは マジックミラー\n・・・じゃない",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12287,
+   "src": "む、むーーーっ!\nじゃ、じゃあ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    14
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12288,
+   "src": "このかがみを わると・・・\nって、わっちゃマズいよな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12289,
+   "src": "それに われてもいない・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12290,
+   "src": "かがみってのは\nいろんなモノを はんしゃ\nさせるんだよな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12291,
+   "src": "たとえば、このかがみに\n光が あたったとすると、\nこうはんしゃして・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12292,
+   "src": "プラグインする時、\nナビは セキガイセンにのって\nとんでいく・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    17
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12293,
+   "src": "なるほど、かがみに\nはんしゃさせれば、",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    17
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12294,
+   "src": "はなれたトコロから\nプラグインできるということか!",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    17
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12295,
+   "src": "つまり、てんじだいから\nかがみを たどれば、",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    17
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12296,
+   "src": "はんにんのいどころが\nわかるというワケだな・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    17
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12297,
+   "src": "も、もちろんだぜ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12298,
+   "src": "(そ、そこまで\\n かんがえてなかった・・・)",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12299,
+   "src": "とっ、とにかく、\nかがみを たどって\nはんにんをさがすぜ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12300,
+   "src": "テーブルが あやしい!\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12301,
+   "src": "かがみの はんしゃだ!\nかがみを わるんだよ!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12302,
+   "src": "マジックミラーだ!\nかがみの はんしゃだ!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12303,
+   "src": "かがみの はんしゃだ!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BFBF0",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12304,
+   "src": "おにいさん、だいじょうぶ!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0040",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12305,
+   "src": "ワ、ワタシは だいじょうぶだ\n・・・・・・",
+   "speakers": [
+    "SciLabYoungMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0040",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12306,
+   "src": "は、はやく このさきにある\nそうだ室へ・・・\nふねが・・・のっとられた・・・",
+   "speakers": [
+    "SciLabYoungMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0040",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12307,
+   "src": "・・・ガクッ!",
+   "speakers": [
+    "SciLabYoungMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0040",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12309,
+   "src": "はんにんめ、\nブースターシステムをかえせ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12310,
+   "src": "・・・お、おまえは!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12311,
+   "src": "お、おめえは さっきの!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12312,
+   "src": "ネンジさん・・・\nなんで こんなコトをしたんだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12313,
+   "src": "てやんでいっ!!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12314,
+   "src": "ブースターシステムが\n手にはいれば オレのハナビは",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12315,
+   "src": "もっと 大きく、\nうつくしくなるんでい!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12316,
+   "src": "・・・ハナビ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12317,
+   "src": "おうよ!\nオレは 電脳ハナビしょくにんよ!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12318,
+   "src": "より大きく、よりうつくしい\nハナビを つくるためなら\nしゅだんは えらばねえってんだ!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12319,
+   "src": "コンチクショウ!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12320,
+   "src": "どうしても ブースターシステムを\nとりかえしてえんなら、",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12321,
+   "src": "そこにプラグインして、\nこのふねの電脳の中にいる\nオレのナビを たおしてみな!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12322,
+   "src": "お、おまえは さっきの!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12323,
+   "src": "ディンゴ・・・\nなんで こんなコトをしたんだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12324,
+   "src": "ブースターシステムは、\nオレたちのてきだ!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12325,
+   "src": "・・・てき?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12326,
+   "src": "ブースターシステムを\nかいはつした",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12327,
+   "src": "ビッグカンパニーの\nリゾートかいはつのせいで\nオレのむらは つぶれたんだ・・・",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12328,
+   "src": "ブースターシステムが 世界中に\nひろまれば、オレとおなじ目にあう\n人びとが たくさんでてくる",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12329,
+   "src": "オレは そんなこと、\nぜったいに ゆるさない!!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12330,
+   "src": "どうしても ブースターシステムを\nとりかえしたいんだったら、",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12331,
+   "src": "そこにプラグインして、\nこのふねの電脳の中にいる\nオレのナビを たおすんだな!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12332,
+   "src": "くそっ、はなしあいは\nつうじないようだな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12333,
+   "src": "やるっきゃないな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12334,
+   "src": "プラグイン!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    12
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12335,
+   "src": "ブルース.EXE、\nトランスミッション!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12336,
+   "src": "カーネル.EXE、\nトランスミッション!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C00CC",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12337,
+   "src": "オレは ナパームマン",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0358",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12338,
+   "src": "オレを たおさねえと\nブースターシステムは\nかえらねえぜ・・・",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0358",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12339,
+   "src": "では、キサマをたおして\nブースターシステムを\nかえしてもらおう・・・",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0358",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12340,
+   "src": "オレは トマホークマン",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0358",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12341,
+   "src": "オレを たおさないと\nブースターシステムは\nかえらないぜ・・・",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0358",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12342,
+   "src": "キサマを たおせばいいのか\nたやすいミッションだ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0358",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12343,
+   "src": "いくぜ、ブルース!\nバトルオペレーション、セット!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0358",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12344,
+   "src": "いくぜ、カーネル!\nバトルオペレーション、セット!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0358",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12345,
+   "src": "ぶっとばしてやらあっ!!",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0358",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12346,
+   "src": "トマホークの サビにしてやる!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C0358",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12347,
+   "src": "ナパームマン、\nブースターシステムは\nかえしてもらったぞ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12348,
+   "src": "なっ、いつのまに!?",
+   "speakers": [
+    "NapalmMan",
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12349,
+   "src": "バトルの さいちゅうに\nいただいた・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12350,
+   "src": "バトルに まけても\nおうじょうぎわの わるい\nヤツらがおおいのでな",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 12351,
+   "src": "チクショウ・・・\nオレの ユメのハナビが・・・",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12352,
+   "src": "ネンジさん・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12353,
+   "src": "人からうばった システムで\nあたらしいハナビを つくるなんて",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12354,
+   "src": "そんなやりかたで\n人のココロをうつ ハナビなんて\nできはしないよ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12355,
+   "src": "どんなに くろうしようと、\nじぶんの手で つくりあげてこそ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12356,
+   "src": "人を かんどうさせる\nハナビができるんじゃないの?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12357,
+   "src": "・・・・・・・・・\\n",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12358,
+   "src": "おまえの いうとおりだ",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12359,
+   "src": "オレは すばらしい ハナビを\nつくりあげるコトばかりに\n気をとられて、",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12360,
+   "src": "しょくにんに とって、\nイチバンだいじなモノを\nわすれてしまっていたみてえだ",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12362,
+   "src": "ネンジさんたちを\n見のがして あげられないか?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12363,
+   "src": "ブースターシステムも\nぶじだったし、",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12364,
+   "src": "ほんにんも はんせい\nしてるみたいだからさ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12365,
+   "src": "・・・フッ、\nつくづくあまいヤツだ・・・",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 12366,
+   "src": "ナパームマン・・・",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07C047C",
+    10
+   ],
+   "uses": 2
+  }
+ ]
+}

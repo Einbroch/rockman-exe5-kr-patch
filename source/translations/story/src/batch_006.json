@@ -1,0 +1,2234 @@
+{
+ "batch": 6,
+ "items": [
+  {
+   "id": 1781,
+   "src": "自エリアをぎせいに\nしてつぎのチップの\n攻撃力を+20ずつ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    207
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1782,
+   "src": "自分のエリアの\nすべてのマスを\nホーリーパネルに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    208
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1783,
+   "src": "カスタムゲージが\nいっしゅんで\nマンタンになる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    209
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1784,
+   "src": "あいてエリアに\nむすうのリュウセイ\nがふりそそぐ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    210
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1785,
+   "src": "HPの下2ケタが\n攻撃力になるボール\nを前方にハッシャ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    211
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1786,
+   "src": "チップをもつてきに\n枚数におうじた\nダメージをあたえる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    212
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1787,
+   "src": "フィールド上にある\nぶったいをとばして\nあいてにぶつける!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    213
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1788,
+   "src": "てきエリアはしに\nどうくつがあらわれ\nくろいツバサ攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    214
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1789,
+   "src": "目の前に攻撃力を\nじょうしょうさせる\nオテンコサマをおく",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    215
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1790,
+   "src": "左から5れつめ\nまん中のマスに\nせいぎのコブシ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    216
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1791,
+   "src": "へんげんじざいの\nテクニカルソード\nじょうきゅうへん",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    217
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1792,
+   "src": "でんせつの あかい\nレプリロイドの\n3だんぎりソード",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    218
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1793,
+   "src": "さらにこうはんいに\nたいようこうせんを\nしょうしゃする!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    219
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1794,
+   "src": "きょういの\n12れんしゃ\nバルカンほう!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    220
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1795,
+   "src": "てき1たいを攻撃\nかいふくのハートで\nいやしてくれる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    221
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1796,
+   "src": "ヘリけいたいになり\nおなじれつの前方に\nばくげき!!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    224
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1797,
+   "src": "4マス前方に\n9マス分にひろがる\nナパームボム!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    227
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1798,
+   "src": "サイトをボタンで\nとめて 5れんしゃ\nのスコープガン!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    230
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1799,
+   "src": "前方へNSタックル\nでとっしんする!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    233
+   ],
+   "uses": 8
+  },
+  {
+   "id": 1800,
+   "src": "カプセルボムを2コ\nてきのエリアに\nなげこむ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    236
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1801,
+   "src": "てきの前にいって\nきりつけてまわる\nいけないばあいも",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    239
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1802,
+   "src": "3マス前方にボム!\n攻撃力は出目しだい\n9マス分にばくはつ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    242
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1803,
+   "src": "おなじれつ前方の\nてきを 右あがりの\nななめにきりつける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    245
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1804,
+   "src": "てきのいるマスに\n3まいのしゅりけん\nをなげつける!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    248
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1805,
+   "src": "よこ2、たて3マス\nをきりつける\nトマホークスイング",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    251
+   ],
+   "uses": 8
+  },
+  {
+   "id": 1806,
+   "src": "じぶんのしゅういを\nかいてんする\nてっきゅう攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    254
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1807,
+   "src": "マヒこうかのある\nうたをはなつ\nついびしてすすむ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    1
+   ],
+   "uses": 8
+  },
+  {
+   "id": 1808,
+   "src": "ほうしゃじょうに\nちょうおんぱ攻撃\nクラッシュノイズ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    4
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1809,
+   "src": "前方にゆきだま!\nものにあたると\nまきこんで大きく!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    7
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1810,
+   "src": "てきのはいごに\nクラウドをうみだし\nカミナリ攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    10
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1811,
+   "src": "そらにあなをあけて\nいんせきをふらせる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    13
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1812,
+   "src": "2マス前方をとおる\nルートでせんかいし\nてきを攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    16
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1813,
+   "src": "ななめ上へかけだし\nゴールにたっすると\n大ばくはつをおこす",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    19
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1814,
+   "src": "前方のてきを\nかんおけにとじこめ\nたいよう光で攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    22
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1815,
+   "src": "ミテイ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    25
+   ],
+   "uses": 134
+  },
+  {
+   "id": 1816,
+   "src": "アキ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    35
+   ],
+   "uses": 20
+  },
+  {
+   "id": 1817,
+   "src": "前方こうはんいに\nれんしゃする\nフォルテバスター!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1818,
+   "src": "きりつけるときに\nAボタンでさいこう\n3だんのソード攻撃",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1819,
+   "src": "あいてをひどい\nバグじょうたいに\nしてしまう!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1820,
+   "src": "うちゅうから\nせいぎのこぶしが\nむすうにふりそそぐ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1821,
+   "src": "まん中のれつを\nまっすぐすすむ\nきょだいロケット!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    49
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1822,
+   "src": "いちどだけまがる\nリングを4発\nなげつける!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1823,
+   "src": "ホーリーパネルを\nすいこんで前方へ\nホーリーショット!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1824,
+   "src": "よこ2マスぶんの\nコブシが2つ\nフックをはなつ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1825,
+   "src": "前方のてきを\nクロスにきりつける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1826,
+   "src": "はっせいしている\nバグの分だけ、バグ\nもろともはっしゃ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    54
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1827,
+   "src": "フィールドまん中に\nふりそそぐ火炎!\nさらにHPかいふく",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    57
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1828,
+   "src": "フィールド中に\nヤミの炎、さらに\nナビをリサイクル!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    58
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1829,
+   "src": "あてるとゾクタイに\nステータスいじょう\nのオジャマ攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    59
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1830,
+   "src": "あてるとゾクタイの\n方にカラスがあらわ\nれるオジャマ攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1831,
+   "src": "あてるとゾクタイの\nシェードマンHPを\nかいふくさせる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1832,
+   "src": "あてるとゾクタイに\n3しゅるいの\nオジャマ攻撃をする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    62
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1833,
+   "src": "前方のてきに\nギガきゅうの\nキャノン攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    64
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1834,
+   "src": "前方のてきに\n20れんしゃの\nひっさつバルカン!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    67
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1835,
+   "src": "前方のてきに\n24れんしゃの\nひっさつバルカン!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    68
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1836,
+   "src": "前方のてきに\n28れんしゃの\nひっさつバルカン!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    69
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1837,
+   "src": "前方のかくれつに\n炎のパンチを\nれんぞくではなつ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    70
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1838,
+   "src": "かんつうする\nワイドショットを\n3れんしゃ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    73
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1839,
+   "src": "ゆれながらすすむ\nユラのパレード!\nあいてをマヒに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    76
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1840,
+   "src": "てきエリアに\nサボテンボールが\nふりそそぎつづける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    79
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1841,
+   "src": "ヒットすると\nまわりにひろがる\nれんぞくはれつ攻撃",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    82
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1842,
+   "src": "よこ2、たて3の\nはんいをきる\nきょだいソード!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    83
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1843,
+   "src": "たて3れつに\nすすむヨーヨー!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    84
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1844,
+   "src": "はんしゃしながら\nすすむきょうふの\nホッケー攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    85
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1845,
+   "src": "目の前にどくを\nはっせいさせる\nファラオぞうをおく",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    86
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1846,
+   "src": "コスモホールから\nわくせいをよびだし\n攻撃する!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    87
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1847,
+   "src": "2マス前方をとぶ\nきどうで3かいてん\nとびまわり攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    88
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1848,
+   "src": "てきエリアに\n4マスはんい攻撃の\nボールをけりこむ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    89
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1849,
+   "src": "4マス前方まで\nとどく きょだい\nちょうおんぱ!!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1850,
+   "src": "てきエリアのどこか\nにギガカウントボム\nをはっせいさせる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1851,
+   "src": "ようじんぼうが\nしゅりけんをなげ\n攻撃してくれる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    92
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1852,
+   "src": "目の前のマスに\nパイルドライバーを\nおいて前方を攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    93
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1853,
+   "src": "1つ前にえらんだ\n攻撃チップに\nこんらんをつける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    124
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1854,
+   "src": "1つ前にえらんだ\n攻撃チップに\nもうもくをつける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    125
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1855,
+   "src": "1つ前にえらんだ\n攻撃チップに\nマヒこうかをつける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    126
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1856,
+   "src": "1つ前にえらんだ\n攻撃チップに\nHPバグをつける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    127
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1857,
+   "src": "1つ前にえらんだ\n攻撃チップに\nリカバリーをつける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    128
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1858,
+   "src": "2マス前に\nふみこんで\nワイドソード!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    145
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1859,
+   "src": "ヘリにへんけいして\nそのれつをとび\nばくげきしていく!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    146
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1860,
+   "src": "カーソルをとめて\nそのマスにクロスに\nひろがるレーザー!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    149
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1861,
+   "src": "4マス前方のマスに\n9マス分にひろがる\nナパームボム!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    150
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1862,
+   "src": "マヒこうかのある\nカプセルを\n3マス前になげる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    154
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1863,
+   "src": "前方にキャノンほう\n画面はしにとどくと\nたて3マスばくふう",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    157
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1864,
+   "src": "ブンシンがあらわれ\nちかいてきに\nロングソード!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    158
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1865,
+   "src": "2マス前方に\nナンバートラップ!\nふむとワナはつどう",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    161
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1866,
+   "src": "前方へむけて\nかんつうする\nてっきゅうをはなつ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074ED60",
+    165
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1867,
+   "src": "熱斗くん、にげた方がいいかな?\\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1873,
+   "src": "てきは作戦へんこう中だな\nオレたちも へんこうしちゃう?\n",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1875,
+   "src": "てきは作戦へんこう中だぜ\nオレたちもへんこうするか?\n",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1876,
+   "src": "てきは作戦へんこう中だ\nオレたちも へんこうするか?\n",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1877,
+   "src": "てきは作戦へんこう中みたいね\nワタシたちもへんこうする?\n",
+   "speakers": [
+    "Meddy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1878,
+   "src": "てきは作戦へんこう中だ\nわれわれもへんこうするか?\n",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1879,
+   "src": "てきは作戦へんこう中でござる\nわれわれもへんこういたすか?\n",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1881,
+   "src": "てきは作戦へんこう中だな\nオレらもへんこうするか?\n",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1882,
+   "src": "てきは作戦へんこう中なり!\nわれらもへんこういたすか?\n",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1883,
+   "src": "てきは作戦へんこう中だケロ\nボクらもへんこうするケロ?\n",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1884,
+   "src": "光、ここは いったんひくか?\\n",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1885,
+   "src": "よし!\nなんとか にげきれたようだな",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1886,
+   "src": "クッ!\nにげきれない・・・!",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    19
+   ],
+   "uses": 8
+  },
+  {
+   "id": 1887,
+   "src": "光熱斗、\nここは いったんひくか?\n",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1888,
+   "src": "\\nなんとか にげきれたようだな",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 1889,
+   "src": "今は にげている\nばあいじゃないぞ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1890,
+   "src": "おっと、今は にげている\nばあいじゃ ないぜ!",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1891,
+   "src": "今 にげるのは\nとくさくではない\nせんとうを つづけるぞ!",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1892,
+   "src": "オレは にげる\nつもりなんてないぜ!\nもっと たたかわせろ!",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1893,
+   "src": "今は にげている\nばあいじゃないぜ!!",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1894,
+   "src": "ちょっと、今は にげている\nばあいじゃないでしょ!",
+   "speakers": [
+    "Meddy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1895,
+   "src": "今は にげている\nばあいではないぞ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1896,
+   "src": "今は にげている\nばあいでは ござらんぞ・・・",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1897,
+   "src": "こ、こわいですけど、\n今は にげている\nばあいじゃないようです!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1898,
+   "src": "今は にげている\nばあいじゃないぜ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1899,
+   "src": "今は にげているばあいでは\nありませんぞ!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1900,
+   "src": "ケロロ!!\n今は にげちゃダメだケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1901,
+   "src": "チャーリー、ここは いったん\nにげとくか?\n",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1902,
+   "src": "よし!\nなんとか にげきれたみたいだ!",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1903,
+   "src": "ウォッ!\nにげきれなかったぜ!",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1904,
+   "src": "ライカさま、ここは いったん\nたいきゃくしますか?\n",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1905,
+   "src": "\\nにげきれたようです・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1906,
+   "src": "クッ!\nにげきれなかったか!",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1907,
+   "src": "ネンジよぉ、ふほんいだが、\nここは いったん にげるか?\n",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1908,
+   "src": "よし\nにげきれたようだな・・・",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1909,
+   "src": "チッ!\nにげきれなかったか!",
+   "speakers": [
+    "NapalmMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1910,
+   "src": "テスラさま、\nここは いったん にげますか?\n",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1911,
+   "src": "よし!\nにげきれたようです!",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1912,
+   "src": "クソッ!\nにげきれなかったか!",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1913,
+   "src": "ジャスミン、ここは\nにげておいたほうが いいかな?\n",
+   "speakers": [
+    "Meddy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1914,
+   "src": "やった!\nにげきれたみたいね!",
+   "speakers": [
+    "Meddy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1915,
+   "src": "キャッ!\nにげきれなかったよ!",
+   "speakers": [
+    "Meddy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    49
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1916,
+   "src": "おやかたさま、\nいったん ひきますか・・・\n",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1917,
+   "src": "\\nにげきれたようです",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1918,
+   "src": "チッ!\nにげきれなかったか",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1919,
+   "src": "や、闇太郎\nここは にげておきますか?\n",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1920,
+   "src": "ホッ、\nなんとか にげきれたようですね",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    54
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1921,
+   "src": "ヒッ!\nにげきれませんでした!",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1922,
+   "src": "どうした ディンゴ、\nにげるのか!?\n",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1923,
+   "src": "よし!\nにげきれたぜ!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    57
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1924,
+   "src": "ク!\nにげきれなかったか!",
+   "speakers": [
+    "TomahawkMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    58
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1925,
+   "src": "ひめさま、いちじ たいきゃく\nされますか!?\n",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    59
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1926,
+   "src": "ウム!\nにげきれたようですぞ!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1927,
+   "src": "ムゥ!\nにげきれなかったか!",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1928,
+   "src": "ケロ、ここは いったん\nにげるケロ?\n",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    62
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1929,
+   "src": "ケロロ!\nにげきれたケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    63
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1930,
+   "src": "ケロ!\nにげきれなかったケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    64
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1931,
+   "src": "炎山さま、いったん\nたいきゃくしますか?\n",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    65
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1932,
+   "src": "よし!\nなんとか にげきれたようです",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1933,
+   "src": "バレル、\nここは いったんひくか・・・\n",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "075028C",
+    68
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2188,
+   "src": "それではビギナーのための、\nウイルスバスティングこうざを\nはじめマスヨ!",
+   "speakers": [
+    "MrProgGold"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0753CD8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2189,
+   "src": "ワタシは バスティングこうざを\nワかりやすく セツメイするために",
+   "speakers": [
+    "MrProgGold"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0753CD8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2190,
+   "src": "おシャベりキノウが\nバージョンアップされた\nプログラムくんです!",
+   "speakers": [
+    "MrProgGold"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0753CD8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2191,
+   "src": "どうぞ、よろしく!!",
+   "speakers": [
+    "MrProgGold"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0753CD8",
+    0
+   ],
+   "uses": 2
+  }
+ ]
+}

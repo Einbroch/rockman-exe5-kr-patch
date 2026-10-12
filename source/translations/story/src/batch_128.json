@@ -1,0 +1,286 @@
+{
+ "batch": 128,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 1934,
+   "src": "どのてきを\nねらう?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    0
+   ],
+   "uses": 8
+  },
+  {
+   "id": 1935,
+   "src": "てきとの\nまあいは?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 1936,
+   "src": "ターゲット\nのごシジを",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1937,
+   "src": "まあいは\nいかほどに",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    7
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1938,
+   "src": "まあいは\nどーする?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1939,
+   "src": "ねらうてき\nのごシジを",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1940,
+   "src": "まあいの\nごシジを",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1941,
+   "src": "どいつから\nヤるんだ?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1942,
+   "src": "まあいを\nとっとくか",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1943,
+   "src": "まあいは\nどうする?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1944,
+   "src": "どのてきを\nねらうの?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1945,
+   "src": "まあいは\nどうしよう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1946,
+   "src": "どのてきを\nねらうか?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1947,
+   "src": "ダレをねら\nいますか?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    54
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1948,
+   "src": "どいつを\nねらう?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1949,
+   "src": "まあいは\nどうすんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1950,
+   "src": "うつべきは\nダレか?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1951,
+   "src": "まあいを\nおくべきか",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    67
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1952,
+   "src": "どのてきを\nねらうケロ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1953,
+   "src": "まあいは\nどうケロ?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0751108",
+    73
+   ],
+   "uses": 2
+  }
+ ]
+}

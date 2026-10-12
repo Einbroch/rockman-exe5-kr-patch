@@ -1,0 +1,2191 @@
+{
+ "batch": 15,
+ "items": [
+  {
+   "id": 3626,
+   "src": "やいとの パソコンだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3627,
+   "src": "せいのう、デザイン、\nつかいごこち、\nすべてが もうしぶんない",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3628,
+   "src": "プラグインも スムーズに\nおこなえるように\nほどこされている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3629,
+   "src": "アメロッパせいの テーブルだ\nねだんには きょうがく\nするに ちがいない・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3630,
+   "src": "アンティ-クな だんろに\n見えるが・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3631,
+   "src": "じっさいは だんろがたに\nデザインされた、",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3632,
+   "src": "さいしんがたの くうちょう\nシステムなのだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3633,
+   "src": "いまは でんげんが\nきられている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3634,
+   "src": "でんげんのスイッチを\nおしますか?",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3635,
+   "src": "おす  ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3636,
+   "src": "おさない",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3637,
+   "src": "つい みとれてしまう\nりっぱな ふうけいが が\nかざられている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3638,
+   "src": "ゆずって ほしい と\nねがいでる がしょうが あとを\nたたないほどの めいさくらしい",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3639,
+   "src": "かごのなかの ことりは、\nじっと こっちを見ている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3640,
+   "src": "かおだちが どこか きひんの\nたかさを かんじさせる・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3641,
+   "src": "きもちよさそうな ベッドだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3642,
+   "src": "はいったら 3びょうで\nねむれそうだ・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3643,
+   "src": "このうさぎの ぬいぐるみは\nせかいに ひとつしかない\nオーダーメイドの ものらしい",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3644,
+   "src": "それなのに ゆかへ\nおいてしまう ところが\nやいとけの ふしぎだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3645,
+   "src": "かんよう しょくぶつは\nいつ、あそびに きても\nキレイに 手いれされている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3646,
+   "src": "おてつだいさんの\nいいしごとだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3647,
+   "src": "グッジョブ!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3648,
+   "src": "みるからに あまそうな\nせんど ばつぐんのモモだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3649,
+   "src": "「じぶんの おこづかいより\\n たかかったら イヤだ!」",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3650,
+   "src": "だれもが そう おもう\nところである・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3651,
+   "src": "すきとおる ように\nキレイな まどガラスだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3652,
+   "src": "この とうめいどは\nおてつだいさんの どりょくの\nたまものである",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3653,
+   "src": "かくちょう だかさを\nかんじる もようが\nはしらには きざまれている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3654,
+   "src": "やいとが じぶんの目で\nえらんできた という\nこうきゅう きんぎょだ・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3655,
+   "src": "きんぎょすくいの\nきんぎょとは わけがちがう",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3656,
+   "src": "それが さいきんの\nやいとの くちぐせだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3657,
+   "src": "はちうえが さりげなく\nおいてある・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3658,
+   "src": "だんろがたの くうちょう\nシステムが さどうした",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3659,
+   "src": "だんろがたに デザインされた\nくうちょう システムだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3660,
+   "src": "「ウィ~~ン」と\nかすかに おとを たてながら\nさどうしている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3661,
+   "src": "じょうひんな 見た目の\nチーズケーキは、こうばしい\nかおりを ただよわしている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077D74C",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3662,
+   "src": "きょだいな サイコロは\nおみせの インテリアの\nつもりらしい・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3663,
+   "src": "きょだいな サイコロが\nおいてある",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3664,
+   "src": "なに に つかうのかは\nぎもんだが、なんとなく\nヒグレヤには ふさわしい",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3665,
+   "src": "ヒグレヤの 目だまの一つ、\nフリースペース",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3666,
+   "src": "チップの こうかんや\nネットバトルが ひんぱんに\nおこなわれる ばしょだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3667,
+   "src": "オフィシャルネットバトラーとして\nゆうめいな 伊集院炎山の\nもちナビ、ブルースだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3668,
+   "src": "たいしょうてきな カラーが\nしめすように ロックマンの\nライバルでもある",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3669,
+   "src": "いつのまにか ロックマンの\nポスタ-が はられている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3670,
+   "src": "なんだか てれくさい",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3671,
+   "src": "しんせいひんの チラシが\nはってある",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    5
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3672,
+   "src": "「バトルチップゲート こうひょう\\n はつばいちゅう!!」",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    5
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3673,
+   "src": "ショーケースには チップがならび\nそのよこには 日暮さんの\nレビューも そえられている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3674,
+   "src": "「つかいごこちが グッドの\\n マストアイテムでマス!!」",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3675,
+   "src": "てんしゅの 日暮さんのナビ、\nナンバーマンの かんばんだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3676,
+   "src": "かんばんのうしろは トビラに\nなっていて、おくのへやへ\nつづいているようだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3677,
+   "src": "ショーケースには\nヒグレさんオススメの チップが\nギッシリと なんでいる",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3678,
+   "src": "おきゃくさんの データも\nかんり できるという\nこうせいのうな レジだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3679,
+   "src": "ヒグレヤは 日に日に\nりっぱに なっていく・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3680,
+   "src": "ショーケースには\nヒグレさんオススメの チップが\nギッシリと ならんでいる",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    12
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3681,
+   "src": "メイルのもちナビ、ロールが\nキュートな えがおを こちらに\nむけている・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3682,
+   "src": "(かり)",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    17
+   ],
+   "uses": 14
+  },
+  {
+   "id": 3685,
+   "src": "ロットナンバーを入力してください\\n",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3695,
+   "src": "もういちど入力しなおしますか?\\n",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3700,
+   "src": "ありがとう ございます!",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    40
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3701,
+   "src": "だいじに つかって\nくださいね",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3702,
+   "src": "またの ごらいてんを\nおまち しています!",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3703,
+   "src": "これからも ヒグレヤを\nおねがいします!",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3704,
+   "src": "まいど ありでマス!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3705,
+   "src": "・・・うう、やっぱり\nうるのは もったい\nなかった かもでマス",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3706,
+   "src": "・・・おかねが たりないです\nこんどは ちょきんしてから\nきてくださいね!",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3707,
+   "src": "目だま しょうひんの\nとくせつうりばだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3708,
+   "src": "うりもんくの かかれたポップが\nあちこちに はってある",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3709,
+   "src": "「はやいものがちでマス!」",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3710,
+   "src": "「このきかいに ゼヒでマス!!」",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3711,
+   "src": "「つぎは ないでマス!!!」",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3712,
+   "src": "という どとうの たたみかけで\nおきゃくの こうばいいよくを\nたかめている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3713,
+   "src": "・・・お! この\nバトルチップは たしか\n「バブルラップ」だな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3714,
+   "src": "それは さいきん\nにゅうかした ばかりの\nチップですよ",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3715,
+   "src": "いまなら とくべつかかくの\n4200ゼニーです",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3716,
+   "src": "いかがですか?",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    47
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3717,
+   "src": "かう ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    47
+   ],
+   "uses": 36
+  },
+  {
+   "id": 3718,
+   "src": "かわない",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    47
+   ],
+   "uses": 36
+  },
+  {
+   "id": 3720,
+   "src": "なにか いいチップは\nないかな~",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3721,
+   "src": "ん! このチップは\nまさか・・・!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3722,
+   "src": "そのチップは、太陽少年\n「ジャンゴ」 のチップです!",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3723,
+   "src": "人気しょうひんですので、\nうりきれ ひっしです\n7300ゼニーでいかがですか?",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3724,
+   "src": "つぎのきかいには\nぜひ おねがいしますね!",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3725,
+   "src": "たましいに グッとうったえ\nかけてくる あついチップは\nないかな~",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    49
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3726,
+   "src": "では、これは どうですか?\nヒグレヤ とくせい\n「ナンバーボール」です",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    49
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3727,
+   "src": "ヒグレヤ とくべつ\nかかくの 9500ゼニーで\nおうりしますよ",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    49
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3728,
+   "src": "気が かわったら\nまた きてくださいね!",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    49
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3729,
+   "src": "あれれ? ここにかざれている\nチップ、見たことないぞ\nなんだ これ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3730,
+   "src": "それは「リセットボム」でマス!\nくろうして やっと てに\nはいった レアモノでマス",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3731,
+   "src": "どうしても というので\nあれば、うるでマス\n500ゼニーでマスよ",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3732,
+   "src": "かうで マスか?",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3733,
+   "src": "・・・ざんねんです\nまた きてくださいね",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3734,
+   "src": "ヒグレヤ ワゴンセール\nいかがですか!!\n",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3737,
+   "src": "また おこしくださいね!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3738,
+   "src": "ざんねんですけど、\nそのワゴンの しょうひんは\nうりきれです~",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    62
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3739,
+   "src": "なんだ コノヤロウ!",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    63
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3740,
+   "src": "オメェにうる しょうひんは\nないんだよ!",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    63
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3741,
+   "src": "おととい きやがれってんだ!",
+   "speakers": [
+    "Maid"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077DB80",
+    63
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3742,
+   "src": "おみせの かざりは\nすべて 手づくりだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3743,
+   "src": "日暮さんも かげで\nどりょく しているらしい",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3744,
+   "src": "「SALE」と かかれた\nのぼりだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3745,
+   "src": "つきいっかい ひらかれる\nセールでは このはたが\nみせの おもてに ならぶ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3746,
+   "src": "とうしんだいの ナンバーマンの\nたてかんばんだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3747,
+   "src": "日暮さんのたいけいに\n「クリソツ」",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3748,
+   "src": "きょだいな モニターだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3749,
+   "src": "いったい なににつかわれて\nいるのだろう?",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3750,
+   "src": "モニターの スイッチだ\nすこし ホコリっぽい・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3751,
+   "src": "レアチップが まるで\nかいがのように かざられている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3752,
+   "src": "ヒグレさんが ちまなこになって\nさがしだした きちょうな\nしろもの ばかりなのだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3753,
+   "src": "きばんが むきだしになって\nはいせんが いくつも\nとびだしている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    6
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3754,
+   "src": "このファイルの中には\nなにかの しりょうが\nたくさん とじられている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3755,
+   "src": "みあげるほど たかく\nダンボールが つみあげ\nられている・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3756,
+   "src": "ざいこのかずは どこの\nおみせにも まけない・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3757,
+   "src": "それが ヒグレヤの\nセールスポイント",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3758,
+   "src": "ダンボールの かげに\nかくれて ふるいパソコンが\nほったらかしに されている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3759,
+   "src": "なつかしの フロッピーディスク\nドライブが ついている\nなんとか プラグインできそうだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3760,
+   "src": "ヒグレヤ オリジナル\nパソコンの せっけいずだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3761,
+   "src": "その名も・・・\n「ダブル クリック 20XX」",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3762,
+   "src": "けいえいがくの せんもんしょだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3763,
+   "src": "日暮さんは りっぱな\nけいえい者 でもある",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3764,
+   "src": "ヒグレヤ オリジナルPC\nその名も・・・\n「ダブル クリック 20XX」",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3765,
+   "src": "たのめば うってくれる\nねだんは こうしょう しだい",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3766,
+   "src": "でんぴょうや めいさいしょが\nだいじに ほかんされている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3767,
+   "src": "・・・おや?",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    14
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3768,
+   "src": "パソコンの かいぞうぶひんに\nまじって、ひときわ 目だつ\nパーツが ころがっている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E538",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3770,
+   "src": "パパの ロッカーは\nキレイに せいとんされている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3771,
+   "src": "とまりの しごとに そなえ\nいくつか きがえが ようい\nされている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3772,
+   "src": "モニターには パパの\nハードな スケジュールが\nひょうじ されている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3773,
+   "src": "まさに ふんきざみの\nスケジュールだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3774,
+   "src": "科学省の しょくいん\nせんようの はくいだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3775,
+   "src": "パパには あまり\nにあい そうもない・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3776,
+   "src": "見た目はふつうの パソコンだが、",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3777,
+   "src": "世界を かえるような\nすごいデータが かくされて\nいるかもしれない",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3778,
+   "src": "プラグイン きのうも\nもちろん とうさい されている",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3779,
+   "src": "ソファの下に\nなにかが おちている・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3780,
+   "src": "りっぱな おうせつセットだ・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3781,
+   "src": "パパが とまりのときに\nベッドがわりに\nつかっているほかは、",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3782,
+   "src": "あまりつかわれて\nいないようだ・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3783,
+   "src": "アレ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3784,
+   "src": "でんげんは ついてるし、\nパパのIDカードも もってるのに\nそうさを うけつけてくれない?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3785,
+   "src": "どうやら げんじゅうな\nセキュリティが かけられてる\nみたいだね・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3786,
+   "src": "それじゃあ そのセキュリティを\nはずさないと・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3787,
+   "src": "中のデータは 見られないね",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3788,
+   "src": "オレの チカラじゃ\nパパのコンピュータの\nセキュリティを はずせっこないし",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3789,
+   "src": "どうすれば・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3790,
+   "src": "データかいせきが とくいな\n人にたすけてもらわなくちゃ\nいけないみたいだね",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3791,
+   "src": "けど、そんなに つごうよく・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3792,
+   "src": "いた!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3793,
+   "src": "まだ ちかくにいれば\nいいんだけど!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3794,
+   "src": "パパが つかっていたマシンだ\n科学省で もっとも\nせいのうの よいもの らしい",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077E8A0",
+    11
+   ],
+   "uses": 2
+  }
+ ]
+}

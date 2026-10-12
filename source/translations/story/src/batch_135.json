@@ -1,0 +1,21 @@
+{
+ "batch": 135,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 3042,
+   "src": "RUNしますか?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    48
+   ],
+   "uses": 2,
+   "hint": "RUN할까요?"
+  }
+ ]
+}

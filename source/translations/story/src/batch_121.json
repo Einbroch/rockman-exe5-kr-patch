@@ -1,0 +1,191 @@
+{
+ "batch": 121,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 1075,
+   "src": "アタック   LV",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1076,
+   "src": "ラピッド   LV",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1077,
+   "src": "チャージ   LV",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1078,
+   "src": "レギュラー容量 ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1079,
+   "src": "メガクラス枚数 ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1080,
+   "src": "ギガクラス枚数 ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1081,
+   "src": "ためうち  チャージS",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    11
+   ],
+   "uses": 2,
+   "hint": "차지샷   차지S"
+  },
+  {
+   "id": 1082,
+   "src": "ためうち   かいぞう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    12
+   ],
+   "uses": 2,
+   "hint": "차지샷   개조"
+  },
+  {
+   "id": 1083,
+   "src": "ダークチップ枚数",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1088,
+   "src": "ためうち ワイドソード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1089,
+   "src": "ためうち Sディバイド",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1110,
+   "src": "けす",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1117,
+   "src": "改造",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706AF0",
+    58
+   ],
+   "uses": 2,
+   "hint": "개조"
+  }
+ ]
+}

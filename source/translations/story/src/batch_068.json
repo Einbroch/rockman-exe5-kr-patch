@@ -1,0 +1,2392 @@
+{
+ "batch": 68,
+ "items": [
+  {
+   "id": 11750,
+   "src": " きょうめいしたナビの ソウルと\\n ロックマンのソウルが\\n まじわることで、",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11751,
+   "src": " そのナビの チカラを\\n 一時てきに じぶんのものに\\n できる のうりょく",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11752,
+   "src": " ・・・ソウルユニゾン!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11753,
+   "src": " そのチカラは これからの\\n たたかいに やくにたつはずだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11754,
+   "src": " れんしゅうようのプログラムを\\n てんぷしておいた",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11755,
+   "src": " いっこくもはやく\\n つかいこなせるように\\n なっておけ・・・」",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11756,
+   "src": "・・・だって!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    1
+   ],
+   "uses": 6
+  },
+  {
+   "id": 11757,
+   "src": "てんぷしてあるファイルを\nひらくよ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11758,
+   "src": "ソウルユニゾンか・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11759,
+   "src": "いそいでるけど、\nコレは むしできないな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11760,
+   "src": "たのむぞ、ロックマン!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11761,
+   "src": "バレルさんからだ・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11762,
+   "src": " ロックマンと、ナイトマンの\\n あいだに あるしゅの\\n きょうめいが うまれ、",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11763,
+   "src": " ・・・ソウルユニゾン",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11764,
+   "src": " いっこくもはやく\\n つかいこなせるようになるんだ」",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC584",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11765,
+   "src": "オイ! こっちだ!\nこっちに はこびこめ!",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11766,
+   "src": "よし、ジュンビOKだ\nドクターをヨべ!!",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11767,
+   "src": "オイ、ヨロコべ・・・",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11768,
+   "src": "おマエタチの ナカマを\nツれてキてやったぞ",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11769,
+   "src": "・・・なかまでガス?",
+   "speakers": [
+    "GutsMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11770,
+   "src": "ロ、ロック!!",
+   "speakers": [
+    "Roll"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11771,
+   "src": "ロックマンさん!!",
+   "speakers": [
+    "Glide"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11772,
+   "src": "ガッツガッツ!\n目をさますでガス!!",
+   "speakers": [
+    "GutsMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11773,
+   "src": "ロックー!!",
+   "speakers": [
+    "Roll"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11774,
+   "src": "いくらヨびかけても ムダだぜ",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11775,
+   "src": "イマ、あいつは\nスリーププログラムで\nグッスリ ネムっているからな",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11776,
+   "src": "ゾウに ふまれてもオきねえぜ",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11777,
+   "src": "ロックマンに なにをする\nつもりでガス!",
+   "speakers": [
+    "GutsMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11778,
+   "src": "アイツには ワレら\nネビュラのタメに ハタラいて\nもらうコトになる・・・",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11779,
+   "src": "ヤツが ワレらのナカマになる\nトコロを そこでオトナしく\nミているんだな・・・",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11780,
+   "src": "ギャハハハハハハ!!",
+   "speakers": [
+    "HeelNaviPurple",
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11781,
+   "src": "いやぁ! ロックーーーーー!!",
+   "speakers": [
+    "Roll"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11782,
+   "src": "キョウの クランケは、\nこのコゾウだな?",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11783,
+   "src": "ニンゲンの イデンシデータを\nモトに ツクられた\nユウシュウなナビだと",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11784,
+   "src": "リーガルさまから\nキいておったが",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11785,
+   "src": "タシかに テをクワえるのが\nもったいないほどに\nスバらしい ナビじゃ・・・",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11786,
+   "src": "ヒッヒッヒ・・・",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11787,
+   "src": "ドクター、コイツなら\nきっと セイコウしますぜ",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11788,
+   "src": "タノしみじゃぁ!",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11789,
+   "src": "さっそく、オペをカイシするぞ",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11790,
+   "src": "このダークチップを・・・",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11791,
+   "src": "ダークチップのチカラを・・・\nヤミのチカラを こやつに\nウめコむのじゃ!",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11792,
+   "src": "そりゃ!!",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11793,
+   "src": "うわぁぁぁぁぁぁぁぁっ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11794,
+   "src": "ぐぁっ、ぐぎぎぎ・・・\nあぁーーーーーーーっ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11795,
+   "src": "ゾウに フまれたイタみでも\nメがサめないはずの",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11796,
+   "src": "スリーププログラムが\nキれちまった・・・",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11797,
+   "src": "ソウゾウを ゼッするイタみ\nじゃろうの・・・",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11798,
+   "src": "コヤツに ウめコんだ\nダークチップの ヤミのチカラが",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11799,
+   "src": "カラダジュウに\nシントウしておるのじゃ",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11800,
+   "src": "そのイタみたるや、\nフツウのナビなら、とっくに\nキノウが テイシしとるわい",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11801,
+   "src": "あぐぐぐぐ・・・\nうわぁーーーーーーーっ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11802,
+   "src": "マッタく、おっかない\nハナシだぜ・・・",
+   "speakers": [
+    "HeelNaviPurple"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11803,
+   "src": "ドクター・・・\nロックマンのようすは?",
+   "speakers": [
+    "Regal"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11804,
+   "src": "おぉ、リーガルサマ!!",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11805,
+   "src": "ジュンチョウですぞ\nサスガは リーガルサマが\nおメをツけられたナビ",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11806,
+   "src": "ジュンチョウに ヤミのチカラが\nシみコんでおりますぞ!",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11807,
+   "src": "ヤミのチカラが ていちゃくしたら\nすぐに きどうじっけんにはいるぞ",
+   "speakers": [
+    "Regal"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11808,
+   "src": "かしこまりました・・・",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11809,
+   "src": "ヤミのチカラよ、クいコめ!\nよりツヨく! よりフカく!!",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11810,
+   "src": "うわぁぁぁぁぁぁぁぁっ!!\nね、熱斗くんーーーーーっ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11811,
+   "src": "クルしめ! クルしめ!!",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11812,
+   "src": "そして、そのクルしみが\nキえたとき、",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11813,
+   "src": "おマエは ヤミのセンシ、\nダークロックマンに\nウまれカわるのじゃ!!",
+   "speakers": [
+    "HeelNaviBlack"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BC814",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11814,
+   "src": "う・・・うぅん・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11815,
+   "src": "ロ、ロックマン",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11816,
+   "src": "・\nロックマン!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11817,
+   "src": "わぁぁぁっ!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11818,
+   "src": "ハァハァ・・・ユメか・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11820,
+   "src": "でんわか・・・\n・・・でなきゃ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11821,
+   "src": "いつもなら、ロックマンが\n「オートでんわだよ!」\nって、おしえてくれたよな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11822,
+   "src": "RRRRRR・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11823,
+   "src": "プッ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11824,
+   "src": "・・・あっ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11825,
+   "src": "・・・でんわ、ダレから\nだったんだろ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11826,
+   "src": "るすばんでんわに\nメッセージが はいってる・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11827,
+   "src": "メッセージヲ サイセイシマス",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11828,
+   "src": "ハナシがある\n今から 科学省のちかくにある\nみなとに きてくれ・・・",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11829,
+   "src": "まっているぞ・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    8
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11830,
+   "src": "・・・光熱斗、うみでも見ないか\n気おちしているのは よくわかる",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11831,
+   "src": "しかし、こんなときは\nうみを見るにかぎる・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11832,
+   "src": "今から、科学省のうらてにある\nみなとに きてくれないか",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11833,
+   "src": "トウロク サレテイル\nメッセージ ハ イジョウデス",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11834,
+   "src": "・・・行ってみるか",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCCBC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11835,
+   "src": "ずいぶんと やつれたな・・・",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11836,
+   "src": "ロックマンが\nつれさられたのだから\nムリもないな・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11837,
+   "src": "なんだよ、ハナシって・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11838,
+   "src": "つぎのミッションの・・・",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11839,
+   "src": "ミッション・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11840,
+   "src": "おまえ、ロックマンが\nつれさられたコトしってるだろ!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11841,
+   "src": "オレになにを やれって\nいうんだよ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11842,
+   "src": "おまえには べつのナビを\nよういしてある・・・",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11843,
+   "src": "オレに ロックマンいがいの\nナビを つかえっていうのかよ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11844,
+   "src": "オレたちには 時間がないんだ\nたとえロックマンが いなくとも、\nおまえには はたらいてもらう",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11845,
+   "src": "でなければ、おまえは\nオレたちのチームにひつようない!",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11846,
+   "src": "なんだと!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11847,
+   "src": "バキッ!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11848,
+   "src": "ぐっ!",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11849,
+   "src": "オレが・・・オレが・・・\nチームに はいりさえ\nしなければ、",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11850,
+   "src": "ロックマンは つれさられずに\nすんだんだ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11851,
+   "src": "こんな・・・こんな・・\nこんなチームなんて、\nぬけてやる!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11853,
+   "src": "こんなとき ロックマンがいたら\nなんというだろうな・・・",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11854,
+   "src": "オレは 科学省の\nしれい室にいる・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11855,
+   "src": "このまま チームをぬけるなら\nそれもよし・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11856,
+   "src": "チームの いちいんとして、\nネビュラと たたかうならば\nしれい室にこい・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11857,
+   "src": "ロックマンにかわる\nナビを わたす・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11858,
+   "src": "よく かんがえるんだな",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11859,
+   "src": "こんなとき、\nロックマンがいたら・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    14
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11860,
+   "src": "きっと、しかったり はげましたり\nしてくれるのかな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    14
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11861,
+   "src": "熱斗くん、\nしっかりしなきゃダメだよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    15
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11862,
+   "src": "ガンバレ、熱斗くん!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    15
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11863,
+   "src": "・・・・・・ロックマン",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    16
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11864,
+   "src": "炎山が どんなナビを\nかしてくれるのかは\nしらないけど、",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11865,
+   "src": "ぜったいに\nたすけてやるからな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    16
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11866,
+   "src": "ずいぶんと つかれたかおを\nしているな・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11867,
+   "src": "うみは いいな・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11868,
+   "src": "すべてを つつみこんでくれる\n大きさをもっている・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11869,
+   "src": "バレルさん・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    20
+   ],
+   "uses": 6
+  },
+  {
+   "id": 11870,
+   "src": "つぎのミッションに\nでてくれないか",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11871,
+   "src": "ロックマンにかわるナビは\nよういしてある",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11872,
+   "src": "ロックマンが いなくなったら\nべつのナビを つかえって\nいうのかよ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11873,
+   "src": "ちちおやに つづき、\nロックマンまでも てきに\nさらわれてしまった",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11874,
+   "src": "おまえの ココロのいたみは\nよくわかる・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11875,
+   "src": "だがしかし、われわれには\nおまえのチカラが\nひつようなんだ・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11876,
+   "src": "けど、オレ・・・できないよ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11877,
+   "src": "オレ、ロックマンいがいの\nナビを オペレートするなんて\nできないよ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11878,
+   "src": "パンッ!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11879,
+   "src": "ツッ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11880,
+   "src": "あまったれるんじゃない",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11881,
+   "src": "今、こうしているうちにも\nネビュラの手によって\nおまえと おなじ・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11882,
+   "src": "いや、おまえ いじょうに\nつらい目にあう ひとびとが\nいるかもしれん",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11883,
+   "src": "それを くいとめるためには\nおまえのチカラが ひつようなんだ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11884,
+   "src": "バレルさんが どんなナビを\nかしてくれるのかは\nしらないけど、",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BCEA8",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11885,
+   "src": "炎山、さっきは なぐって\nすまなかった!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11886,
+   "src": "フ・・・\nアタマを ひやしてきたようだな",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11887,
+   "src": "オレ、どうしても\nこの手でロックマンを\nとりかえしたいんだ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11888,
+   "src": "おまえが いってた\nロックマンにかわるナビを\nかしてくれ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11889,
+   "src": "・・・いいだろう",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11890,
+   "src": "光、PETをよこせ",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11892,
+   "src": "すこしまっていろ",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    6
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11893,
+   "src": "ナビプログラム、\nインストールかいし",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    6
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11894,
+   "src": "ピーン!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    7
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11895,
+   "src": "インストールかんりょう・・・",
+   "speakers": [
+    "Chaud",
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    8
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11896,
+   "src": "光、このナビは とくべつなナビだ\nロックマンが かえってきたら\nかならずオレにかえすんだぞ",
+   "speakers": [
+    "Chaud"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11897,
+   "src": "・・・あぁ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    9
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11898,
+   "src": "熱斗は、\n「PET」\nを うけとった!!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11899,
+   "src": "・・・えっ!\nそ、そんな まさか・・・?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    11
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11900,
+   "src": "え、炎山!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 11901,
+   "src": "コ、コイツは たのもしい\nなかまだぜ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 11902,
+   "src": "よろしくたのんだぜ\n・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07BD35C",
+    13
+   ],
+   "uses": 4
+  }
+ ]
+}

@@ -1,0 +1,2373 @@
+{
+ "batch": 11,
+ "items": [
+  {
+   "id": 3020,
+   "src": "バトルしゅうりょうご\nHPがすこしだけ\nかいふくする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3021,
+   "src": "バスターのアタック、\nラピッド、チャージが\nそれぞれ+3!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3022,
+   "src": "アーマー、シャツ\nエア、フロートの\n4てんパック!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3023,
+   "src": "せんざいのうりょくを\n100%ひきだす\nキケンなプログラム",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3024,
+   "src": "バグの発生をおさえる\nとくしゅなプログラム",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3025,
+   "src": "おのれのあくぎょうを\nくいあらためるための\nしゅぎょうプログラム",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3026,
+   "src": "たいせんせんよう!\nきえたあいてのニオイ\nをかぎつけとびかかる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3027,
+   "src": "たいせんせんよう!\nメガクラスいじょうの\nチップをうばいさる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3028,
+   "src": "たいせんせんよう!\nひんしになったときに\nてあてをしてくれる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3029,
+   "src": "ロックバスターの\n攻撃力が1アップ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3030,
+   "src": "ロックバスターの\n連射力が1アップ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3031,
+   "src": "ロックバスターの\nチャージ力が\n1アップ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3032,
+   "src": "ソウルユニゾンして\nいられるターン数が\n+1される",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3033,
+   "src": "ロックバスターの\n攻撃力がMAXに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3034,
+   "src": "ロックバスターの\n連射力がMAXに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3035,
+   "src": "ロックバスターの\nチャージ力が\nMAXに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3036,
+   "src": "マックスHPが\n50ふえる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3037,
+   "src": "マックスHPが\n100ふえる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3038,
+   "src": "マックスHPが\n200ふえる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3039,
+   "src": "マックスHPが\n300ふえる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3040,
+   "src": "マックスHPが\n400ふえる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3041,
+   "src": "マックスHPが\n500ふえる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "076E920",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3043,
+   "src": "うそテキスト",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    0
+   ],
+   "uses": 140
+  },
+  {
+   "id": 3044,
+   "src": "熱斗くん、ママのトコロに\n行ってみようよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3045,
+   "src": "」を\nわたしに行こうよ\nプラグインおねがい!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3046,
+   "src": "プラグインは、プラグインしたい\n電子ききのまえで Rボタンだよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3047,
+   "src": "キッチンの電脳は、\n秋原エリア2から\n行けるんだったよね!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3048,
+   "src": "熱斗くん、みんなをさそいに\n行こう! あ、そのまえに\nママに ひとこといっておこうよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3049,
+   "src": "そろそろ まちあわせばしょに\n行ってみる?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3050,
+   "src": "さぁ、みんなを さそいに行こう!\nきっと みんなウチにいるはずだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3051,
+   "src": "熱斗くん、\nはやく パパのけんきゅう室に\n行こうよ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    16
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3052,
+   "src": "熱斗くん、\nもっと、インターネットを\nしらべてみよう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3053,
+   "src": "熱斗くん、インターネットの\nようすを 見に行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3054,
+   "src": "熱斗くん、科学省に行こう\nママにいちおう こえを\nかけておいたほうがいいかもね",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3055,
+   "src": "熱斗くん、科学省にいそごう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    22
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3056,
+   "src": "熱斗くん、科学省にもどろう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    23
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3057,
+   "src": "熱斗くん、こんなところで、\nモタモタしてられないよ\n科学省にもどろう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3058,
+   "src": "科学省にもどろう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3059,
+   "src": "熱斗くん、科学省にもどろう!\nメインシステムに しんにゅうした\nはんにんを さがさなくちゃ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3060,
+   "src": "たいせいが ととのったら、\nメインシステムの電脳に\nもどろう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    28
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3061,
+   "src": "さ、熱斗くん、\nウチにかえろう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    30
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3062,
+   "src": "熱斗くん、つかれたでしょ、\n今日はもう ねちゃおっか?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3063,
+   "src": "秋原エリア2に むかおう\nブルースがまってるよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    32
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3064,
+   "src": "秋原エリア3に行こう!\nゆだんしちゃダメだよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    33
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3065,
+   "src": "熱斗くん、まだミッションの\nとちゅうだよ!!\n秋原エリア3にもどろう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    34
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3066,
+   "src": "秋原エリア2に むかおう\nカーネルがまってるよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    35
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3067,
+   "src": "熱斗くん、秋原エリアの\nパトロールに行こうよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    40
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3068,
+   "src": "まちあわせばしょに 行こうよ!\nたしか、えきまえだったよね!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3069,
+   "src": "熱斗くん、オラン島エリアに\nむかおう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    70
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3070,
+   "src": "熱斗くん、じゅんびができたら\nすぐに オラン島エリア3に\nむかおう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076ED7C",
+    71
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3071,
+   "src": "熱斗くん、リスの電脳に\nプラグインおねがい!\nボクたちのチカラを見せてやろ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    10
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3072,
+   "src": "熱斗くん、プラグインおねがい、\n秋原エリアけいゆで\nオラン島エリアにむかおう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    11
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3073,
+   "src": "熱斗くん、オラン島エリアに\nもどろう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    12
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3074,
+   "src": "ネットワークを\nふっきゅうさせなきゃ\nオラン島エリア3に行こうよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    13
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3075,
+   "src": "科学省エリア3の ようすを\n見に行こう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    14
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3076,
+   "src": "とりあえず 今日のところは\nウチにかえって やすもうよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    15
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3077,
+   "src": "今日はもう ねちゃう?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3078,
+   "src": "熱斗くん、オラン島にむかおうよ\nマグネットマンがしんぱいだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    17
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3079,
+   "src": "熱斗くん、オラン島にむかおうよ\nナイトマンがしんぱいだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    18
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3080,
+   "src": "熱斗くん、オラン島にもどろう\nテスラさん まってるよ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    19
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3081,
+   "src": "熱斗くん、オラン島にもどろう\nプライドさん まってるよ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    20
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3082,
+   "src": "科学省のしれい室に\n行こうよ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3083,
+   "src": "熱斗くん、\n秋原エリアを けいゆして\nオラン島エリアに行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    25
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3084,
+   "src": "プラグインおねがい!\nジャイロマンを おいかけよう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    26
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3085,
+   "src": "プラグインおねがい!\nシャドーマンを おいかけよう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    27
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3086,
+   "src": "熱斗くん、科学省エリア2にある\nヤミのくものところに行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    28
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3087,
+   "src": "熱斗くん、\nミッションがはじまるよ!\n科学省エリア3に行こう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    29
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3088,
+   "src": "科学省の ちかくにある\nみなと・・・炎山のヤツ\nなにを するつもりだ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    50
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3089,
+   "src": "科学省の ちかくにある\nみなと・・・バレルさん、\nなにを するつもりだ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    51
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3090,
+   "src": "しれい室に 行くか・・・\nロックマン、ぜったいに\nたすけてやるからな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    52
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3091,
+   "src": "光、まずは エンドエリアに\nはいるため、オラン島エリア2へ\nむかうぞ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    53
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3092,
+   "src": "まずは エンドエリアに\nはいるため、オラン島エリア2へ\nむかうぞ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    54
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3093,
+   "src": "オラン島エリア2のトビラは\n科学省のかんかつ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel",
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    55
+   ],
+   "uses": 34
+  },
+  {
+   "id": 3094,
+   "src": "科学省エリアに 行けばなにか\nじょうほうがえられるかもしれんな",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    55
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3095,
+   "src": "オラン島エリア2のトビラを\nかいじょし、エンドエリアに\nむかうぞ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    57
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3096,
+   "src": "いったん、しれい室に\nもどるぞ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    59
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3097,
+   "src": "パーティーの しょうたいけんを\nもっている じんぶつ・・・\n・・・なるほどな",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    61
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3098,
+   "src": "パーティーは あすだ・・・\n今日は ウチにかえって\nカラダを やすめておけ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    63
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3099,
+   "src": "今日は もうやすめ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    65
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3100,
+   "src": "光、エンドエリアに むかうぞ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    67
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3101,
+   "src": "光熱斗、\nエンドエリアに むかうぞ・・・",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    68
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3102,
+   "src": "光、みなとに むかうぞ・・・",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    70
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3103,
+   "src": "光熱斗、\nみなとに むかうぞ・・・",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    71
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3104,
+   "src": "光、みなとに もどれ\nふねに のりこむぞ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    72
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3105,
+   "src": "光熱斗、みなとに もどれ\nふねに のりこむぞ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    73
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3106,
+   "src": "エンドエリア1に むかうぞ!",
+   "speakers": [
+    "ProtoMan",
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    105
+   ],
+   "uses": 24
+  },
+  {
+   "id": 3107,
+   "src": "エンドエリア1に むかうぞ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    106
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3108,
+   "src": "エンドエリア2に むかうぞ!",
+   "speakers": [
+    "ProtoMan",
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    107
+   ],
+   "uses": 26
+  },
+  {
+   "id": 3109,
+   "src": "エンドエリア2に むかうぞ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F120",
+    108
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3110,
+   "src": "熱斗くん、\nエンドエリア4にむかおう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    10
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3111,
+   "src": "パパの けんきゅう室に\nむかおうよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    11
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3112,
+   "src": "熱斗くん、パパのけんきゅう室に\n行くんじゃなかったの?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    12
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3113,
+   "src": "データかいせきが\nとくいな人といえば、\nやっぱり あの人だね!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    13
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3114,
+   "src": "パパのけんきゅう室に 行こうよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    14
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3115,
+   "src": "熱斗くん、おじいちゃんの\nてがみを よくよんでみようよ\nなにか わかるかもしれないよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    15
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3116,
+   "src": "ウラのイヌ小屋に かかれた\nぶんしょうは、\nなにを イミしてたんだろ?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    16
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3117,
+   "src": "エンドシティの シャチホコ城に\nむかおう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    17
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3118,
+   "src": "熱斗くん、\nエンドシティに行こうよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    18
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3119,
+   "src": "エンドエリア3の\nようすを見に行こうよ!\nプラグインおねがい!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    19
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3120,
+   "src": "エンドエリアに もんだいは\nなかったって、おじさんに\nおしえてあげなきゃね",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    20
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3121,
+   "src": "熱斗くん、お城にもどろう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    21
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3122,
+   "src": "データディスクにはいってた\nテキストデータは なにを\nイミしてたんだろ?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    22
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3123,
+   "src": "熱斗くん、じゅんびができたら\nあの トビラのむこうに\n行ってみよう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    30
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3124,
+   "src": "熱斗くん、\n炎山くんのトコロに行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    33
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3125,
+   "src": "熱斗くん、\nバレルさんのトコロに行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    34
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3126,
+   "src": "熱斗くん、今日はもう\nウチにかえろう",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    35
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3127,
+   "src": "今日は もうねちゃう?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    37
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3128,
+   "src": "熱斗くん、エンドエリア3に\nむかおう!\nプラグインおねがい!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    39
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3129,
+   "src": "熱斗くん、シャチホコ城に\nむかおう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    40
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3130,
+   "src": "熱斗くん、シャチホコ城に\nもどろう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    41
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3131,
+   "src": "熱斗くん、\nエンドエリア4に むかおう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    48
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3132,
+   "src": "エンドエリア5に むかおう!",
+   "speakers": [
+    "MegaMan",
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    49
+   ],
+   "uses": 30
+  },
+  {
+   "id": 3133,
+   "src": "炎山くん、なんのようじだろ?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    60
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3134,
+   "src": "バレルさん、なんのようじだろ?",
+   "speakers": [
+    "MegaMan",
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    61
+   ],
+   "uses": 30
+  },
+  {
+   "id": 3135,
+   "src": "熱斗くん、秋原町の\nパストビジョンに行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    62
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3136,
+   "src": "あのイヌのコトを\nしってる人って いるのかな?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    63
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3137,
+   "src": "むかし、おじいちゃんが\nイヌをつれて行っていた ばしょ\n・・・どこだろ?",
+   "speakers": [
+    "MegaMan",
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    64
+   ],
+   "uses": 30
+  },
+  {
+   "id": 3138,
+   "src": "プラグインおねがい!\nあの おじいさんの\nナビにあいに行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    65
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3139,
+   "src": "」・・・\nどこの Pコードだろ?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    66
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3140,
+   "src": "たしか、科学省と\nかんけいあるみたいなコト\nいってたよね・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    66
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3141,
+   "src": "4つ目の イワをくだくきかい\nイワをとめる ハコが\nめじるし・・・もしかして!",
+   "speakers": [
+    "MegaMan",
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    67
+   ],
+   "uses": 30
+  },
+  {
+   "id": 3142,
+   "src": "熱斗くん、インターネットに\nもどろうよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    68
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3143,
+   "src": "じゅんびが できたら、\nあのトビラに はいろう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    70
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3144,
+   "src": "熱斗くん、\n科学省のHPにむかおう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    73
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3145,
+   "src": "どこか、あたらしい しれい室に\nなりそうな ばしょ・・・うーん、\nダレかに そうだんできないかな?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    74
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3146,
+   "src": "データファイルはエンドエリア3の\nリッパなモノの ちかくに\nおちているんだったよね!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    75
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3147,
+   "src": "日暮さんのトコロに\nもって行こうよ!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    76
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3148,
+   "src": "熱斗くん、エンドエリア5に\nむかおう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    80
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3149,
+   "src": "熱斗くん、\nウチにかえろっか?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    81
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3150,
+   "src": "熱斗くん、\nウラインターネットに行こう\nメディちゃんが あぶないよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    83
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3151,
+   "src": "熱斗くん、\nウラインターネットに行こう\nトードマンが あぶないよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    84
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3152,
+   "src": "熱斗くん、\nウラインターネット4に 行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076F5A0",
+    85
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3153,
+   "src": "熱斗くん、町に出てみよう!\nなにが おきたんだろう?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3154,
+   "src": "秋原町に かくされた\nサーバーを さがそう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3155,
+   "src": "炎山くんのトコロに行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    12
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3156,
+   "src": "バレルさんのトコロに行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    13
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3157,
+   "src": "ネビュラがしかけた\nこがたサーバーを\nさがしてまわろう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    14
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3158,
+   "src": "ウラインターネットに\nむかおう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    15
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3159,
+   "src": "いよいよ、あしただね・・・\nウチにかえろっか",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    16
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3160,
+   "src": "あしたに そなえて\n今日は はやめに\nねちゃおうね",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3161,
+   "src": "データディスクの ないようは\nなにを イミしてるんだろ?\nしらべてみようよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    18
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3162,
+   "src": "科学省エリア3の\nトビラに はいってみようよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    19
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3163,
+   "src": "熱斗くん、ウチにかえろう\nあしたに そなえて\nはやめに やすもう",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    20
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3164,
+   "src": "いよいよ しゅっぱつだね\nママにあいさつしてから\n行こうね!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    25
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3165,
+   "src": "しゅうごうばしょは\nヒグレヤの まえだったよね!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    26
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3166,
+   "src": "じゅんびが できたら\nネビュラの ほんきょちに\nもどろう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FAA8",
+    27
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3167,
+   "src": "科学省で いったいなにが\nおこってるんだろ・・・\nしらべてみよう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FD58",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3168,
+   "src": "科学省の しょくいんの\nしょうめいしょ・・・\nどこかに ないかな?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FD58",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3169,
+   "src": "熱斗くん、メインシステムの\nあるへやにいそごう!!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FD58",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3170,
+   "src": "プラグインおねがい!\nメインシステムに しんにゅうした\nはんにんを さがそう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "076FD58",
+    26
+   ],
+   "uses": 2
+  }
+ ]
+}

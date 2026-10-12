@@ -1,0 +1,1686 @@
+{
+ "batch": 110,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 165,
+   "src": "_________秋原町",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 166,
+   "src": "_____熱斗のリビング",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 167,
+   "src": "_______熱斗のへや",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 168,
+   "src": "______メイルのへや",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 169,
+   "src": "______デカオのへや",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 170,
+   "src": "______やいとのへや",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 171,
+   "src": "________ヒグレヤ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 172,
+   "src": "___ヒグレヤひみつきち",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 173,
+   "src": "___パパのけんきゅう室",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 174,
+   "src": "_______科学省まえ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 175,
+   "src": "______科学省ロビー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 176,
+   "src": "_メインオペレートルーム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 177,
+   "src": "________しれい室",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 178,
+   "src": "________オラン島",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 179,
+   "src": "________はいこう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 180,
+   "src": "_______大くうどう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 181,
+   "src": "____はいこうないぶ1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 182,
+   "src": "____はいこうないぶ2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 183,
+   "src": "____はいこうないぶ3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 184,
+   "src": "____はいこうないぶ4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 185,
+   "src": "____はいこうないぶ5",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 186,
+   "src": "____はいこうないぶ6",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 187,
+   "src": "____はいこうないぶ7",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 188,
+   "src": "____はいこうないぶ8",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 189,
+   "src": "____はいこうないぶ9",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 190,
+   "src": "_ごうかきゃくせんのりば",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 191,
+   "src": "_________ろうか",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 192,
+   "src": "________かんぱん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 193,
+   "src": "________きかん室",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 194,
+   "src": "__パーティーかいじょう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 195,
+   "src": "________そうだ室",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 196,
+   "src": "______エンドシティ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 197,
+   "src": "________キクの間",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 198,
+   "src": "________ユリの間",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 199,
+   "src": "________てんしゅ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 200,
+   "src": "____てんしゅがいかん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 201,
+   "src": "____ネビュラしれい室",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 202,
+   "src": "_メインシステムの電脳1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 203,
+   "src": "_メインシステムの電脳2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 204,
+   "src": "___さくがんきの電脳1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 205,
+   "src": "___さくがんきの電脳2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 206,
+   "src": "___さくがんきの電脳3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 207,
+   "src": "___さくがんきの電脳4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 208,
+   "src": "ごうかきゃくせんの電脳1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 209,
+   "src": "ごうかきゃくせんの電脳2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 210,
+   "src": "ごうかきゃくせんの電脳3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 211,
+   "src": "ごうかきゃくせんの電脳4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 212,
+   "src": "______秋原エリア3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 213,
+   "src": "____オラン島エリア3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 214,
+   "src": "_____科学省エリア3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    49
+   ],
+   "uses": 2
+  },
+  {
+   "id": 215,
+   "src": "_____エンドエリア2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 216,
+   "src": "_____エンドエリア5",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 217,
+   "src": "__ウラインターネット4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 218,
+   "src": "_ネビュラホールエリア1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 219,
+   "src": "_ネビュラホールエリア3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    54
+   ],
+   "uses": 2
+  },
+  {
+   "id": 220,
+   "src": "_ネビュラホールエリア5",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 221,
+   "src": "_______熱斗のHP",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 222,
+   "src": "______メイルのHP",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    57
+   ],
+   "uses": 2
+  },
+  {
+   "id": 223,
+   "src": "______デカオのHP",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    58
+   ],
+   "uses": 2
+  },
+  {
+   "id": 224,
+   "src": "______やいとのHP",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    59
+   ],
+   "uses": 2
+  },
+  {
+   "id": 225,
+   "src": "______科学省のHP",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 226,
+   "src": "___シャチホコ城のHP",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 227,
+   "src": "_____イヌ小屋の電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    65
+   ],
+   "uses": 2
+  },
+  {
+   "id": 228,
+   "src": "__ふるいたんまつの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 229,
+   "src": "_____キッチンの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    67
+   ],
+   "uses": 2
+  },
+  {
+   "id": 230,
+   "src": "____電子ロックの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    68
+   ],
+   "uses": 2
+  },
+  {
+   "id": 231,
+   "src": "_____レーダーの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    69
+   ],
+   "uses": 2
+  },
+  {
+   "id": 232,
+   "src": "_くうちょうそうちの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 233,
+   "src": "____スクリューの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    71
+   ],
+   "uses": 2
+  },
+  {
+   "id": 234,
+   "src": "_____エンジンの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 235,
+   "src": "____てんじだいの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    73
+   ],
+   "uses": 2
+  },
+  {
+   "id": 236,
+   "src": "__チップメイカーの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    74
+   ],
+   "uses": 2
+  },
+  {
+   "id": 237,
+   "src": "くうきせいじょうきの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 238,
+   "src": "______ヨロイの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    76
+   ],
+   "uses": 2
+  },
+  {
+   "id": 239,
+   "src": "______カブトの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    77
+   ],
+   "uses": 2
+  },
+  {
+   "id": 240,
+   "src": "______カタナの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    78
+   ],
+   "uses": 2
+  },
+  {
+   "id": 241,
+   "src": "______リスの電脳1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    79
+   ],
+   "uses": 2
+  },
+  {
+   "id": 242,
+   "src": "______リスの電脳2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    80
+   ],
+   "uses": 2
+  },
+  {
+   "id": 243,
+   "src": "______リスの電脳3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    81
+   ],
+   "uses": 2
+  },
+  {
+   "id": 244,
+   "src": "______リスの電脳4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    82
+   ],
+   "uses": 2
+  },
+  {
+   "id": 245,
+   "src": "______リスの電脳5",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    83
+   ],
+   "uses": 2
+  },
+  {
+   "id": 246,
+   "src": "______リスの電脳6",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    84
+   ],
+   "uses": 2
+  },
+  {
+   "id": 247,
+   "src": "______リスの電脳7",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    85
+   ],
+   "uses": 2
+  },
+  {
+   "id": 248,
+   "src": "______リスの電脳8",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    86
+   ],
+   "uses": 2
+  },
+  {
+   "id": 249,
+   "src": "______リスの電脳9",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    87
+   ],
+   "uses": 2
+  },
+  {
+   "id": 250,
+   "src": "_____リスの電脳10",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    88
+   ],
+   "uses": 2
+  },
+  {
+   "id": 251,
+   "src": "_____リスの電脳11",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    89
+   ],
+   "uses": 2
+  },
+  {
+   "id": 252,
+   "src": "_____リスの電脳12",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 253,
+   "src": "_____リスの電脳13",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 254,
+   "src": "_____リスの電脳14",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    92
+   ],
+   "uses": 2
+  },
+  {
+   "id": 255,
+   "src": "_____リスの電脳15",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    93
+   ],
+   "uses": 2
+  },
+  {
+   "id": 256,
+   "src": "_____リスの電脳16",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 257,
+   "src": "______秋原エリア1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    95
+   ],
+   "uses": 2
+  },
+  {
+   "id": 258,
+   "src": "______秋原エリア2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    96
+   ],
+   "uses": 2
+  },
+  {
+   "id": 259,
+   "src": "____オラン島エリア1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    97
+   ],
+   "uses": 2
+  },
+  {
+   "id": 260,
+   "src": "____オラン島エリア2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    98
+   ],
+   "uses": 2
+  },
+  {
+   "id": 261,
+   "src": "_____科学省エリア1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    99
+   ],
+   "uses": 2
+  },
+  {
+   "id": 262,
+   "src": "_____科学省エリア2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    100
+   ],
+   "uses": 2
+  },
+  {
+   "id": 263,
+   "src": "_____科学省エリア4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    101
+   ],
+   "uses": 2
+  },
+  {
+   "id": 264,
+   "src": "_____エンドエリア1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    102
+   ],
+   "uses": 2
+  },
+  {
+   "id": 265,
+   "src": "_____エンドエリア3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    103
+   ],
+   "uses": 2
+  },
+  {
+   "id": 266,
+   "src": "_____エンドエリア4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    104
+   ],
+   "uses": 2
+  },
+  {
+   "id": 267,
+   "src": "__ウラインターネット1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 268,
+   "src": "__ウラインターネット2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    106
+   ],
+   "uses": 2
+  },
+  {
+   "id": 269,
+   "src": "__ウラインターネット3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    107
+   ],
+   "uses": 2
+  },
+  {
+   "id": 270,
+   "src": "_ネビュラホールエリア2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    108
+   ],
+   "uses": 2
+  },
+  {
+   "id": 271,
+   "src": "_ネビュラホールエリア4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 272,
+   "src": "_ネビュラホールエリア6",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    110
+   ],
+   "uses": 2
+  },
+  {
+   "id": 273,
+   "src": "_____サーバーの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    111
+   ],
+   "uses": 2
+  },
+  {
+   "id": 274,
+   "src": "______だんろの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    112
+   ],
+   "uses": 2
+  },
+  {
+   "id": 275,
+   "src": "___エレベーターの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    113
+   ],
+   "uses": 2
+  },
+  {
+   "id": 276,
+   "src": "_____クレーンの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    114
+   ],
+   "uses": 2
+  },
+  {
+   "id": 277,
+   "src": "___シャチホコの電脳1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    115
+   ],
+   "uses": 2
+  },
+  {
+   "id": 278,
+   "src": "___シャチホコの電脳2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    116
+   ],
+   "uses": 2
+  },
+  {
+   "id": 279,
+   "src": "___シャチホコの電脳3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    117
+   ],
+   "uses": 2
+  },
+  {
+   "id": 280,
+   "src": "___シャチホコの電脳4",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    118
+   ],
+   "uses": 2
+  },
+  {
+   "id": 281,
+   "src": "_____じゅもくの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    119
+   ],
+   "uses": 2
+  },
+  {
+   "id": 282,
+   "src": "__ふるいパソコンの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    120
+   ],
+   "uses": 2
+  },
+  {
+   "id": 283,
+   "src": "__パパのパソコンの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    121
+   ],
+   "uses": 2
+  },
+  {
+   "id": 284,
+   "src": "_____オブジェの電脳",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F992C",
+    122
+   ],
+   "uses": 2
+  }
+ ]
+}

@@ -1,0 +1,2193 @@
+{
+ "batch": 3,
+ "items": [
+  {
+   "id": 843,
+   "src": "わすれないように\nチップフォルダの中に\nいれておきましょう!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 844,
+   "src": "チップフォルダを\nへんしゅうしたい時は、\nPET画面をひらいて",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 845,
+   "src": "チップフォルダを えらべば\nフォルダへんしゅう画面に\nはいれますよ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 846,
+   "src": "あと、フォルダ\nへんしゅう中に、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 847,
+   "src": "スタートボタンをおすと、\nソートきのうが つかえます",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 848,
+   "src": "ソートきのうとは、\nフォルダや リュックの中の\nバトルチップを",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 849,
+   "src": "IDや、あいうえおじゅんに\nならびかえる きのうです",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 850,
+   "src": "チップをへんしゅうする\n時には、やくにたつはずです\nぜひ つかってみましょう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 851,
+   "src": "バトルチップは\nウイルスをデリートしたり、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 852,
+   "src": "電脳世界におちている\nミステリーデータの中や、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 853,
+   "src": "インターネットにある\nバトルチップを\nうってくれる おみせ、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 854,
+   "src": "バグのかけらを アイテムと\nこうかんしてくれる\nおみせなどでゲットできます",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 855,
+   "src": "たくさんチップを\nゲットして、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 856,
+   "src": "じぶんだけの\nさいきょうフォルダを\nつくってみましょう!!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 857,
+   "src": "あとから カーネルを\nおくりこむ・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    100
+   ],
+   "uses": 2
+  },
+  {
+   "id": 858,
+   "src": "オラン島エリアに\nネビュラのざんとうを\nかくにんした",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    101
+   ],
+   "uses": 2
+  },
+  {
+   "id": 859,
+   "src": "しきゅう\nオラン島エリアに\nきゅうこうしてくれ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    101
+   ],
+   "uses": 2
+  },
+  {
+   "id": 860,
+   "src": "熱斗、手をかしてほしいの\nオラン島で マグネメタルの\nさいくつをしていると、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    102
+   ],
+   "uses": 2
+  },
+  {
+   "id": 861,
+   "src": "ニンジャの ようなナビが\nやってきて、おまえの\nチカラを見せろと・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    102
+   ],
+   "uses": 2
+  },
+  {
+   "id": 862,
+   "src": "それで、バトルをするコトに\nなったのですが、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    102
+   ],
+   "uses": 2
+  },
+  {
+   "id": 863,
+   "src": "あいてのナビが\nものすごいはやさで",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    102
+   ],
+   "uses": 2
+  },
+  {
+   "id": 864,
+   "src": "ナイトマンの\nたいせつな プログラムを\nうばっていったのです",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    102
+   ],
+   "uses": 2
+  },
+  {
+   "id": 865,
+   "src": "あのプログラムがないと\nナイトマンは\nうごけません・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    102
+   ],
+   "uses": 2
+  },
+  {
+   "id": 866,
+   "src": "おねがいです、手をかして!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    102
+   ],
+   "uses": 2
+  },
+  {
+   "id": 867,
+   "src": "ロックマンと、\nナイトマンの あいだに",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    103
+   ],
+   "uses": 2
+  },
+  {
+   "id": 868,
+   "src": "・・・ソウルユニゾン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    103
+   ],
+   "uses": 2
+  },
+  {
+   "id": 869,
+   "src": "いっこくもはやく\nつかいこなせるように\nなるんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    103
+   ],
+   "uses": 2
+  },
+  {
+   "id": 870,
+   "src": "ナイトソウルは ブレイク系の\nチップを いけにえにすれば\nユニゾンできるぞ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    104
+   ],
+   "uses": 2
+  },
+  {
+   "id": 871,
+   "src": "てきにたいして いっぽもひかぬ\nゆうかんな ソウルだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    104
+   ],
+   "uses": 2
+  },
+  {
+   "id": 872,
+   "src": "エリアのさいぜんれつだと\nチップをつかったときに\nすこしだけムテキになれる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    104
+   ],
+   "uses": 2
+  },
+  {
+   "id": 873,
+   "src": "Bボタンのためうちは\nてっきゅうをふりまわす\nロイヤルレッキングボールだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    104
+   ],
+   "uses": 2
+  },
+  {
+   "id": 874,
+   "src": "さらにブレイク系のチップを\nためうちすると 攻撃力が\n2ばいになるぞ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    104
+   ],
+   "uses": 2
+  },
+  {
+   "id": 875,
+   "src": "ゆうかんにして ごうかいな\nナイトソウル!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    104
+   ],
+   "uses": 2
+  },
+  {
+   "id": 876,
+   "src": "シャドーソウルはインビジブル系の\nチップを いけにえにすれば\nユニゾンできるぞ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 877,
+   "src": "いどうそくどが はやいうえ\nB+左のコマンドで\nカワリミマジックがつかえる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 878,
+   "src": "Bボタンのためうちは\n前方2マスを きりつける\nロングソードだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 879,
+   "src": "さらにソード系のチップを\nためうちすることで\nどこからでも",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 880,
+   "src": "てきのはいごにまわりこんで\nきりつけることができるぞ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 881,
+   "src": "さながら かげのように\nつかみどころのない\nシャドーソウル!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 882,
+   "src": "トマホークソウルは 木属性の\nチップを いけにえにすれば\nユニゾンできる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    106
+   ],
+   "uses": 2
+  },
+  {
+   "id": 883,
+   "src": "へんしんするときに\nすべてのパネルを\nクサムラにしてしまううえ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    106
+   ],
+   "uses": 2
+  },
+  {
+   "id": 884,
+   "src": "クサムラのうえだと\n木属性チップの攻撃力が\n2ばいになるぞ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    106
+   ],
+   "uses": 2
+  },
+  {
+   "id": 885,
+   "src": "Bボタンのためうちは\nたて3 よこ2にきりつける\nトマホークスイングだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    106
+   ],
+   "uses": 2
+  },
+  {
+   "id": 886,
+   "src": "さらにだいちのまもりにより\nマヒやこんらんなどの\nステータスへんかをうけない",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    106
+   ],
+   "uses": 2
+  },
+  {
+   "id": 887,
+   "src": "しぜんの力をわがものとする\nトマホークソウル!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    106
+   ],
+   "uses": 2
+  },
+  {
+   "id": 888,
+   "src": "ナンバーソウルは すうちふか系の\nチップを いけにえにすれば\nユニゾンできるぞ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    107
+   ],
+   "uses": 2
+  },
+  {
+   "id": 889,
+   "src": "Bボタンのためうちは\n出目によって攻撃力がかわる\nサイコロボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    107
+   ],
+   "uses": 2
+  },
+  {
+   "id": 890,
+   "src": "さらにへんしん中は\nカスタム画面でえらべる\nチップが10まいになるうえ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    107
+   ],
+   "uses": 2
+  },
+  {
+   "id": 891,
+   "src": "無属性のチップの攻撃力が\n+10されるようになるぞ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    107
+   ],
+   "uses": 2
+  },
+  {
+   "id": 892,
+   "src": "けいさん しつくされた\nバトルを てんかいできる\nナンバーソウル!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    107
+   ],
+   "uses": 2
+  },
+  {
+   "id": 893,
+   "src": "トードソウルは 水属性の\nチップを いけにえにすれば\nユニゾンできるぞ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    108
+   ],
+   "uses": 2
+  },
+  {
+   "id": 894,
+   "src": "Bボタンのためうちは\nあいてを マヒさせる\nショッキングメロディー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    108
+   ],
+   "uses": 2
+  },
+  {
+   "id": 895,
+   "src": "また へんしん中は\n水パネルの上にいると\n水中にかくれることができる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    108
+   ],
+   "uses": 2
+  },
+  {
+   "id": 896,
+   "src": "さらに 水属性のチップを\nためうちすると 攻撃力が\n2ばいになるぞ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    108
+   ],
+   "uses": 2
+  },
+  {
+   "id": 897,
+   "src": "かわいい みためではあるが\nこうどなせんとうりょくの\nトードソウル!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    108
+   ],
+   "uses": 2
+  },
+  {
+   "id": 898,
+   "src": "カーネルソウルは しょうかん系の\nチップを いけにえにすれば\nユニゾンできるぞ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 899,
+   "src": "ふくへいを あやつる\nとうそつりょくの ソウルだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 900,
+   "src": "Bボタンのためうちは\n前方のてきを きりつける\nスクリーンディバイドだが",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 901,
+   "src": "カスタム画面で\n攻撃力があって あんてんしない\nスタンダードチップを えらび",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 902,
+   "src": "アームチェンジに あてると\nそのチップを\nBボタンの ためうちで",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 903,
+   "src": "つかうことが\nできるようになるのだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 904,
+   "src": "さらに あいてエリアにある\nぶったいの中に ふくへいを\nかくしておくことができる!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 905,
+   "src": "ふくへいは てきを\nみつけると じどうてきに\n攻撃をしてくれるぞ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 906,
+   "src": "パワーとせんじゅつが\nきょうぞんしている\nカーネルソウル!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 907,
+   "src": "科学省",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 908,
+   "src": "きんきゅうそくほう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 909,
+   "src": "メールニュース",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    2
+   ],
+   "uses": 6
+  },
+  {
+   "id": 910,
+   "src": "ごちゅういください",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 911,
+   "src": "伊集院炎山",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    4
+   ],
+   "uses": 18
+  },
+  {
+   "id": 912,
+   "src": "オラン島エリアに行け",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    5
+   ],
+   "uses": 4
+  },
+  {
+   "id": 913,
+   "src": "ネビュラのざんとう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    7
+   ],
+   "uses": 4
+  },
+  {
+   "id": 914,
+   "src": "テスラ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 915,
+   "src": "てつだって!!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 916,
+   "src": "科学省しょくいん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 917,
+   "src": "ナビカスタマイザー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 918,
+   "src": "ソウルユニゾン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 919,
+   "src": "パパ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 920,
+   "src": "科学省にきてくれ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 921,
+   "src": "ダークチップにちゅうい",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 922,
+   "src": "カオスユニゾン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 923,
+   "src": "ネビュラのこうげき",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 924,
+   "src": "インターネット",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 925,
+   "src": "マグネットソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 926,
+   "src": "ジャイロソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 927,
+   "src": "ナパームソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 928,
+   "src": "サーチソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 929,
+   "src": "メディソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 930,
+   "src": "ブルースソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 931,
+   "src": "デカオ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 932,
+   "src": "つかってくれよな!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 933,
+   "src": "シャチホコ城",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 934,
+   "src": "ありがとうございました",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 935,
+   "src": "メイル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 936,
+   "src": "熱斗にあげる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 937,
+   "src": "メールマガジン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    42
+   ],
+   "uses": 4
+  },
+  {
+   "id": 938,
+   "src": "ネットバトラー入門!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 939,
+   "src": "オトクじょうほう!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 940,
+   "src": "バレル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    100
+   ],
+   "uses": 18
+  },
+  {
+   "id": 941,
+   "src": "プライド",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    104
+   ],
+   "uses": 2
+  },
+  {
+   "id": 942,
+   "src": "たすけて!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 943,
+   "src": "ナイトソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 944,
+   "src": "シャドーソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    111
+   ],
+   "uses": 2
+  },
+  {
+   "id": 945,
+   "src": "トマホークソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    113
+   ],
+   "uses": 2
+  },
+  {
+   "id": 946,
+   "src": "ナンバーソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    115
+   ],
+   "uses": 2
+  },
+  {
+   "id": 947,
+   "src": "トードソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    117
+   ],
+   "uses": 2
+  },
+  {
+   "id": 948,
+   "src": "カーネルソウル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070310C",
+    119
+   ],
+   "uses": 2
+  },
+  {
+   "id": 949,
+   "src": "プログラミングを 中止して\nメニュー画面に もどる?\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "0705668",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 951,
+   "src": "おつかれ 熱斗くん!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "0705668",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 954,
+   "src": "このプログラムは電脳世界では\nはずせないよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "0705668",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 956,
+   "src": "これが\nナビカスタマイザーの画面です",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 957,
+   "src": "今、「ロックマン.EXE」という\nネットナビプログラムは\n終了しょり中・・・",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 958,
+   "src": "つまり、ねむっている\nじょうたいです",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 959,
+   "src": "そのあいだに、ここでプログラムを\nくみ、ロックマンの のうりょくを",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 960,
+   "src": "カスタマイズすることが\nできるわけですね",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 961,
+   "src": "カスタマイズは\nこの「メモリMAP」に・・・",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 962,
+   "src": "これらの プログラムを\nセットすることで おこないます",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 963,
+   "src": "それでは、\nちしりょうダメージを うけても\nHP1で たえられる",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 964,
+   "src": "プログラム、「アンダーシャツ」を\nくみこんでみましょう!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 965,
+   "src": "右上の ウインドウから、\n「アンダーシャツ」を えらんで、\nメモリMAPに",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 966,
+   "src": "セットするわけですが・・・",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 967,
+   "src": "ここで まず、\nひとつめのルールを\nおおしえしましょう!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 968,
+   "src": "メモリMAPの ちゅうしんに\nラインが ありますよね?",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 969,
+   "src": "これを、\n「コマンドライン」と\nいうんですが・・・",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 970,
+   "src": "プログラムは、このコマンドライン\nの上に おかなくては\nこうかが はっきされないのです!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 971,
+   "src": "1マスでも\nかかっていればOKですよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 972,
+   "src": "それでは\n「アンダーシャツ」を\nセットしてみましょう!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 973,
+   "src": "あれ、\nそれは「アンダーシャツ」じゃ\nありませんよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 974,
+   "src": "それは、\n今は えらばなくていいですよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 975,
+   "src": "あっと、それじゃコマンドラインに\nかかっていませんよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 976,
+   "src": "オーケー、それじゃ つぎは\n「アタック+1」を\nセットしましょう",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 977,
+   "src": "えらんでみてください!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 978,
+   "src": "あれ、\nそれは「アタック+1」じゃ\nありませんよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 979,
+   "src": "それは、今は えらばなくて\nいいですよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 980,
+   "src": "せっかくセットしたんですから\nうごかさなくてもいいですよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 981,
+   "src": "では 2つめのルールです\nこの「アタック+1」を\n見てください",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 982,
+   "src": "しかくい もようが\n入っていますよね?",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 983,
+   "src": "こういうプログラムを\n「プラスパーツ」といいます",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 984,
+   "src": "プラスパーツは、コマンドラインの\n上にセットしては いけないんです\nちゅういしてくださいね",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 985,
+   "src": "じゃあ、\n「アタック+1」を\nセットしてみましょう!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 986,
+   "src": "「アタック+1」は、\nプラスパーツですから",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 987,
+   "src": "コマンドラインの上に\nおいちゃダメですよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    22
+   ],
+   "uses": 4
+  },
+  {
+   "id": 988,
+   "src": "そこは「アンダーシャツ」が\nすでに おいてありますよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 989,
+   "src": "それでは、さいごに\n「ラピッド+1」を \nセットしましょう!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 990,
+   "src": "えらんでみてください",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 991,
+   "src": "それは、えらばなくていいですよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 992,
+   "src": "せっかくセットしたんだから\nうごかさなくてもいいですよ",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    27
+   ],
+   "uses": 4
+  },
+  {
+   "id": 993,
+   "src": "では、3つめのルールを\nおおしえしましょう!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 994,
+   "src": "おなじカラーの プログラムを\nとなりあって おいては\nいけません!",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 995,
+   "src": "今だと、\nこの「アンダーシャツ」と・・・",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 996,
+   "src": "この、今えらんでいる\n「ラピッド+1」が\nおなじカラーです",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0705784",
+    29
+   ],
+   "uses": 2
+  }
+ ]
+}

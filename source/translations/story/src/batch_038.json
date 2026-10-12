@@ -1,0 +1,2406 @@
+{
+ "batch": 38,
+ "items": [
+  {
+   "id": 7154,
+   "src": "テスラさん・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7155,
+   "src": "オレ 行くよ、\nそして、リーガルをたおす!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7156,
+   "src": "マグネットマンの ぶんまで\nたたかってやってよね!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7157,
+   "src": "あとは、まかせたわよ・・・",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7158,
+   "src": "プライド、オレ・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7159,
+   "src": "なにも いわないで\nナイトマンは、ナイトとしての\nシメイをはたしただけ",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7160,
+   "src": "そして、あなたは\nあなたの はたすべき\nシメイがあるはずです",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7161,
+   "src": "あとは、たのみましたよ・・・",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7162,
+   "src": "プライド・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7163,
+   "src": "あぁ! やってやるぜ\nオレのはたすべきシメイを!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7164,
+   "src": "あとは、まかせましたよ",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7165,
+   "src": "なにやら すごそうな\nトコロよね・・・",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7166,
+   "src": "まさか、ビビってないでしょうね?",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7167,
+   "src": "ガツンと いきましょうよ、\nガツンとね!!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7168,
+   "src": "さぁ、行きましょう!",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7169,
+   "src": "テスラさん、\nだいじょうぶかな・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7170,
+   "src": "プライドさん、\nだいじょうぶかな・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7171,
+   "src": "ここで、ダークチップを\nつくってやがったのか・・・",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7172,
+   "src": "こんな こうじょう、\nブッこわしてやるぜ!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7173,
+   "src": "ここで、ダークチップを\nつくってたのか・・・",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7174,
+   "src": "こんな こうじょう、\nブッこわしてやろうぜ!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7175,
+   "src": "まさか、おくびょうかぜに\nふかれたワケではあるまいな",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7177,
+   "src": "熱斗くん、さきにすすむでマス!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7178,
+   "src": "こんなこうじょう、あっては\nならんでマス!!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7179,
+   "src": "熱斗くん、たのんだわよ!\nガンガンいきましょ!",
+   "speakers": [
+    "Tesla"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7180,
+   "src": "熱斗、がんばりましょうね!",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7181,
+   "src": "ナイトマンも\nキアイじゅうぶんですわ",
+   "speakers": [
+    "Pride"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7182,
+   "src": "そんなバリア、サクッと\nとっぱらって さきに\nすすもうぜ!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7183,
+   "src": "今回は プライドとおまえに\nゆずってやるけどよ、\nつぎは オレのでばんだよな?",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7184,
+   "src": "けっして 気をぬくな・・・\nなにがあるか わからんからな",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7185,
+   "src": "ね、熱斗くん、\n気を つけるでマスよ~!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7186,
+   "src": "熱斗、さきに すすもうぜ!",
+   "speakers": [
+    "Fyrefox",
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    50
+   ],
+   "uses": 4
+  },
+  {
+   "id": 7187,
+   "src": "マグネットマンのぶんまで\nオレが たたかってやるぜ!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7188,
+   "src": "リーガルを ぶっとばして\nナイトマンの むねんは\nオレが はらしてやるぜ!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7189,
+   "src": "さきを いそごう・・・\nかんしょうに ひたっている\nヒマはないぞ・・・",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7190,
+   "src": "ナイトマンの がんばりを見て\nアッシ、目がさめたでマス!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7191,
+   "src": "アッシも イノチをかけて\nたたかうでマス!!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7192,
+   "src": "チャーリーのヤツ、\nおいしいトコロを\nもっていきやがって!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7193,
+   "src": "オレだって、はやく\nたたかいたいのによ!!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7194,
+   "src": "またしても、オレのでばんが・・・\nつ、つぎこそは オレが!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7195,
+   "src": "われわれに のこされた時間は\nそんなに ながくはない・・・\nさきを いそぐんだ・・・",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    57
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7196,
+   "src": "熱斗くん、\nがんばるでマスよ!!",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    58
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7197,
+   "src": "クソッ、ジャイロマンまで・・・",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7198,
+   "src": "熱斗、さきをいそごうぜ\nリーガルを ブッとばしてやる!",
+   "speakers": [
+    "Fyrefox"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7199,
+   "src": "まさか、シャドーマンまで・・・",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7200,
+   "src": "ネビュラめ・・・\nゆるせないぜ!",
+   "speakers": [
+    "Dingo"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7201,
+   "src": "かなしんでいるヒマはない\nマグネットマンや、ジャイロマンの\nコトを おもうなら",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    62
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7202,
+   "src": "さきを いそぐべきだ・・・",
+   "speakers": [
+    "Raika"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    62
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7203,
+   "src": "あのシャドーマンまで・・・",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    63
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7204,
+   "src": "このさき、ナンバーマンが\nつうようするか シンパイでマス",
+   "speakers": [
+    "Higsby"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799430",
+    63
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7205,
+   "src": "デンノウノ セカイ、\nインターネットへ ヨウコソ!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7206,
+   "src": "ココハ アキハラエリア1 デス\nユックリ タノシンデイッテ\nクダサイネ",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7207,
+   "src": "イマ、アナタが タっている\nフトくて ミドリいろのミチが",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7208,
+   "src": "アキハラエリアの\nメインストリートです",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7209,
+   "src": "コレをたどって アルけば\nマヨうコトが スクなくなって\nベンリですよ",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7210,
+   "src": "え?\nキッチンのデンノウ?\nシらないなぁ",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7211,
+   "src": "たぶん、\nアキハラエリア2じゃないの",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7212,
+   "src": "アキハラエリア2は\nメインストリートを\nたどってイけば すぐだよ",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7213,
+   "src": "あれ?\nミチに マヨっちゃったよ\nメインストリートは どっちだ~!",
+   "speakers": [
+    "NormalNaviPink"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7214,
+   "src": "なにか ヒトつのシゴトを\nやりとげた オトコのカオって\nカンじだね",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7215,
+   "src": "え? おおげさ?",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7218,
+   "src": "どこかに 行くの?",
+   "speakers": [
+    "Roll"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7219,
+   "src": "うん、ママのおつかいなんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    5
+   ],
+   "uses": 4
+  },
+  {
+   "id": 7220,
+   "src": "そう、秋原エリア2に\nガッツマンと グライドがいたよ",
+   "speakers": [
+    "Roll"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7221,
+   "src": "もし あったら、\nこえをかけてみたら?",
+   "speakers": [
+    "Roll"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7222,
+   "src": "今から メイルちゃんの\nPETに かえるところ\nなんだけど、",
+   "speakers": [
+    "Roll"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7223,
+   "src": "もうちょっと、\nウロウロして行こうかな",
+   "speakers": [
+    "Roll"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7224,
+   "src": "オヌシ サブチップとは\nナニか シっておるか?",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7225,
+   "src": "サブチップとは、バトルチップと\nチガい、イチド ツカうと\nナくなってしまうチップのコトじゃ",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7226,
+   "src": "その コウカは\nHP(ヒットポイント)の\nカイフク、",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7227,
+   "src": "テキと アいにくくなる、\nシカけられた セキュリティを\nハズす ナドナド、",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7228,
+   "src": "シュルイにオウじて\nサマザマじゃ",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7229,
+   "src": "ツカうには スタートボタンを\nオして PETガメンをダし、\n「サブチップ」をエラぶのじゃが",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7230,
+   "src": "バトルチップと チガって\nバトルチュウ イガイで\nツカえるから ベンリじゃの",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7231,
+   "src": "キョウミがあるなら\nそこにおる ナビに\nハナしかけてみるがいい",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7232,
+   "src": "イロイロな サブチップを\nウっておるぞ",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7233,
+   "src": "ケイコク! ケイコク!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    10
+   ],
+   "uses": 6
+  },
+  {
+   "id": 7234,
+   "src": "コノエリアハ ナゾノ\nシュウダンニヨッテ\nセンリョウサレテ シマイマシタ!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7235,
+   "src": "スミヤカニ プラグアウトヲ!\nハヤク ニゲテー!!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7236,
+   "src": "キ、キミ なにやってるの!?",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7237,
+   "src": "このエリアはキケンだから\nハヤく、ニげたほうがイイよ",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7238,
+   "src": "ボ、ボクも ハヤく\nプラグアウトしなくちゃ!",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7239,
+   "src": "ヨウコソ!\nココハ アキハラエリア1デス!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7240,
+   "src": "アキハラエリア2ハ\nメインストリート ニ ソッテ\nススメバ、スグデスヨ",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7241,
+   "src": "ねぇ、キミしってる?\nセンリョウされた\nインターネットエリアを",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7242,
+   "src": "カイホウするための\nネットナビのチームが\nあるんだって!",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7243,
+   "src": "でも、ダレも そのショウタイを\nしらないんだ\nなんか カッコよくない?",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7244,
+   "src": "こうして インターネットのフチに\nタっていると、",
+   "speakers": [
+    "OfficialNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7245,
+   "src": "フダン ミえぬモノが\nミえてくる キがしないか・・・",
+   "speakers": [
+    "OfficialNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7246,
+   "src": "フフフ\nスコし、ムズカしすぎたかな?",
+   "speakers": [
+    "OfficialNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7247,
+   "src": "こういう メインストリートから\nハズれたバショにこそ",
+   "speakers": [
+    "NaviGirlOrange"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7248,
+   "src": "おタカラモノの チップとかが\nオちてるのよ",
+   "speakers": [
+    "NaviGirlOrange"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7249,
+   "src": "いわゆる\nトレジャーハンティング?",
+   "speakers": [
+    "NaviGirlOrange"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799940",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7250,
+   "src": "ミナサーン!\nオシラセデース!!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 7251,
+   "src": "アキハラエリア ト\nオラントウエリア ヲ\nツナグミチノ シュウリガ",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7252,
+   "src": "カンリョウシマシター!!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 7253,
+   "src": "ハヤくプラグアウトして\nシュクダイ しなくちゃ・・・",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7254,
+   "src": "でも、オラントウエリアにも\nイってみたいしなぁ・・・",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7255,
+   "src": "どうしようかな・・・",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7256,
+   "src": "ゲンザイ、ドコまで\nハシり ツヅけられるか\nキロクに チョウセンチュウ!",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 7257,
+   "src": "ジャマしないでネ!",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7258,
+   "src": "スコし ツカれてきたけど\nまだまだ ダイジョウブ!",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7259,
+   "src": "デンノウ セカイキロク\nコウシンまで ガンバるぞ!",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7260,
+   "src": "アキハラエリアばかりで\nアソぶのも アきてきたわね",
+   "speakers": [
+    "NormalNaviPink"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7261,
+   "src": "たまには ホカのエリアにでも\nイってみようかしら",
+   "speakers": [
+    "NormalNaviPink"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7262,
+   "src": "コンドハ オラントウエリア ト\nカガクショウエリア ヲ\nツナグミチノ シュウリガ",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7263,
+   "src": "ケイコクー! ケイコクー!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7264,
+   "src": "オラントウエリア ト\nカガクショウエリア ガ\nタイヘンナコトニ ナッテマスー!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7265,
+   "src": "ミナサーン!\nチカヅカナイデクダサーイ!!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7266,
+   "src": "オラントウエリアのほうで\nなにか さわぎが\nおきてるみたいだな・・・",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7267,
+   "src": "あそびにいこうと おもってたけど\nプラグアウトして\nシュクダイでも しようかな・・・",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7268,
+   "src": "ゲンザイ、どこまで\nはしりつづけられるか\nキロクに ちょうせんちゅう・・・",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7269,
+   "src": "えっ!?\nオラントウエリアで\nタイヘンなことが!?",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7270,
+   "src": "ウウ・・・\nコ、コワいけど、キロクのためだ!\nボクは はしりつづけるぞ!",
+   "speakers": [
+    "PurpleNavi"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7271,
+   "src": "ココハ アキハラエリア1\nデンノウセカイノ シハツエキ\nアキハラエリア1 デスヨー",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7272,
+   "src": "カガクショウエリアが\nネビュラのテから\nカイホウされたんですって",
+   "speakers": [
+    "NaviGirlOrange"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7273,
+   "src": "でも カガクショウエリアって\nちょっと おカタいカンじで\nアソびにイくにはイマイチなのよね",
+   "speakers": [
+    "NaviGirlOrange"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7274,
+   "src": "アキハラエリアの ムこうが\nオラントウエリアでしょ",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    22
+   ],
+   "uses": 4
+  },
+  {
+   "id": 7275,
+   "src": "そして、オラントウエリア1から\nウエのホウにイったら\nカガクショウエリア",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7276,
+   "src": "シタのホウにイったら\nエンドエリアだったよね?",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7277,
+   "src": "しっかり オボえておかないと\nマイゴになっちゃうよ",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7278,
+   "src": "このアタりは\nメインストリートから\nハナれているからシズかでいいよね",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7279,
+   "src": "カンセイな ジュウタクガイって\nフンイキかな",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7280,
+   "src": "キノウ カガクショウエリアに\nアソびにイってみたんだけど\nやっぱり おヤクショってカンじね",
+   "speakers": [
+    "NaviGirlOrange"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7281,
+   "src": "イマイチ オモシロミに カけるわ",
+   "speakers": [
+    "NaviGirlOrange"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7282,
+   "src": "そして、オラントウエリア1から\nウエのホウにイったら\nカガクショウエリア・・・",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7283,
+   "src": "シタのホウにイったら\nエンドエリア・・・",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7284,
+   "src": "うう・・・",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7285,
+   "src": "キノウから アンキしようと\nガンバってるんだけど\nゼンゼン オボえられないよー!!",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7286,
+   "src": "ミナトに\nクィーン・チェーコごう っていう\nフネが テイハクしてるんだって",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7287,
+   "src": "でも チェーコって\nダレなんだろう?\nどこかのクニの オヒメサマ?",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0799E50",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7288,
+   "src": "サイキンノ アキハラ\nエリアハ シズカナ\nモノデスネ・・・",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7289,
+   "src": "ヤッパリ インターネットハ\nヘイオンガ イチバン デス!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7290,
+   "src": "ねえ、ねえ\nエンドシティって\nシってる?",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7291,
+   "src": "カンコウ スポット\nらしいけど、ボクは\nイったことなくてさ~",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7292,
+   "src": "ダレか ツれてイって\nくれないかな~",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7293,
+   "src": "ネビュラが シハイしていた\nカクチのエリアが、どんどん\nカイホウ されているらしいよ",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7294,
+   "src": "これも ウワサの\nネットナビチームの\nおかげ なのかな?",
+   "speakers": [
+    "NormalNaviBrown"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7295,
+   "src": "ケ・・ク! ・イコク!\nタダチ・ プ・グ・・ト\n・テク・サイ",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7296,
+   "src": "だめだ・・・\nつうしん ぼうがいのせいで\nことばが ききとれないよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    10
+   ],
+   "uses": 124
+  },
+  {
+   "id": 7297,
+   "src": "・ったい なに・\nおき・・だよ~",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7298,
+   "src": "ネビュラニハ ホトホト\nコマリハテテ シマイマス",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7299,
+   "src": "ワタシノ シゴトノ\nジャマ バカリシテ・・・",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7300,
+   "src": "ツウシンの イジョウは\nナオった みたいだね!!",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7301,
+   "src": "ヨかった! ヨかった!",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7302,
+   "src": "アキハラ エリア1ヘ\nヨウコソ!!",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7303,
+   "src": "キョウハ ドンナ\nゴヨウジ ナンデスカ?",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7304,
+   "src": "ふ~ なんか アキハラ\nエリアって おちつくね",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7305,
+   "src": "ボクには ふるさとって\nかんじがするけど\nキミは どう?",
+   "speakers": [
+    "NormalNaviYellow"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 7306,
+   "src": "カガクショウ エリアノ\nホウガ サワガシイ\nヨウデスヨ・・・",
+   "speakers": [
+    "MrProgGreen"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "079A278",
+    40
+   ],
+   "uses": 2
+  }
+ ]
+}

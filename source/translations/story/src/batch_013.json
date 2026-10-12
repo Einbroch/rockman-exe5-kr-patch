@@ -1,0 +1,2405 @@
+{
+ "batch": 13,
+ "items": [
+  {
+   "id": 3321,
+   "src": "ロックマン、プラグアウトするぞ\nプライドが しんぱいだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    18
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3322,
+   "src": "ロックマン、オラン島にもどるぞ\nテスラさんが まってるぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    19
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3323,
+   "src": "ロックマン、オラン島にもどるぞ\nプライドが まってるぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    20
+   ],
+   "uses": 10
+  },
+  {
+   "id": 3324,
+   "src": "ロックマン、プラグアウトだ\n科学省のしれい室に\n行こうぜ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    21
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3325,
+   "src": "よし ロックマン、\nネットワークを\nふっきゅうさせるぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3326,
+   "src": "ロックマン、ネビュラのざんとうを\nさがすぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    23
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3327,
+   "src": "ロックマン、\nオラン島エリアに むかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    25
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3328,
+   "src": "ロックマン、\nジャイロマンを おいかけるぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    26
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3329,
+   "src": "ロックマン、\nシャドーマンを おいかけるぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    27
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3330,
+   "src": "ロックマン、\n科学省エリア2にある\nヤミのくものところにむかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    28
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3331,
+   "src": "ロックマン、どこに行くんだ\nミッションが はじまるぞ!\n科学省エリア3にもどろうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    29
+   ],
+   "uses": 14
+  },
+  {
+   "id": 3332,
+   "src": "まずは エンドエリアに\nはいるため、オラン島エリア2へ\nむかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    53
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3333,
+   "src": "科学省エリアに 行けばなにか\nあるかもな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    55
+   ],
+   "uses": 14
+  },
+  {
+   "id": 3334,
+   "src": "このあたりに なにか\n手がかりに なるものはないかな?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    56
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3335,
+   "src": "オラン島エリア2のトビラを\nかいじょして、エンドエリアに\nむかうぞ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    57
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3336,
+   "src": "いったん、しれい室に\nもどるぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    59
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3337,
+   "src": "プラグアウトだ!\nまずは しょうたいけんを\nゲットしなくちゃな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    61
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3338,
+   "src": "あしたに そなえて、\nそろそろ プラグアウトするか・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    63
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3339,
+   "src": "ブルース、\nエンドエリアに むかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    67
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3340,
+   "src": "みなとに むかうぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    70
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3341,
+   "src": "そろそろ プラグアウトするぞ\nふねが でちゃうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0773CAC",
+    72
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3342,
+   "src": "ロックマン、\nエンドエリア4にむかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    10
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3343,
+   "src": "パパの けんきゅう室に\nむかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    11
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3344,
+   "src": "パパのけんきゅう室に\n行こうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    12
+   ],
+   "uses": 36
+  },
+  {
+   "id": 3345,
+   "src": "データかいせきが\nとくいな人といえば、\nやっぱり・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    13
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3346,
+   "src": "ロックマン、おじいちゃんの\nてがみを よくよんでみようぜ\nなにか わかるかもしれない!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    15
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3347,
+   "src": "ウラのイヌ小屋に かかれた\nぶんしょうは、\nなにを イミしてたんだ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    16
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3348,
+   "src": "エンドシティの シャチホコ城に\nむかうぜ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    17
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3349,
+   "src": "ロックマン、\nシャチホコ城に行くぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    18
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3350,
+   "src": "エンドエリア3の\nようすを見に行こう!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    19
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3351,
+   "src": "エンドエリアに もんだいは\nなかったって、おじさんに\nおしえてあげないとな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    20
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3352,
+   "src": "ロックマン、\nお城にもどるぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    21
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3353,
+   "src": "データディスクにはいってた\nテキストデータは なにを\nイミしてたんだろうな?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    22
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3354,
+   "src": "じゅんびができたら\nあの トビラのむこうに\n行ってみようぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    30
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3355,
+   "src": "ロックマン、\n炎山のトコロに行くぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    33
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3356,
+   "src": "ロックマン、\nバレルさんのトコロに行くぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    34
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3357,
+   "src": "今日はもうやすむか・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    35
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3358,
+   "src": "ロックマン、エンドエリア3に\nむかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    39
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3359,
+   "src": "ロックマン、シャチホコ城に\nむかうぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    40
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3360,
+   "src": "ロックマン、シャチホコ城に\nもどるぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    41
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3361,
+   "src": "ロックマン、\nエンドエリア4に むかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    48
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3362,
+   "src": "炎山、なんのようじだ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    60
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3363,
+   "src": "ロックマン、秋原町の\nパストビジョンに行くぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    62
+   ],
+   "uses": 18
+  },
+  {
+   "id": 3364,
+   "src": "あのイヌのコトを\nしってる人って\nいるのかな・・・?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    63
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3365,
+   "src": "あの おじいさんの\nナビはオラン島エリア1に\nいるんだったよな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    65
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3366,
+   "src": "」・・・\nどこの Pコードだ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    66
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3367,
+   "src": "たしか、科学省と\nかんけいあるみたいなコト\nいってたよな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    66
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3368,
+   "src": "科学省エリア3の ワープホールの\nさきに 行ってみようぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    68
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3369,
+   "src": "あの ワープホールの\nさきに 行ってみようぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    69
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3370,
+   "src": "じゅんびが できたら、\nあのトビラに はいろうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    70
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3371,
+   "src": "ロックマン、\n科学省のHPにむかおうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    73
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3372,
+   "src": "どこか、あたらしい しれい室に\nなりそうな ばしょか・・・\nダレかに そうだんできないかな?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    74
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3373,
+   "src": "データファイルはエンドエリア3の\nリッパなモノの ちかくに\nおちているんだったよな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    75
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3374,
+   "src": "プラグアウトしようぜ\n日暮さんのトコロに\nもって行くんだ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    76
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3375,
+   "src": "ロックマン、エンドエリア5に\nむかうぜ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    80
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3376,
+   "src": "ロックマン、\nそろそろ プラグアウトしようぜ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    81
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3377,
+   "src": "ロックマン、\nウラインターネットに行くぞ!\nメディが あぶない!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    83
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3378,
+   "src": "ロックマン、\nウラインターネットに行くぞ!\nトードマンが あぶない!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    84
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3379,
+   "src": "ロックマン、\nウラインターネット4に 行こう!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    85
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3380,
+   "src": "ロックマン、\nこのエリアに しんにゅうした\nナビをさがすぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774074",
+    86
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3381,
+   "src": "町に出てみるぞ!\nなにが おきたんだ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    10
+   ],
+   "uses": 22
+  },
+  {
+   "id": 3382,
+   "src": "プラグアウトだ!\n秋原町に かくされた\nサーバーを さがすぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    11
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3383,
+   "src": "プラグアウトするぞ!\n炎山のトコロに行こう!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    12
+   ],
+   "uses": 22
+  },
+  {
+   "id": 3384,
+   "src": "プラグアウトするぞ!\nバレルさんのトコロに行こう!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    13
+   ],
+   "uses": 22
+  },
+  {
+   "id": 3385,
+   "src": "ロックマン、\nウラインターネットに\nむかおう!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    15
+   ],
+   "uses": 20
+  },
+  {
+   "id": 3386,
+   "src": "いよいよ、あしただな\n今日は はやめにやすむか・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    16
+   ],
+   "uses": 22
+  },
+  {
+   "id": 3387,
+   "src": "データディスクの ないようは\nなにを イミしてるんだ?\nしらべてみようぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    18
+   ],
+   "uses": 22
+  },
+  {
+   "id": 3388,
+   "src": "ロックマン、じゅんびができたら\n科学省エリア3の\nトビラに はいろう!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    19
+   ],
+   "uses": 22
+  },
+  {
+   "id": 3389,
+   "src": "インターネットは ほどほどにして\n今日は はやめに やすもうぜ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    20
+   ],
+   "uses": 14
+  },
+  {
+   "id": 3390,
+   "src": "ロックマン、じゅんびができたら\nれいのトビラに はいろう!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3391,
+   "src": "ロックマン、\nはっしんきを さがすんだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3392,
+   "src": "いよいよ しゅっぱつだな・・・\nママにあいさつしてから\n行かないとな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    25
+   ],
+   "uses": 22
+  },
+  {
+   "id": 3393,
+   "src": "そろそろ プラグアウトしないと\nしゅうごう時間に おくれそうだな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    26
+   ],
+   "uses": 22
+  },
+  {
+   "id": 3394,
+   "src": "じゅんびが できたら\nネビュラの ほんきょちに\nもどるぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    27
+   ],
+   "uses": 22
+  },
+  {
+   "id": 3395,
+   "src": "すごい ヤミのエネルギーを\nかんじるぜ・・・\n気をぬくなよ、ロックマン!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07745C0",
+    50
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3396,
+   "src": "」を\nわたしに行くぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    11
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3397,
+   "src": "キッチンの電脳は、\n秋原エリア2から\n行けるんだったよな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    12
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3398,
+   "src": "インターネットは このへんにして\nみんなを さそいに行こうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3399,
+   "src": "そろそろ まちあわせばしょに\n行ってみるか・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    14
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3400,
+   "src": "そろそろ みんなをさそいに\n行かないと マズいな・・・\nみんなのウチに 行こうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    15
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3401,
+   "src": "ロックマン、インターネットの\nようすを 見に行くぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3402,
+   "src": "ロックマン、科学省に行こう\nママにいちおう こえを\nかけておいたほうがいいな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    21
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3403,
+   "src": "ロックマン、インターネットは\nあとにして、科学省に行くぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    22
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3404,
+   "src": "ロックマン、科学省にもどるぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    23
+   ],
+   "uses": 12
+  },
+  {
+   "id": 3405,
+   "src": "ロックマン、インターネットは\nあとまわしだ!!\n科学省にもどるぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    24
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3406,
+   "src": "科学省にもどるぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    25
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3407,
+   "src": "科学省にもどるぞ!\nメインシステムに しんにゅうした\nはんにんを さがすんだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    26
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3408,
+   "src": "おくに すすむぞ!\nいったい インターネットで\nなにが・・・?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    27
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3409,
+   "src": "たいせいが ととのったら、\nメインシステムの電脳に\nもどるぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    28
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3410,
+   "src": "ロックマン、ひとまわりしたら\nプラグアウトするぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    30
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3411,
+   "src": "秋原エリア2に むかうぞ\nブルースがまってる!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    32
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3412,
+   "src": "秋原エリア3に行くぞ!\nゆだんするなよ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    33
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3413,
+   "src": "秋原エリア2に むかうぞ\nカーネルがまってる!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07748B4",
+    34
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3414,
+   "src": "ロックマン、\nオラン島エリアにむかおう!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0774DB4",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3415,
+   "src": "ロックマン、シャチホコの\nトコロまで 行ってみようぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0775110",
+    23
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3416,
+   "src": "お城で なにかあったのか?\nちょっと、じじょうを\nきいてみようぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0775110",
+    24
+   ],
+   "uses": 16
+  },
+  {
+   "id": 3417,
+   "src": "ロックマン、\nさきを いそぐぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0775110",
+    50
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3418,
+   "src": "ネビュラのこうげきを\nうけているのは ドコだ!?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0775110",
+    77
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3419,
+   "src": "ロックマン、\nじょうほうしゅうしゅうだ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0775928",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3420,
+   "src": "オレたちの 秋原町を\nネビュラの手からまもるんだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0775928",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3421,
+   "src": "まえと かわったトコロは\nないかな・・・\nいろいろ見てまわるぞ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0775928",
+    62
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3422,
+   "src": "ガウに ついてなにか\nわかるかもしれない\nとにかく じょうほうをあつめよう",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0775928",
+    71
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3423,
+   "src": "ガウのヤツ、どこにかくれたんだ?\nさがすぞ、ロックマン!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0775928",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3424,
+   "src": "そろそろ プラグアウトして\n今日は はやめに やすもうぜ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0775D6C",
+    20
+   ],
+   "uses": 8
+  },
+  {
+   "id": 3425,
+   "src": "そろそろ プラグアウトして\nみんなを さそいに行こうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776000",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3426,
+   "src": "ママの ともだちのナビは\nドコにいるんだ?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776000",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3427,
+   "src": "ロックマン、インターネットに\nもどるぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776000",
+    20
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3428,
+   "src": "ロックマン、プラグアウトだ\n科学省に行くぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776000",
+    22
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3429,
+   "src": "ロックマン、プラグアウトだ\n科学省にもどるぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776000",
+    24
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3430,
+   "src": "メインオペレートルームの\nおくのへやに 行くぞ!\nロックマン、プラグアウトだ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776000",
+    29
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3431,
+   "src": "ロックマン、プラグアウトだ!\nデカオたちを さがそう!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776000",
+    55
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3432,
+   "src": "ロックマン、電子ロックを\nかいじょするんだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776000",
+    69
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3433,
+   "src": "ロックマン、プラグアウトだ\nテスラさんのトコロに行くぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    17
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3434,
+   "src": "ロックマン、プラグアウトだ\nプライドのトコロに行くぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    18
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3435,
+   "src": "ロックマン、プラグアウトだ\nテスラさんが まってるぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    19
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3436,
+   "src": "ロックマン、プラグアウトだ\nプライドが まってるぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    20
+   ],
+   "uses": 6
+  },
+  {
+   "id": 3437,
+   "src": "カーネル、\nエンドエリアに むかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    68
+   ],
+   "uses": 12
+  },
+  {
+   "id": 3438,
+   "src": "スタンプラリーついでに\nせんないを 見てまわろうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    69
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3439,
+   "src": "パーティーまで まだ時間があるな\nしばらく せんないのようすを\n見てまわろうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    74
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3440,
+   "src": "スタンプは ぜんぶ\nあつまったな!\nせんいんさんの トコロにもどるか",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    76
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3441,
+   "src": "きかん室に むかおうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    78
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3442,
+   "src": "プラグアウトだ!\nきかん室にむかうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    80
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3443,
+   "src": "プラグアウトだ!\nきかん室に もどるぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    86
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3444,
+   "src": "いそげ、ネビュラのナビを\nおうんだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    87
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3445,
+   "src": "パーティーかいじょうに\nむかおうぜ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    88
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3446,
+   "src": "プラグアウトだ!\nパーティーかいじょうを\nひととおり 見てまわるぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    89
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3447,
+   "src": "プラグアウトだ!\nパーティーかいじょうの\nトリックを あばくぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    90
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3448,
+   "src": "かがみを たどって、\nはんにんの あしどりをおうぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    92
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3449,
+   "src": "プラグアウトして\nはんにんを おうぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    94
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3450,
+   "src": "こんなトコロで あそんでいる\nヒマはない!\nそうだ室に むかうぞ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    96
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3451,
+   "src": "そうだ室の コンピュータに\nプラグインしにいくぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776504",
+    98
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3452,
+   "src": "ムシャホログラムのトコロに\n行ってみようぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07769FC",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3453,
+   "src": "ムシャホログラムの\nそうびを あつめようぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07769FC",
+    54
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3454,
+   "src": "ユリの間の トビラを\nひらくのは もしかして・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07769FC",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3455,
+   "src": "科学省エリア3の ワープホールの\nさきには いったいなにが\nあるんだ・・・?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07769FC",
+    69
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3456,
+   "src": "気をぬくなよ・・・\nなんたって、ここは ネビュラの\nほんきょちだからな",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0776FD8",
+    45
+   ],
+   "uses": 4
+  },
+  {
+   "id": 3457,
+   "src": "はやく パパのトコロに\n行こうぜ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07772A4",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3458,
+   "src": "ロックマン、プラグアウトだ!\nあそんでるヒマはないぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07772A4",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3459,
+   "src": "ロックマン、プラグアウトだ!\nおおがたモニターを\nしらべてみようぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0777B74",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3460,
+   "src": "ライカが くるかもしれないから\nプラグアウトしてまっておこうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0777B74",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3461,
+   "src": "日暮さんがくるかもしれないから、\nプラグアウトしてまっておこうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0777B74",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3462,
+   "src": "ロックマン、\nお城に はいろうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0777B74",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3463,
+   "src": "ロックマン、\n秋原町に かくされた\nサーバーを さがすぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0778124",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3464,
+   "src": "ロックマン、プラグアウトだ!\nグズグズしてるヒマはないぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0778124",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3465,
+   "src": "ロックマン、\nオレたちのチカラを\n見せてやろうぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0778428",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3466,
+   "src": "ロックマン、\nブルースのトコロに行くぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0778F24",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3467,
+   "src": "ロックマン、\nカーネルのトコロに行くぞ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0778F24",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3468,
+   "src": "ロックマン、オラン島エリア3に\nつうじるルートをさがすんだ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0779F70",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3469,
+   "src": "このエリアのさきに、\nエンドエリアが あるんだな・・・",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077A23C",
+    54
+   ],
+   "uses": 2
+  },
+  {
+   "id": 3470,
+   "src": "エンドエリアに つづくトビラを\nかいじょして、エンドエリアに\nむかうぞ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "077A23C",
+    58
+   ],
+   "uses": 2
+  }
+ ]
+}

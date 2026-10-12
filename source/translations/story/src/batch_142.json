@@ -1,0 +1,161 @@
+{
+ "batch": 142,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 16998,
+   "src": "リベレート",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EB500",
+    0
+   ],
+   "uses": 2,
+   "hint": "리버레이트"
+  },
+  {
+   "id": 16999,
+   "src": "ツインリベレート",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EB500",
+    1
+   ],
+   "uses": 4
+  },
+  {
+   "id": 17000,
+   "src": "ゲンキデルメロディ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EB500",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17001,
+   "src": "ばくげきリベレート",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EB500",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17002,
+   "src": "やみうち",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EB500",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17003,
+   "src": "パネルサーチ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EB500",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17004,
+   "src": "ナンバーチェック",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EB500",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17005,
+   "src": "マグネットバリア",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EB500",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17006,
+   "src": "Sディバイド",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EB500",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17007,
+   "src": "セーブ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EB500",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 17008,
+   "src": "なにもしない",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07EB500",
+    15
+   ],
+   "uses": 2
+  }
+ ]
+}

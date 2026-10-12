@@ -1,0 +1,370 @@
+{
+ "batch": 140,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 16629,
+   "src": " かんりにん    こうしきバトルケイジバン ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16630,
+   "src": " たつあき     マジですか!       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16631,
+   "src": " カータン     カスタムソード      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16632,
+   "src": " モサシ      せっしゃのあいとう   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16633,
+   "src": " ゴエーツにいさん オリジナルコンボ     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16634,
+   "src": " ゴロー      たすけてください!    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16635,
+   "src": " コーエツにいさん RE:たすけてください! ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16636,
+   "src": " ちゃんぽん    スゴイテクだぜ!     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16637,
+   "src": " タケシ      リンゴはうまい!     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16638,
+   "src": " オフィシャルゴウ ウイルスのぶんぷ     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16639,
+   "src": " ホソマル     せいきの大はっけん    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16640,
+   "src": " NO NAME  RE:せいきの大はっけん ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16641,
+   "src": " かんりにん    ネチケット        ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16642,
+   "src": " コウジィー    チップのHIT数     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16643,
+   "src": " ゴエーツにいさん おもしろチップ      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16644,
+   "src": " ニッシィ     属性のつかいかた     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16645,
+   "src": " コーエツにいさん 属性コンボ!!      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16646,
+   "src": " ゴエーツにいさん あんたがあにきだ     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16647,
+   "src": " マエちゃん    ユラユラ         ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16648,
+   "src": " トックー     RE:ユラユラ      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16649,
+   "src": " BBS0  1B そのご・・・       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16650,
+   "src": " BBS0  1B 大会!          ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16651,
+   "src": " BBS0  1B RE:大会!       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    22
+   ],
+   "uses": 4
+  },
+  {
+   "id": 16652,
+   "src": " BBS0  18 バリアブルソード     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16653,
+   "src": " BBS0  19 クモのたおし方      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16654,
+   "src": " BBS0  1A RE:クモのたおし方   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E4B18",
+    26
+   ],
+   "uses": 2
+  }
+ ]
+}

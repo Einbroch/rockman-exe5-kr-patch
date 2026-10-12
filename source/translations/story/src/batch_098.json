@@ -1,0 +1,2105 @@
+{
+ "batch": 98,
+ "items": [
+  {
+   "id": 16400,
+   "src": "ブースターシステムってのは\nプログラムの パワーを\nばいぞう させることができる",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16401,
+   "src": "スゴイ システムなんだけど\nじつは ネビュラのはんこう\nだったらしいんだよ!!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16402,
+   "src": "インターネットの つぎは\nブースターシステム・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16403,
+   "src": "ネビュラの もくてきは\nいったい なんなんだろう?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16404,
+   "src": "きっと やつらは\nこの でじたるな世界を\nつぶす つもりなんじゃ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16405,
+   "src": "えんどえりあを しはいされて\nでんしてがみも おくれんと\nきいたぞい",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16406,
+   "src": "きっと ねびゅらは\nはとで てがみをとどける\n世界にするきなんじゃ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16407,
+   "src": "わしゃ たのしみじゃ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16408,
+   "src": "わ わたし\nどうしちゃったのかしら",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16409,
+   "src": "リーガルって人のほうそうを\nみたあとに きゅうに\nイライラしちゃって",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16410,
+   "src": "なんだか いつもの\nわたしじゃ ないみたいだったの\nさっき やっとおさまったんだけど",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16411,
+   "src": "秋原町 全体が\nパニックに なったみたいだし",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16412,
+   "src": "また なにかおきそうで\nなんだか コワイな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16413,
+   "src": "わたしなんて レディーで\nありながら キィキィーって\nさけんじゃったわよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16414,
+   "src": "じぶんの ココロが\nコントロールできなくなるなんて\nたしかに こわいわね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16415,
+   "src": "まるで ウラのじゅうにん\nみたいじゃない",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16416,
+   "src": "しかも ニホンかくちで\nおきたみたいね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16417,
+   "src": "オモテの世界が\nウラの世界になるなんて\nあってはいけないことだわ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16418,
+   "src": "オレさまなんて その時の\nきおくが なくなってるんだ・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16419,
+   "src": "いったい 秋原町イチの\nネットバトラーである\nオレさまに なにがおきたんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16420,
+   "src": "ココロが おもいぜ\nこれから いったいどうなるんだ?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16421,
+   "src": "このあいだ よびフォルダに\n「みならいフォルダ」を\nインストールしちゃった",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16422,
+   "src": "あの 名人みならいと\nおなじフォルダをつかえるなんて\nウレシ~よね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16423,
+   "src": "これで わたしは\n名人みならいの みならい\nってとこかしら",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16424,
+   "src": "でも よびフォルダが\nへんしゅうできないの\nおかしいな?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16425,
+   "src": "やあ!\nコーエツにいさんだよ!!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16426,
+   "src": "きょうは フォルダについて\nすこし べんきょうしよう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16427,
+   "src": "プログレスPETには\nフォルダ1と フォルダ2\nそして よびフォルダ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16428,
+   "src": "ぜんぶで 3つのフォルダを\nいれることができるんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16429,
+   "src": "フォルダ1と フォルダ2は\nじぶんで へんしゅう\nできるんだけど、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16430,
+   "src": "よびフォルダは\nへんしゅうできないんだ\nでも、だいじょうぶ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16431,
+   "src": "よびフォルダには\nひとのくんだ フォルダを\nインストールできるんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16432,
+   "src": "たまには ひとのフォルダで\nたたかってみるのも\nおもしろいよね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16433,
+   "src": "だいはっけん!!\nバトル中のカスタム画面中に",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16434,
+   "src": "フィールドを もっと\n見わたしたい時ってない?\nあるよね? あるよね?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16435,
+   "src": "じつは セレクトボタンを\nおすと カスタム画面を\nけせるんだ!!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16436,
+   "src": "もういちど セレクトボタンを\nおすと カスタム画面が\nでてくるよ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16437,
+   "src": "これで バトルのじょうきょう\nはあくも バッチリだね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16438,
+   "src": "はなしが ながい人って\nいるよね?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16439,
+   "src": "そんな人のはなしを はやく\nおわらせたい時は、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16440,
+   "src": "かいわ中にBボタンを\nおしてみたらいいよ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16441,
+   "src": "どんな ながい はなしでも\nあっ というまに\nおわっちゃうんだ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16442,
+   "src": "ふっふっふっ\nボクの じょうほうも\nきいてちょうだいよ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16443,
+   "src": "イベントが おこってる時に\nセレクトボタンを おすと",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16444,
+   "src": "イベントをスキップするコトが\nできるんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16445,
+   "src": "だけど、だいじな じょうほうを\nききのがしちゃう かのうせいも\nあるから、気をつけてね!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E2A64",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16475,
+   "src": "わたくし 科学省HPの\nうんえいを まかされました\nシモテルともうします",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16476,
+   "src": "せんじつ 科学省エリアが\nかいほうされました",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16477,
+   "src": "それにあわせて\n科学省のHPも\nさいかい されることになり",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16478,
+   "src": "このケイジバンも\nカキコミかのうに\nなりました",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16479,
+   "src": "みなさまの\nいぜんとかわらぬカキコミを\nおまちしております",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16480,
+   "src": "科学省エリア かいほう\nオメデトウございます!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16481,
+   "src": "これで 秋原エリア\nオラン島エリア 科学省エリアと\n3エリアかいほうされたんですね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16482,
+   "src": "でも いったいだれが\nネビュラから インタ-ネットを\nかいほうして いるんでしょう?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16483,
+   "src": "やっぱり\nオフィシャルなんでしょうか?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16484,
+   "src": "イヤイヤ ねこまんまさん\nぜったい 名人だよ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16485,
+   "src": "あの でんせつの\nネットバトル69連勝・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16486,
+   "src": "名人に勝てる\nネットバトラー なんて\nいないでしょう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16487,
+   "src": "ネビュラ なんていちころだよ\nたぶんね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16488,
+   "src": "オフィシャルの\nエースネットバトラー\n伊集院 炎山だとおもうが",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16489,
+   "src": "カレと ナビのブルースの\nコンビは いまや世界でも\nゆびおりのじつりょく だからな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16490,
+   "src": "ワタシも 前にいちど\nカレに 助けられたんだが",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16491,
+   "src": "そのときのカレの\nオペレートのテクニックは\n今も わすれられないよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16492,
+   "src": "カレが まけることは\nかんがえられないな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16493,
+   "src": "ダレでもいいから\nはやく エンドエリアを\nかいほうしてくれ~",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16494,
+   "src": "アメロッパと\nれんらくがとれなくて",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16495,
+   "src": "かいしゃは だいそんがいだ~\nもし とうさんしたら\nネビュラを うったえてやる!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16496,
+   "src": "このあいだ ナビカスで\nプログラムしたとき",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16497,
+   "src": "まちがえて\nおなじいろの パーツを\nならべて おいてたんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16498,
+   "src": "そうしたら バグが\nはっせいしちゃって\nそのまま ほっておいたら",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16499,
+   "src": "「もっとココロウインドウを\\n みてください!\\n バグがでてるでしょう!」",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16500,
+   "src": "って ナビに\nおこられちゃいました",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16501,
+   "src": "やっぱり ナビも\nバグはイヤなんだね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16502,
+   "src": "みずっぱさんの ナビは\nなかなか ココロが\nそだってますね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16503,
+   "src": "シンクロりつ\nたかいんじゃないですか?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16504,
+   "src": "わたしの ナビは\nココロがみじゅくで",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16505,
+   "src": "フルシンクロ\nしたこともないんです",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16506,
+   "src": "ナビのココロがそだつと\nバトル中に ココロウインドウが\nあかくなって",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16507,
+   "src": "ナビが\nいかりじょうたいに\nなったりするそうですよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16508,
+   "src": "なんでも\n攻撃力が2バイになったり",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16509,
+   "src": "てきの 攻撃をうけても\nのけぞらなくなる\nそうなんです",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16510,
+   "src": "ナビの ココロは\n人の ココロと\nかわらないですよね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16511,
+   "src": "ボクの ナビも\nおこったり わらったり\nさわがしいですよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16512,
+   "src": "ナビを かいはつした\n光祐一朗はかせは\nスゴイ人ですよね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16513,
+   "src": "たしか PETは\n光祐一朗はかせの お父さんの",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16514,
+   "src": "光正はかせが\nかいはつしたとか・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16515,
+   "src": "よく かんがえたら\n今の ボクたちの せいかつは",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16516,
+   "src": "「光おやこによって\n ささえられている」\nといっても いいんですね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16517,
+   "src": "そうなんッッス!\n光はかせは すごい人なんッス!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16518,
+   "src": "じぶん、光はかせにあこがれて\n科学省に 入るために\nモウベンキョウ中ッス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16519,
+   "src": "たしか、光はかせのムスコさんは、\nすごい オペレートテクニックを\nもっていて",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16520,
+   "src": "いぜん、世界を おびやかした\nあくの科学者、ワイリーひきいる\nネットはんざいしゅうだん、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16521,
+   "src": "WWW(ワールドスリー)を\nたおしたことで ゆうめいッス!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16522,
+   "src": "もし、じぶんが科学省に 入ったら\n光はかせに でし入りするッス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16523,
+   "src": "そして、光いちぞくに\nまけないくらい ゆうめいに\nなるッス!!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16524,
+   "src": "アレ・・・?\nそういえば、どうやったら\n科学省に入れるンスか?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16525,
+   "src": "このフレーズを きいたら\nようチェック!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16526,
+   "src": "いきなり クイズを\nだしてくる人が ちかくにいるよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16527,
+   "src": "ボクも クイズを\nだされたんだけど おしくも\nあと 1問でげきちんだよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16528,
+   "src": "でも くやしかったな~\nぜんもんせいかい したら\nなにか もらえたのかな?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16529,
+   "src": "ワタシも あいました!\nいきなり クイズだす人",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16530,
+   "src": "ちなみに ワタシは\nぜんもんせいかい\nしたのですが・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16531,
+   "src": "もらえたものは\nなんと・・・\nブル ブル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16532,
+   "src": "お おもいだすだけで\nおそろしくて ワタシの\n口からはいえません",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16533,
+   "src": "う~ん いきなり\nクイズだす人か~",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16534,
+   "src": "世の中 ふしぎなことが\nいっぱいですね~",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16535,
+   "src": "ふしぎといえば\n学校のこくばんの うらに",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16536,
+   "src": "8ケタの数字が\nかいてあったんです~",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16537,
+   "src": "次の日 見てみたら\nきえてたんだけど~",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16538,
+   "src": "あれって\nなんだったのかしら~",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16539,
+   "src": "やあ! ふしぎなことなら\nおまかせあれな\nゴエーツにいさんだよ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16540,
+   "src": "その8ケタの 数字は\nロットナンバーというんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16541,
+   "src": "ナンバートレーダーという\nとくしゅな トレーダーに",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16542,
+   "src": "そのロットナンバーを\n入力すると\nナンバーに たいおうした",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16543,
+   "src": "チップやアイテムを\nゲットすることが\nできるんだ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16544,
+   "src": "いろんなところに\n数字が かくされているから\nさがしてみよう!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16545,
+   "src": "でも ナンバートレーダーが\nどこにあったのかは\nわすれちゃったな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16546,
+   "src": "う、うちの\nフローラちゃんが",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16547,
+   "src": "きゅうに オトコらしい\nはなしかたに\nなってるでザマス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16548,
+   "src": "あいしゅうが\nただよってるでザマス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16549,
+   "src": "いったい どうしたでザマス\nバグ ザマス?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16550,
+   "src": "でも、とってもダンディーで\nステキザマス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16551,
+   "src": "それはきっと ナビカスに\nプログラム「ダンディズム」ヲ\nくみこんだんだネ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16552,
+   "src": "ネットバトルのたつじんの\n名人みずからガ\nかいはつしたらしいんだけド",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16553,
+   "src": "このプログラムをくみこむト\nなんト!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16554,
+   "src": "ナビが ダンディーナ\nせいかくニ\nなってしまうんダ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16555,
+   "src": "ナビノ せいかくヲ\nかえてしまうなんテ\nスゴイ ぎじゅつだよネ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16556,
+   "src": "一見のかちあり!だヨ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16557,
+   "src": "わたしは もうひとつの\n名人 オリジナルプログラム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16558,
+   "src": "「ユーモアセンス」 の ほうが\nおすすめだな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16559,
+   "src": "ギャグばかり はなす\nスゴイおもしろい\nせいかくのナビ になるの",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16560,
+   "src": "いつも 1人で\nしゃべってるんだけど\nこれが おもしろいのよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16561,
+   "src": "おかげで 1人ぐらしの\nわたしも さみしくないわ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16562,
+   "src": "でも、ねるときぐらいは\nしずかにしてほしいな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16563,
+   "src": "フジヤーマ! ゲイーシャ!\nチョンマーゲ! トノサマ!\nニンジャー! テンプラ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16564,
+   "src": "とくニ シャチホコ城ノ\nキンのシャチホコハ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16565,
+   "src": "まるデ ソラヲ\nオヨいでる ようデ\nスバラシイデ~ス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16566,
+   "src": "はじめて にほんニ\nキたのですが わたクシ\nカンドーしましタ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16567,
+   "src": "もちろん、\nキねんノ おみやげニ\nにほんとう かいまし~タ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16568,
+   "src": "ニンニン!\nゴヨーでゴザル!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16569,
+   "src": "ニほんの ぶんかハ\nファンタスティックでース",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16570,
+   "src": "かんりにんの\nシモテルでございます\nビエ~リさん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16571,
+   "src": "ニホンの ぶんかを\nおほめいただき\nありがとうございます",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16572,
+   "src": "ビエ~リさんが\nこれを きかいに",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16573,
+   "src": "ニホンの ぶんかに\nきょうみをもって\nいただけているようで",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16574,
+   "src": "わたくしも\nうれしく おもいます",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16575,
+   "src": "スゴイ じょうほうを\n手にいれました!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16576,
+   "src": "なんと! インターネットを\nかいほうして まわっている\nナビチームがいるそうなんです!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16577,
+   "src": "いぜんから ウワサでしたが\nこんかいは たしかな\nじょうほうですよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16578,
+   "src": "なんたって あそこから\nしいれましたから",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E3B40",
+    18
+   ],
+   "uses": 2
+  }
+ ]
+}

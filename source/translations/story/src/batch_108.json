@@ -1,0 +1,947 @@
+{
+ "batch": 108,
+ "items": [
+  {
+   "id": 18077,
+   "src": "いくぞ、チーム・オブ・カーネル、\nさいごのリベレートだ!",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F85F8",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18078,
+   "src": "このさきへ\nすすませるわけには\nいかないのだよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18079,
+   "src": "われわれダークロイドにとって\nネビュラホールは\nうまれこきょうなのだ・・・",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18080,
+   "src": "それだけだ",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18081,
+   "src": "カオス王といっても\nそのそんざいは\nかたちのないもの",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18082,
+   "src": "そのときの にくしみの\nつよいものに、じざいに\nすがたをかえる",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18083,
+   "src": "たしかめてみるといい",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18084,
+   "src": "ワタシをたおせるものならね",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18085,
+   "src": "コスモマン!\nキミはカオス王の\nてさきなのか!?",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18086,
+   "src": "どういうことだ!?",
+   "speakers": [
+    "MegaMan",
+    "ProtoMan",
+    "MagnetMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    12
+   ],
+   "uses": 8
+  },
+  {
+   "id": 18088,
+   "src": "バトルオペレーション、セット",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    13
+   ],
+   "uses": 18
+  },
+  {
+   "id": 18089,
+   "src": "ブルース・・・",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18090,
+   "src": "コスモマン!\nオマエはカオス王の\nてさきなのか!?",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    16
+   ],
+   "uses": 4
+  },
+  {
+   "id": 18091,
+   "src": "くるぞ、ブルース!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18092,
+   "src": "ジャイロマン・・・",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18093,
+   "src": "コスモマン\nアンタはカオス王の\nてさきなのか?",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18094,
+   "src": "どういうことだ?",
+   "speakers": [
+    "GyroMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18095,
+   "src": "くるぞ、ジャイロマン!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18096,
+   "src": "コスモマン!\nオメエはカオス王の\nてさきなのか!?",
+   "speakers": [
+    "MagnetMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18097,
+   "src": "くるぞ、マグネットマン!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18098,
+   "src": "メディ・・・",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18099,
+   "src": "コスモマン\nアナタはカオス王の\nてさきなの?",
+   "speakers": [
+    "Meddy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18100,
+   "src": "どういうこと・・・?",
+   "speakers": [
+    "Meddy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18101,
+   "src": "くるぞ、メディ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18102,
+   "src": "カーネル・・・",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18103,
+   "src": "くるぞ、カーネル!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18104,
+   "src": "シャドーマン・・・",
+   "speakers": [
+    "CosmoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18105,
+   "src": "コスモマン\nそなたはカオス王の\nてさきなのでござるか?",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18106,
+   "src": "どういうことでござるか・・・?",
+   "speakers": [
+    "ShadowMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18107,
+   "src": "くるぞ、シャドーマン!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18108,
+   "src": "コスモマンどの\nそなたはカオス王の\nてさきであるか?",
+   "speakers": [
+    "KnightMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18109,
+   "src": "くるぞ、ナイトマン!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    68
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18110,
+   "src": "コスモマンさん\nあなたはカオス王の\nてさきなんだケロ!?",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    71
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18111,
+   "src": "どういうことだケロ?",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18112,
+   "src": "くるぞ、トードマン!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07F8B18",
+    73
+   ],
+   "uses": 2
+  },
+  {
+   "id": 18118,
+   "src": "そうだ、今 ロックマンが\nユニゾンできるソウルは\nナイトソウルだな",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    2
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18119,
+   "src": "ナイトマンはそのてっきゅうで\nすべてを一撃で はかいする\nパワフルなナビだ・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    2
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18120,
+   "src": "つまりエアホッケーなどの\nブレイク系の チップを\nいけにえにすればユニゾンできる",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    2
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18121,
+   "src": "やりかたは こうだ、\nまず、エアホッケーを\nえらんで・・・",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    2
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18122,
+   "src": "つぎにこのユニゾンコマンドを\nえらべ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    3
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18123,
+   "src": "やってみろ、光熱斗",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    4
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18124,
+   "src": "今は れんしゅうだ・・・\nエアホッケーをえらべ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    5
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18125,
+   "src": "今は エアホッケーを\nえらべ・・・キャンセルして\nえらびなおすんだ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    6
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18126,
+   "src": "ちがうぞ\nユニゾンコマンドを えらぶんだ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    7
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18127,
+   "src": "おい\nキャンセルするひつようはないぞ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    8
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18128,
+   "src": "今は にげるひつようはない\n・・・つづけるぞ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    9
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18129,
+   "src": "・・・とまあ、こんなふうに\nゆうごうすることで、\nユニゾンチップが かんせいする",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    10
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18130,
+   "src": "これでOKを えらべば\nじどうてきに ソウルユニゾンが\nはつどうするわけだ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    10
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18131,
+   "src": "ナイトソウル中は ブレイク系の\nチップをためうちでつかうと\n攻撃力が2ばいになる",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    10
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18132,
+   "src": "また エリアのさいぜんれつに\nいると チップをつかったときに",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    10
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18133,
+   "src": "少しのあいだ むてきじょうたいに\nなることができる",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    10
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18134,
+   "src": "さらにBボタンのためうちが\nてっきゅうをふりまわす\nロイヤルレッキングボールになるぞ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    10
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18135,
+   "src": "それでは\nじっさいに つかってみろ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    10
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18136,
+   "src": "ただし むせいげんにいくらでも\nユニゾンできるわけじゃない\nいくつか せいげんがある",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    11
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18137,
+   "src": "これらの せいげんをふまえた上で\nよくかんがえて つかいわけろ",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    11
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18138,
+   "src": "今は キャンセルしなくていい",
+   "speakers": [
+    "Baryl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "0756A08",
+    12
+   ],
+   "uses": 1
+  },
+  {
+   "id": 18139,
+   "src": "カーネルは、\nミステリーデータを\nしらべた・",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "colonel",
+    "076E538",
+    0
+   ],
+   "uses": 20
+  },
+  {
+   "id": 18140,
+   "src": "カーネルは、きょうかプログラム\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "colonel",
+    "076E538",
+    72
+   ],
+   "uses": 6
+  },
+  {
+   "id": 18141,
+   "src": "カーネルは、ナビカスプログラム\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "colonel",
+    "076E538",
+    82
+   ],
+   "uses": 2
+  }
+ ]
+}

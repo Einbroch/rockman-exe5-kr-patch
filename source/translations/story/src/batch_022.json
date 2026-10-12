@@ -1,0 +1,2407 @@
+{
+ "batch": 22,
+ "items": [
+  {
+   "id": 4721,
+   "src": "Oh! さすが ラッキーボーイ\nお目が たかいですネー!",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0786F74",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4722,
+   "src": "ワタシの もってきたチップ\nコレで おわりですネー",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0786F74",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4723,
+   "src": "やっぱり、ニホンは いいクニ\nですネー!",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0786F74",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4724,
+   "src": "アナタ おかね たりナーイ\nワタシ チップ うれナーイ!\nとても かなしいデース!!",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0786F74",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4725,
+   "src": "Oh~ ラッキーボーイ\nまた きましたネー",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0786F74",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4726,
+   "src": "やっぱり アナタも\nレアカラーの「ララチューバ」\nほしい ですネー?",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0786F74",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4727,
+   "src": "それでは 2000ゼニーに\nなりますが よろしいですネー?",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0786F74",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4728,
+   "src": "ワタシの もってるチップ\nぜんぶ うれちゃいましたネー\nまいど どうもデース!",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0786F74",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4729,
+   "src": "うるさい コドモですネ!\nゲットアウト!!",
+   "speakers": [
+    "BlackMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0786F74",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4731,
+   "src": "ごらんになりますか?\\n",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0786F74",
+    10
+   ],
+   "uses": 12
+  },
+  {
+   "id": 4734,
+   "src": "ガウゥゥゥ・・・",
+   "speakers": [
+    "Scientist"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0786F74",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4735,
+   "src": "ねえ 熱斗、\nおつかい たのまれてくれない?",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4736,
+   "src": "今、ちょっと 手がはなせないのよ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4737,
+   "src": "うん、いいよ!",
+   "speakers": [
+    "Lan",
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 4738,
+   "src": "ホント? たすかるわ~",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4739,
+   "src": "それじゃあ コレを\nママの おともだちのナビに\nとどけてほしいの",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4740,
+   "src": "ママの ともだちのナビは\nどこにいるの?",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4741,
+   "src": "今、キッチンの電脳ってところに\nいるそうだから、よろしくね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4742,
+   "src": "キッチンの電脳は、\nインターネットの秋原エリア2から\nはいるコトができるそうよ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4743,
+   "src": "それじゃ 行くぞ、\nロックマン!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4744,
+   "src": "うん!\n熱斗くんの パソコンのまえで\nRボタンを おして",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4745,
+   "src": "ボクを 電脳世界に\nおくりこんで!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4746,
+   "src": "あぁ、まかせとけって\nすぐにプラグインするぜ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4747,
+   "src": "気をつけて いってらっしゃいね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4748,
+   "src": "ママの おともだちのナビは、\n秋原エリア2から 行ける\nキッチンの電脳にいるわよ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4749,
+   "src": "よろしくね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4750,
+   "src": "熱斗、ロックマン、ありがとうね\nおともだちから おれいの\nでんわがあったわ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4751,
+   "src": "・・・え、\nパパの ところに行くの?",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4752,
+   "src": "気をつけて\n行ってらっしゃいね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4753,
+   "src": "パパによろしく\nいっておいてね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4754,
+   "src": "どこ行くの熱斗くん、\nママがまってるよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4755,
+   "src": "熱斗くん、\nママのおつかいに行かなきゃ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4756,
+   "src": "ママに あいさつしてから\n行こうよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4757,
+   "src": "熱斗くん、インターネットを\nしらべに行こう!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4758,
+   "src": "熱斗くん、ママにひとこえ\nかけてから でて行こうよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4759,
+   "src": "祐一朗さん・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4760,
+   "src": "熱斗、もうしばらく\nやすんでなさい・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4761,
+   "src": "も、もう だいじょうぶだよ",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4762,
+   "src": "あ、あのさ・・・\nデカオたちに さそわれてさ、\nちょっと、そとにでたいんだけど",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4763,
+   "src": "・・・いいかな?",
+   "speakers": [
+    "Lan",
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    10
+   ],
+   "uses": 6
+  },
+  {
+   "id": 4764,
+   "src": "・・・熱斗、\nひとつだけ やくそくして",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4765,
+   "src": "ぜったいに あぶないトコロには\nちかづかないって・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4767,
+   "src": "(ママ、ゴメン・・・)",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4768,
+   "src": "それじゃ、行ってきます!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4769,
+   "src": "気をつけて 行ってくるのよ・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4770,
+   "src": "熱斗くん、インターネットの\nようすを 見に行こうよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4771,
+   "src": "すこし よこになろうかしら・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4772,
+   "src": "だいじょうぶよ、\nちょっと やすめば\nすぐラクになるから",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4773,
+   "src": "ハァ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4774,
+   "src": "みんなと かいすいよくに?\nいいわね、行ってらっしゃいよ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4775,
+   "src": "ママも まぜてもらおうかしら\n・・・なんてね!",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4776,
+   "src": "アラ、もう しゅっぱつするの?\nたのしんでらっしゃいね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787370",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4777,
+   "src": "さいきんの ニュースは\nインターネットでおきた\nじけんのことばかりだわ・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4778,
+   "src": "テレビのニュースを見るたびに\nパパのコト、おもいだしちゃうわ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4779,
+   "src": "祐一朗さん、ぶじでいてね・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4780,
+   "src": "いくら学校が おやすみだからって\nあそんでばっかりいちゃダメよ!",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4781,
+   "src": "さて、おかいものでも\n行こうかしらね・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4782,
+   "src": "なにを つくろうかしら・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4783,
+   "src": "どうしたの熱斗・・・\nうかないかおを してるわね\nなにかあったの?",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4784,
+   "src": "今日は ロックマンの\nこえを きかないけど\nケンカでもしたの?",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4785,
+   "src": "科学省のうらにある\nみなとに ごうかきゃくせんが\nきてるらしいわね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4786,
+   "src": "ママも いちどのってみたいわ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4787,
+   "src": "ごうかきゃくせんで\nなにか さわぎがあったみたいね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4788,
+   "src": "こんな ごじせいだもの\nねらわれても おかしくないわね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4789,
+   "src": "熱斗も 気をつけるのよ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787794",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4790,
+   "src": "熱斗、今日はやけに\nはればれしたかおを\nしてるわね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4791,
+   "src": "わかった、ロックマンと\nケンカしてて、それで\nなかなおりしたんでしょ?",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4792,
+   "src": "さいきんね、ママ ネットバトルの\nべんきょうを はじめたのよ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4793,
+   "src": "パパがいないあいだ、\nいえを まもるのは\nママのシゴトだからね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4794,
+   "src": "・・・ガウ?",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4795,
+   "src": "たしか おじいちゃんが\nそんな なまえのイヌを\nかっていたってきいたけど・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4796,
+   "src": "もう ずいぶんまえのハナシよ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4797,
+   "src": "そうだ、そろそろ\nおかいもの行かなきゃ・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4798,
+   "src": "「なつのロンド」 って\nドラマを 見てたんだけど、",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4799,
+   "src": "パパが しゅやくの\nはいゆうさんに ソックリなのよ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4800,
+   "src": "今日も ヒグレヤで\nチップを けんきゅう\nしようかしら・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4801,
+   "src": "ママも だいぶ\nチップに くわしく\nなってきたわよ!",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4802,
+   "src": "熱斗、ちゃんと\nべんきょうしてる?",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4803,
+   "src": "あそんで ばっかりじゃダメよ!",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4804,
+   "src": "なんで、光のいえの\nオトコの人は\nぼうけんずきなのかしらね・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    62
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4805,
+   "src": "えっと、ちがうしゅるいの\nチップでもチップコードが\nいっしょなら つなげられるわけね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    65
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4806,
+   "src": "メイルちゃん、おしえかたが\nうまいわ~",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    65
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4807,
+   "src": "つぎは チップの属性について\nせつめいしますね!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4808,
+   "src": "おぼえられるかしら・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4809,
+   "src": "今日から メイルちゃん、\nウチに すみこみで",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4810,
+   "src": "ママのかていきょうしを\nすることになったのよ!",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4811,
+   "src": "ちょ、ちょっと、おばさん!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4812,
+   "src": "ウフフ、じょうだんよ!",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4813,
+   "src": "おばさんの やいたクッキー\nとっても おいしかったよ",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    71
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4814,
+   "src": "また、メイルちゃんに\nかていきょうし\nしてもらおうかしら・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4815,
+   "src": "あ、そうそう 熱斗\nママ、あした ちょっと\nおでかけするからね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4816,
+   "src": "・・・どうしたの、そんなかおして\nなにか なやみごとでもあるの?",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787960",
+    76
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4817,
+   "src": "・・・どうしたのかしら",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4818,
+   "src": "きゅうに アタマが・・・\nいたくなってきたわ・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4819,
+   "src": "ハ、ハァ・・・ハァ・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4820,
+   "src": "ネ、ネビュラめ・・・\nよくも 祐一朗さんを・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4821,
+   "src": "にくい・・・にくい・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4822,
+   "src": "・・・ウッ、ウゥ・・・!!",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4823,
+   "src": "ワタシ・・・\nなにしてたのかしら・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4824,
+   "src": "さっきまで なにしてたのか\nぜんぜん おもいだせないわ・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4825,
+   "src": "熱斗、なにかヘンなコトが\nおこってるみたいだから",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4826,
+   "src": "あんまり そとを\nウロウロしてちゃダメよ!",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4827,
+   "src": "やっぱり 熱斗も\nパパの、そして おじいちゃんの\nちを ひいてるのね・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4828,
+   "src": "だけど、ぜったいに\nムチャは しないでちょうだい",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4829,
+   "src": "ママ、行ってきます!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4830,
+   "src": "熱斗・・・\nパパを・・・たのんだわよ・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4831,
+   "src": "まかせといてよ!!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4832,
+   "src": "ぜったい パパをつれて\nかえってくるから!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4834,
+   "src": "ぜったい・・・かえってくるのよ",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4835,
+   "src": "熱斗くん、\nママに あいさつしていこうよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4836,
+   "src": "このいえは・・・\nあなたたちの かえってくる\nばしょは ママがまもるわ・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4837,
+   "src": "だから、ぜったいに\nかえってくるのよ・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787CC0",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4838,
+   "src": "オッス、メイル!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4839,
+   "src": "熱斗、どうしたの?",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4840,
+   "src": "パパが 見せたいものが\nあるから、みんなをつれて\n科学省にきてくれって",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4841,
+   "src": "けど、ちょっと\nじゅんびさせてほしいな",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4842,
+   "src": "それじゃあ、30分後に\nメトロのえきまえに\nしゅうごうってコトで!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4843,
+   "src": "うん、また あとでね!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4844,
+   "src": "30分後に メトロの\nえきまえだよね!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4845,
+   "src": "ちょっと まっててね!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4846,
+   "src": "熱斗も おじさんの\n手がかりが はやく見つかると\nいいね・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4847,
+   "src": "うみには なにを\nもっていこっかな・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4848,
+   "src": "熱斗も はやく\nじゅんびしないとダメだよ",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4849,
+   "src": "じゅんびかんりょう!\n熱斗は もう じゅんびできたの?",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0787F20",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4850,
+   "src": "学校が おやすみだからって、\nべんきょうを サボっちゃ\nダメだよ",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4851,
+   "src": "・・・って、ロールがいたら\nいわれるだろうなぁ・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4852,
+   "src": "やっぱり、1人でいると\nつい、ロールのこと\nかんがえちゃうな・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4853,
+   "src": "たまには そとにでて\nキブンてんかんしようかな・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4854,
+   "src": "どうしたの熱斗、\nゲンキないわよ・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4855,
+   "src": "そんなかおしてたら\n熱斗らしくないよ!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4856,
+   "src": "だいぶ ゲンキがでてきた\nみたいだね!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4857,
+   "src": "かおを見たら わかるよ",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4858,
+   "src": "あしたは やいとちゃんと\nウチで べんきょうかいをする\nよていなんだ",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4859,
+   "src": "今日は やいとちゃんと\nウチで べんきょうかいをする\nよていなんだけど、",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4860,
+   "src": "やいとちゃん まだかな?",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4861,
+   "src": "えっ、熱斗、パーティーに\n行ってきたの!?",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4862,
+   "src": "こ、このワタシですら\nしょうたいされない\nパーティーにでるなんて・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4863,
+   "src": "や、やるじゃない・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788094",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4864,
+   "src": "きのう1人でうみを\n見てきたんだ・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078825C",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4865,
+   "src": "うみって いいね!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078825C",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4866,
+   "src": "ずっとロールと いっしょに\nそだってきたからかな、",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078825C",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4867,
+   "src": "1人で時間をつぶすのって、\nむずかしいよね・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078825C",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4868,
+   "src": "熱斗も たまには\nいきぬきしないとダメだよ",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078825C",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4869,
+   "src": "今日は ある人に\nネットバトルの きほんを\nおしえてあげないといけないの",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078825C",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4870,
+   "src": "ちょっと、キンチョウするな・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078825C",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4871,
+   "src": "おばさん、ネットバトルの\nべんきょうしてるでしょ?",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078825C",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4872,
+   "src": "あのキモチ、わかるな・・・\nなにかに むちゅうになってないと\nとっても ふあんなのね・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078825C",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4873,
+   "src": "熱斗、なにかあったの・・・?\n・・・気をつけてね",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "078825C",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4874,
+   "src": "クゥッ・・・!!",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07883D4",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4875,
+   "src": "にくい・・・にくい・・・\nウゥゥ・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07883D4",
+    0
+   ],
+   "uses": 2
+  }
+ ]
+}

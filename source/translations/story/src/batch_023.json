@@ -1,0 +1,2405 @@
+{
+ "batch": 23,
+ "items": [
+  {
+   "id": 4876,
+   "src": "ワタシ・・・\nなにしてたんだろ・・・?",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07883D4",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4877,
+   "src": "熱斗、ワタシ とっても\nふあんなの・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07883D4",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4878,
+   "src": "・・・気をつけてね",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07883D4",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4879,
+   "src": "オッス、デカオ!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4880,
+   "src": "よぉ 熱斗、どうしたんだ?",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4881,
+   "src": "パパがさ、オレたちに\n見せたいものが あるから\nみんなを つれて見にこいって",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4882,
+   "src": "おぉ、\nそりゃ おもしろそうじゃねえか!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4883,
+   "src": "それじゃあ、30分後に\nメトロのえきまえに\nしゅうごうな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4885,
+   "src": "それじゃ、またあとでな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 4886,
+   "src": "しんぱいそうな かおするなよ\nチコクなんてしねえぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4887,
+   "src": "すまねえ・・・\n今は1人に してくれねえか・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4888,
+   "src": "オレが ついていながら\nガッツマンを うばわれちまった\n・・・・・・なさけねえぜ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4889,
+   "src": "・・・インターネットが\nメチャクチャになっているときに\nなにもできないなんて・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4890,
+   "src": "・・・もどかしいぜ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4891,
+   "src": "かいパンは ドコに\nいれたっけな・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4892,
+   "src": "うみじゃ、おもいっきり\nおよぐぜ!!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788470",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4893,
+   "src": "ガッツマン、\n今ごろ なにしてるだろうな",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788640",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4894,
+   "src": "ヒドいコトされてなきゃ\nいいんだけどな・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788640",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4895,
+   "src": "今、オレがガッツマンのために\nしてやれるコトって あるのかな",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788640",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4896,
+   "src": "さいきん、そんなコトばっかり\nかんがえてんだ・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788640",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4897,
+   "src": "熱斗・・・\nオレ じつはさ、",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788640",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4898,
+   "src": "バトルのテクニックを\nみがくために しゅぎょうに\n行こうかとおもってんだ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788640",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4899,
+   "src": "みんなには ヒミツに\nしておいてくれよ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788640",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4900,
+   "src": "オラン島で とっくんした\nおかげで",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4901,
+   "src": "ずいぶん たいりょくが\nついた気がするぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4902,
+   "src": "バトルのテクニックを\nつけるには、チップのちしきが\nひつようだぜ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4903,
+   "src": "どのチップと、どのチップを\nくみあわせればいいのか、\nけんきゅうするぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4904,
+   "src": "フムフム、なるほどな・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4905,
+   "src": "やいとの おしえかたは\nいちりゅうだぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4906,
+   "src": "でしょでしょ?",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4907,
+   "src": "だから、このチップと\nこのチップを くみあわせれば\nいいのよ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4908,
+   "src": "大ダメージをねらえるのは\nプログラムアドバンス\nだけじゃなくて、",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4909,
+   "src": "チップのくみあわせ、\nつまりコンボこうげきも\nゆうこうなワケだな",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4910,
+   "src": "デカオも ずいぶん\nものわかりが\nよくなってきたじゃない",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4911,
+   "src": "ま、先生が ゆうしゅうってコトも\nあるんだけどね",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4912,
+   "src": "きのう やいとに、\nチップの くみあわせについて\nいろいろ おしえてもらったぜ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4913,
+   "src": "あとは、じっせんで\nウデをみがくのみだぜ・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4914,
+   "src": "しばらく インターネットは\n見てないが、ずいぶん\nかいほうされてきたみたいだな",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4915,
+   "src": "オレも ガッツマンが\nいさえすれば、ネビュラと\nたたかうんだけどな・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4916,
+   "src": "ガッツマンさえいれば、\nおまえと いっしょに\nネビュラと たたかえるのにな",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4917,
+   "src": "・・・くやしいぜ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4918,
+   "src": "つぎは どのエリアを\nかいほうするんだ?",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4919,
+   "src": "・・・ゲッ、ウラか・・・!?\n気をつけろよな・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4920,
+   "src": "ウ、ウラに むかうのか・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4921,
+   "src": "ぜったいに ゆだんするんじゃ\nねえぞ・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788740",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4922,
+   "src": "ウガーッ!!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788A20",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4923,
+   "src": "この世界は オレのものだぜ!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788A20",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4924,
+   "src": "オレにさからうヤツは\nゆるさねえ!!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788A20",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4925,
+   "src": "ウガーーーーッ!!",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788A20",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4926,
+   "src": "・・・・・・オレ、\nなんか、ヘンなコトに\nなってなかったか・・・?",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788A20",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4927,
+   "src": "ちょっとまえの\nきおくが ないんだけどよ・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788A20",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4928,
+   "src": "なんか、ココロが まっくらな\nヤミにおおわれた・・・\nそんな カンジがしたぜ・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788A20",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4929,
+   "src": "よぉ、やいと!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4930,
+   "src": "アラ、光くんじゃない\nどうしたのよ?",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4931,
+   "src": "オレのパパが 見せたいものが\nあるから、みんなをつれてこいって",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4932,
+   "src": "フフン、行ってもいいけど、\nすぐには でれないわよ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4933,
+   "src": "レディが おでかけするには、\nそれなりに じゅんびが\nひつようなのよね",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4934,
+   "src": "わかってるって、\n30分後に メトロのえきまえに\nしゅうごうな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4935,
+   "src": "30分後ね、わかったわ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4936,
+   "src": "じゃ、またあとでな!",
+   "speakers": [
+    "Lan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4937,
+   "src": "なにを きて行こうかしら・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4938,
+   "src": "あちこち 手をまわして\nグライドたちの ゆくえを\nさがしてるんだけど・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4939,
+   "src": "まだ ぜんぜん手がかりが\nつかめないわ・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4940,
+   "src": "だいじょうぶかしら・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4941,
+   "src": "・・・グライド",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4942,
+   "src": "グライドが しんぱいで\nしょくじも のどを\nとおらないわ・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4943,
+   "src": "しゅっぱつするまえに\nキンギョに エサを\nやっておかないとね~",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4944,
+   "src": "ちょっと、はなしかけないで!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4945,
+   "src": "今、すっごい かんがえごと\nしてるんだから!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4946,
+   "src": "どの みずぎを\nもっていこうかしら・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4947,
+   "src": "30ちゃくの中から\nえらぶのも タイヘンだわ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788B10",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4948,
+   "src": "グライドが いなくたって、\nワタシは ぜんぜんへいきよ!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4949,
+   "src": "なんて\nいえたら、どれだけラクかしらね",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4950,
+   "src": "グライドが いなくなってから\nいろいろ ふべんで たまらないわ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4951,
+   "src": "・・・・・・ハァ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4952,
+   "src": "クチうるさい グライドが\nいないと しずかすぎて\nちょっとさみしいわね・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4953,
+   "src": "メイルちゃんが きてくれたから\nキブンが すこしラクになったわ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4954,
+   "src": "熱斗、インターネットで\nネビュラが あばれてるみたいだね",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4955,
+   "src": "もし、インターネットに\n行くことがあるんだったら\n・・・気をつけてね",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4956,
+   "src": "さっき、メイルちゃんと\nウルトラゴージャスパフェを\nたべちゃったのよ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4957,
+   "src": "すこし たべすぎたかしら・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4958,
+   "src": "やいとちゃん、すごいパフェを\n一気に2はいも\nたいらげちゃったの・・・",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4959,
+   "src": "おなか、だいじょうぶかな?",
+   "speakers": [
+    "Mayl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4960,
+   "src": "今、科学省のちかくにある\nみなとに ごうかきゃくせん",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4961,
+   "src": "クィーン・チェーコごうが\nきてるのよ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4962,
+   "src": "ワタシも いちどだけ\nのったコトがあるけど、\nステキな ふねだったわ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4963,
+   "src": "さて、今日はなにを\nしようかしらね・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    35
+   ],
+   "uses": 4
+  },
+  {
+   "id": 4964,
+   "src": "クィーン・チェーコごうでの\nパーティーの しょうたいけん?",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4965,
+   "src": "そんなの ワタシがもってるワケ\nないでしょ!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4966,
+   "src": "そんなのが とどくのは\n世界ゆうすうの きぎょうの\nしゃちょうとか、",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4967,
+   "src": "どこかの おひめさま\nくらいのもんよ!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4968,
+   "src": "クィーン・チェーコごうでの\nせんじょうパーティー・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4969,
+   "src": "オトメのユメだわ・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4970,
+   "src": "今日は メイルちゃんちで\nいっしょに べんきょうするのよ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4971,
+   "src": "アンタも ちょっとは\nべんきょうしなさいよね",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0788D50",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4972,
+   "src": "今日は メイルちゃんが\nおでかけしてて、\nヒマなのよね~",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4973,
+   "src": "デカオから ウチにきてくれって\nでんわがあったの",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4974,
+   "src": "アイツ、なにを たくらんで\nいるのかしら?",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4975,
+   "src": "デカオも ガッツマンのために\nいろいろ どりょくしてるみたいね",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4976,
+   "src": "ワタシも グライドのために\nなにができるのかしら・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4977,
+   "src": "デカオを見ならって\nワタシも グライドのために\nなにかはじめようかしら",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4978,
+   "src": "とりあえず、ぎゅうにゅうを\nたくさん のむことにしたわ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4979,
+   "src": "ワタシが 大きくなれば、\nPETを しっかりもてるし、",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4980,
+   "src": "グライドを ちゃんとオペレート\nできるからね!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4981,
+   "src": "いくらアンタと ロックマンが\nつよいからって、\nネビュラを あまく見ちゃダメよ",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4982,
+   "src": "ヤツらは そうとうな\nワルらしいからね・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4983,
+   "src": "ひろいへやを さがしてる?",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4984,
+   "src": "・・・ざんねんだけど、\nおもいあたらないわね・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4985,
+   "src": "科学省のHPが ネビュラの\nしゅうげきに あったそうね",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4986,
+   "src": "ヤツらも しゅだんを\nえらばないってカンジね・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4987,
+   "src": "えっ、ウラにむかう?\nあ、あそこだけは ほんとうに\n気をつけなさいよ・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0789054",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4988,
+   "src": "・・・キィィィィッ!!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07892B8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4989,
+   "src": "この世は おカネよ!\nおカネが すべてなのよ!!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07892B8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4990,
+   "src": "ウキキキキキーーーッ!!",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07892B8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4991,
+   "src": "・・・ワタシ、なんかすんごく\nはずかしいコトを\nいってたような気がする・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07892B8",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4992,
+   "src": "な、なんだったのかしら・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07892B8",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4993,
+   "src": "さっき、このへやの\nぼうはんカメラに うつった\nじぶんの すがたを見たけど、",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07892B8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4994,
+   "src": "マトモじゃなかったわね・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07892B8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4995,
+   "src": "ワ、ワタシに なにがおこったの?\nちょっと、こわいわね・・・",
+   "speakers": [
+    "Yai"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07892B8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4996,
+   "src": "ヒグレヤが しまっている間に\nいろいろと かいたいチップが\nでてきたからね",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4997,
+   "src": "さぁー かうぞー!",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4998,
+   "src": "む・・・ コノしなぞろえ\nただの 町のチップ屋じゃないな",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 4999,
+   "src": "てんちょうは なかなかの\nチップコレクターとみた",
+   "speakers": [
+    "BusinessMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5000,
+   "src": "いつ ガッツマンが\nかえってきても いいように\nいいチップを あつめてるんだ",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5001,
+   "src": "アイツ、きっとよろこぶだろ?",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5002,
+   "src": "チップトレーダーは\nレアな チップが 手に入るかも\nしれないけど、",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5003,
+   "src": "どうでも いい チップが\n出てくる かのうせいも\nあるんだよね",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5004,
+   "src": "3まいで 1まいってところが\nびみょうに なやませる\n数字なんだよなぁ",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5005,
+   "src": "それと、チップトレーダーを\nつかうと じどうてきにセーブ\nされるから きをつけなくちゃね",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5006,
+   "src": "もし まちがえて レアなチップを\n入れてしまったら・・・",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5007,
+   "src": "ああ!\nかんがえただけでも\nおそろしい!!",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5008,
+   "src": "チップあつめばかりじゃなくて\nオレじしんの ウデも\nみがかなきゃな・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5009,
+   "src": "ハァ・・・ガッツマン・・・",
+   "speakers": [
+    "Dex"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5010,
+   "src": "ブルースさまって ステキ・・・",
+   "speakers": [
+    "Girl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5011,
+   "src": "ロールちゃんって かわいい・・・",
+   "speakers": [
+    "Girl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5012,
+   "src": "あそこに ナンバートレーダーって\nきかいが あるだろ",
+   "speakers": [
+    "CapBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5013,
+   "src": "アレに入れる 8ケタの 数字って\nどうやったら わかるんだろう?\nだれかに おしえてもらうのかな?",
+   "speakers": [
+    "CapBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5014,
+   "src": "うわさじゃ 見えないところに\nこっそりと かかれているコトが\nおおいって はなしだけど・・・",
+   "speakers": [
+    "CapBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5015,
+   "src": "レアチップが げきやすで\nうられてないかなぁ~っと",
+   "speakers": [
+    "BlueShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07893D8",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5016,
+   "src": "すくない おこづかいで\nいかに こうりつよく\nつよい チップを そろえるか",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07896AC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5017,
+   "src": "ネットバトルは もう そこから\nはじまってるんだ",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07896AC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5018,
+   "src": "へぇ~、チップって\nたくさんしゅるいが\nあるのね・・・",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07896AC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5019,
+   "src": "チップに かいてある\nアルファベットは\nなんのイミがあるのかしら",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07896AC",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5020,
+   "src": "まだまだ べんきょうぶそくね",
+   "speakers": [
+    "Mom"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07896AC",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5021,
+   "src": "ヘソクリが たまったからね\nあたらしい チップをかって\nダンナをビックリさせてやるんだよ",
+   "speakers": [
+    "Woman"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07896AC",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5022,
+   "src": "やっぱり フォルダには\nたくさんの かいふく系チップを\n入れておくべきだよね",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07896AC",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5023,
+   "src": "だって HPが なくなったら\nどうしようも ないもの",
+   "speakers": [
+    "OrangeShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07896AC",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5024,
+   "src": "かいふく系チップを 入れる\nよりも こうげき系チップを\n入れたほうが いいとおもわない?",
+   "speakers": [
+    "BlueShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07896AC",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5025,
+   "src": "だって\nこうげきは さいだいのぼうぎょ\nって いうだろ",
+   "speakers": [
+    "BlueShirtBoy"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07896AC",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 5026,
+   "src": "ショーケースに入っている\nチップって なんで こんなに\nたかいんだろう・・・",
+   "speakers": [
+    "Girl"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07896AC",
+    37
+   ],
+   "uses": 2
+  }
+ ]
+}

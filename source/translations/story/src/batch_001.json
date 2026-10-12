@@ -1,0 +1,2288 @@
+{
+ "batch": 1,
+ "items": [
+  {
+   "id": 1,
+   "src": "  2   ア1  (1  G2  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0338B00",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 92,
+   "src": "科学省だよ\nさいせんたんの 科学ぎじゅつが\nけんきゅうされているんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F70E8",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 93,
+   "src": "オラン島だよ\n今では むじんとうだけど、\nむかしは かっきがあったらしいね",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F70E8",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 94,
+   "src": "シャチホコ城で ゆうめいな\nエンドシティだよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F70E8",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 95,
+   "src": "秋原町・・・\nデンサンシティ こうがいの\nじゅうたくがい",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F70E8",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 96,
+   "src": "科学省・・・\nさいせんたんの 科学ぎじゅつが\nけんきゅうされているしせつ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F70E8",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 97,
+   "src": "オラン島・・・\nそのむかし、たんこうで\nさかえた島 今はむじん島",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F70E8",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 98,
+   "src": "エンドシティ・・・\nシャチホコ城で ゆうめいな町",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F70E8",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 99,
+   "src": "秋原町だ・・・\nデンサンシティ こうがいの\nじゅうたくがいだな",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F70E8",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 100,
+   "src": "科学省だ・・・\nさいせんたんの 科学ぎじゅつが\nけんきゅうされているしせつだ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F70E8",
+    11
+   ],
+   "uses": 4
+  },
+  {
+   "id": 101,
+   "src": "オラン島だ・・・\n今はむじん島になっているが\nむかしは、たんこうでさかえた島だ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F70E8",
+    12
+   ],
+   "uses": 4
+  },
+  {
+   "id": 102,
+   "src": "エンドシティだ・・・\nシャチホコ城で ゆうめいな町だ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F70E8",
+    13
+   ],
+   "uses": 4
+  },
+  {
+   "id": 107,
+   "src": "この3枚でOK?\\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 108,
+   "src": "よーし!\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    3
+   ],
+   "uses": 4
+  },
+  {
+   "id": 112,
+   "src": "もういちど やりますか?\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen",
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    3
+   ],
+   "uses": 6
+  },
+  {
+   "id": 116,
+   "src": "この10枚でOK?\\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 126,
+   "src": "リュックにチップが3枚もない",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 131,
+   "src": "光 今、リュックの中には\n3枚もチップはないぞ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 132,
+   "src": "光熱斗 今、リュックの中には\n3枚もチップはないぞ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 133,
+   "src": "バグのかけらが10コもないぞ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    28
+   ],
+   "uses": 6
+  },
+  {
+   "id": 134,
+   "src": "もう バグのかけらが\n10コもないぞ",
+   "speakers": [
+    "Colonel",
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    29
+   ],
+   "uses": 6
+  },
+  {
+   "id": 135,
+   "src": "この3枚でいいですか?\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 137,
+   "src": "この3枚でいいのか?\\n",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    32
+   ],
+   "uses": 4
+  },
+  {
+   "id": 138,
+   "src": "光 ざんねんだが\nリュックにチップが3枚もないぞ\nまたこんどにしよう",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 139,
+   "src": "光熱斗 ざんねんだが\nリュックにチップが3枚もないぞ\nまたこんどにしよう",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 140,
+   "src": "この10枚でいいのか?\\n",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    36
+   ],
+   "uses": 4
+  },
+  {
+   "id": 141,
+   "src": "光 ざんねんだが\nリュックにチップが10枚もないぞ\nまたこんどにしよう",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 142,
+   "src": "光熱斗 ざんねんだが\nリュックにチップが10枚もないぞ\nまたこんどにしよう",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 143,
+   "src": "光 今、リュックの中には\n10枚もチップはないぞ",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 144,
+   "src": "光熱斗 今、リュックの中には\n10枚もチップはないぞ",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 145,
+   "src": "ワタシは おてんこ",
+   "speakers": [
+    "Otenko"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 146,
+   "src": "じくうをこえて この世界に\nやってきた・・・",
+   "speakers": [
+    "Otenko"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 147,
+   "src": "おまえのもつ クロスオーバー\nポイントを よいモノと\nこうかんしてやろう",
+   "speakers": [
+    "Otenko"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 148,
+   "src": "ポイントを入れてみるか?\\n",
+   "speakers": [
+    "Otenko"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    50
+   ],
+   "uses": 2
+  },
+  {
+   "id": 149,
+   "src": "なんポイント入れるんだ?\\n",
+   "speakers": [
+    "Otenko"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 150,
+   "src": "0\n(上下でポイント数をへんこう)",
+   "speakers": [
+    "Otenko"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    51
+   ],
+   "uses": 2
+  },
+  {
+   "id": 151,
+   "src": "そうか・・・\nまたくるがいい",
+   "speakers": [
+    "Otenko"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 152,
+   "src": "あすもまた 日はのぼる!",
+   "speakers": [
+    "Otenko"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    52
+   ],
+   "uses": 2
+  },
+  {
+   "id": 153,
+   "src": "ポイントで いいか?\\n",
+   "speakers": [
+    "Otenko"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 154,
+   "src": "ポイントが たりないぞ!",
+   "speakers": [
+    "Otenko"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    54
+   ],
+   "uses": 2
+  },
+  {
+   "id": 155,
+   "src": "もういちど やるか?\\n",
+   "speakers": [
+    "Otenko"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    55
+   ],
+   "uses": 18
+  },
+  {
+   "id": 157,
+   "src": "ロックマンは、バグのかけら\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    57
+   ],
+   "uses": 2
+  },
+  {
+   "id": 158,
+   "src": "コ\nを ゲットした!!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    57
+   ],
+   "uses": 6
+  },
+  {
+   "id": 159,
+   "src": "ブルースは、バトルチップ\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick",
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    58
+   ],
+   "uses": 10
+  },
+  {
+   "id": 160,
+   "src": "ブルースは、サブチップ\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick",
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    59
+   ],
+   "uses": 4
+  },
+  {
+   "id": 161,
+   "src": "ブルースは、バグのかけら\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 162,
+   "src": "カーネルは、バトルチップ\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick",
+    "none",
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    61
+   ],
+   "uses": 10
+  },
+  {
+   "id": 163,
+   "src": "カーネルは、サブチップ\n「",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick",
+    "msgOpen",
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    62
+   ],
+   "uses": 4
+  },
+  {
+   "id": 164,
+   "src": "カーネルは、バグのかけら\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "06F789C",
+    63
+   ],
+   "uses": 2
+  },
+  {
+   "id": 303,
+   "src": "熱斗くん、どうする?\\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FF1A0",
+    0
+   ],
+   "uses": 4
+  },
+  {
+   "id": 304,
+   "src": "フォルダを へんしゅう\\n",
+   "speakers": [
+    "MegaMan",
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FF1A0",
+    0
+   ],
+   "uses": 8
+  },
+  {
+   "id": 305,
+   "src": "フォルダを そうびする",
+   "speakers": [
+    "MegaMan",
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FF1A0",
+    0
+   ],
+   "uses": 16
+  },
+  {
+   "id": 306,
+   "src": "ドウシマスカ?\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FF1A0",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 307,
+   "src": "光、どうする?\\n",
+   "speakers": [
+    "ProtoMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FF1A0",
+    4
+   ],
+   "uses": 4
+  },
+  {
+   "id": 308,
+   "src": "光熱斗、どうするんだ?\\n",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FF1A0",
+    6
+   ],
+   "uses": 4
+  },
+  {
+   "id": 309,
+   "src": "このフォルダはそうびできないよ\nへんしゅう しなおしてから\nそうびしよう",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FF1A0",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 310,
+   "src": "コノフォルダハ ソウビデキマセン\nヘンシュウシナオシテカラ\nソウビシテクダサイ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FF1A0",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 311,
+   "src": "このフォルダはそうびできないぞ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FF1A0",
+    10
+   ],
+   "uses": 4
+  },
+  {
+   "id": 562,
+   "src": "全ての改造を OFFにしますか?\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FFCD8",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 563,
+   "src": "全ての改造を ONにしますか?\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FFCD8",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 564,
+   "src": "この改造を けしてよろしいですか?\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FFCD8",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 565,
+   "src": "全ての改造をけします\nよろしいですか?\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "06FFCD8",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 566,
+   "src": "不正なチップデータが\nみつかりました",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 567,
+   "src": "ようりょうがたりないよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 568,
+   "src": "チップフォルダが\\n",
+   "speakers": [
+    "MegaMan",
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    2
+   ],
+   "uses": 6
+  },
+  {
+   "id": 569,
+   "src": "枚になってないよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 570,
+   "src": "へんしゅうをやめる?\\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 571,
+   "src": "同じチップは4枚までだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 572,
+   "src": "同じメガクラスチップは\n1枚までだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 573,
+   "src": "同じギガクラスチップは\n1枚までだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 574,
+   "src": "メガクラスのチップはぜんぶで\\n",
+   "speakers": [
+    "MegaMan",
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    6
+   ],
+   "uses": 6
+  },
+  {
+   "id": 575,
+   "src": "枚までだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    6
+   ],
+   "uses": 6
+  },
+  {
+   "id": 576,
+   "src": "ギガクラスのチップはぜんぶで\\n",
+   "speakers": [
+    "MegaMan",
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    7
+   ],
+   "uses": 6
+  },
+  {
+   "id": 577,
+   "src": "ヨウリョウガ タリマセン",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 578,
+   "src": "チップフォルダガ\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 579,
+   "src": "マイニ ナッテイマセン",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 580,
+   "src": "ヘンシュウヲ ヤメマスカ?\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 581,
+   "src": "オナジ チップ ハ\n4マイ マデデス",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 584,
+   "src": "メガクラスチップ ハ\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 586,
+   "src": "ギガクラスチップ ハ\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 587,
+   "src": "同じダークチップは\n1枚までだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 588,
+   "src": "ダークチップはぜんぶで\\n",
+   "speakers": [
+    "MegaMan",
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    16
+   ],
+   "uses": 6
+  },
+  {
+   "id": 589,
+   "src": "オナジ\nダークチップ ハ\n1マイシカハイリマセン",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 590,
+   "src": "ダークチップ ハ\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 591,
+   "src": "ようりょうがたりないな・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 592,
+   "src": "枚になってないぞ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    22
+   ],
+   "uses": 4
+  },
+  {
+   "id": 593,
+   "src": "へんしゅうをやめるのか?\\n",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    22
+   ],
+   "uses": 4
+  },
+  {
+   "id": 594,
+   "src": "同じチップは4枚までだ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    23
+   ],
+   "uses": 4
+  },
+  {
+   "id": 595,
+   "src": "同じメガクラスチップは\n1枚までだ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    24
+   ],
+   "uses": 4
+  },
+  {
+   "id": 596,
+   "src": "同じギガクラスチップは\n1枚までだ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    25
+   ],
+   "uses": 4
+  },
+  {
+   "id": 597,
+   "src": "枚までだ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    26
+   ],
+   "uses": 12
+  },
+  {
+   "id": 598,
+   "src": "同じダークチップは\n1枚までだ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "0700444",
+    35
+   ],
+   "uses": 4
+  },
+  {
+   "id": 605,
+   "src": "リュック",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07006B4",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 613,
+   "src": "もういちど やってみるね\\n",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    12
+   ],
+   "uses": 4
+  },
+  {
+   "id": 615,
+   "src": "セーブシマスカ?\\n",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 618,
+   "src": "モウイチド セーブシマスカ?\\n",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 620,
+   "src": "ここまでのかつやくを\nセーブしておくか?\n",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    20
+   ],
+   "uses": 4
+  },
+  {
+   "id": 621,
+   "src": "すでにある セーブデータに\nうわがきしてしまうが いいな?\n",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 622,
+   "src": "セーブに\nしっぱいしたようだ・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    22
+   ],
+   "uses": 4
+  },
+  {
+   "id": 623,
+   "src": "もういちど やってみるか?\\n",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    22
+   ],
+   "uses": 4
+  },
+  {
+   "id": 624,
+   "src": "・・・セーブかんりょう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0700810",
+    23
+   ],
+   "uses": 4
+  },
+  {
+   "id": 640,
+   "src": "今はまだ\nつかうひつようはない",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    20
+   ],
+   "uses": 4
+  },
+  {
+   "id": 641,
+   "src": "」を\nつかうぞ?\n",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 642,
+   "src": "ブルースのHPが\n50かいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 643,
+   "src": "ブルースのHPが\nかんぜんかいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 644,
+   "src": "」は\nしよう中だ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    25
+   ],
+   "uses": 4
+  },
+  {
+   "id": 645,
+   "src": "カギのかかった\nミステリーデータが\nめのまえに ないな",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    26
+   ],
+   "uses": 4
+  },
+  {
+   "id": 646,
+   "src": "このエリアにきてから\nまだウイルスに\nであってないぞ",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    27
+   ],
+   "uses": 4
+  },
+  {
+   "id": 647,
+   "src": "カーネルのHPが\n50かいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 648,
+   "src": "カーネルのHPが\nかんぜんかいふくした!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "070109C",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 652,
+   "src": "シンチャク メールガ\nアリマス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0701894",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 653,
+   "src": "ドノ メールヲ ヨミマスカ?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0701894",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 654,
+   "src": "メールガ キテイマセン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0701894",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 655,
+   "src": "あたらしいメールが\nきているようだな・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0701894",
+    6
+   ],
+   "uses": 4
+  },
+  {
+   "id": 656,
+   "src": "どのメールを よむんだ?",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0701894",
+    7
+   ],
+   "uses": 4
+  },
+  {
+   "id": 657,
+   "src": "だれからもメールは\nきていないぞ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0701894",
+    8
+   ],
+   "uses": 4
+  },
+  {
+   "id": 658,
+   "src": "きんきゅうそくほう\n科学省の メインシステムに\nなにものかが しんにゅう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 659,
+   "src": "いっこくも はやく\nしんにゅうしゃを\nとめなければ、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 660,
+   "src": "科学省が のっとられて\nしまいます!!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 661,
+   "src": "ごぞんじのとおり、\nげんざい インターネット\nぜんいきが",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 662,
+   "src": "ネビュラと なのる\nはんざいしゃ しゅうだんに\nせんりょうされています",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 663,
+   "src": "これにより、世界かくちで\nセキュリティの きょうかが\nなされています",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 664,
+   "src": "ニホンの ネットワークの\nちゅうしんである\nエンドシティでは、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 665,
+   "src": "げんじゅうな\nけいびたいせいが\nしかれています",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 666,
+   "src": "みなさんも、あんぜんのため\nインターネットへの\nアクセスは ひかえましょう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 667,
+   "src": "シレイだ・・・\nつぎのミッションは\nオラン島エリア3で行なう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 668,
+   "src": "ミッションを すみやかに\nすいこうするために、\nじぜんちょうさを行なう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 669,
+   "src": "インターネット\nオラン島エリア1に\nむかってくれ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    2
+   ],
+   "uses": 4
+  },
+  {
+   "id": 670,
+   "src": "あとから ブルースを\nおくりこむ・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 671,
+   "src": "オラン島エリアに\nネビュラの ざんとうが\nいるそうだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 672,
+   "src": "オラン島エリアに\nきゅうこうしてくれ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 673,
+   "src": "ただし、オラン島エリアの\nネットワークじょうきょうが\nみだれているため、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    3
+   ],
+   "uses": 4
+  },
+  {
+   "id": 674,
+   "src": "オラン島から ちょくせつ\nプラグインすることは\nできない",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    3
+   ],
+   "uses": 4
+  },
+  {
+   "id": 675,
+   "src": "秋原エリアを けいゆして\nげんばに むかってくれ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    3
+   ],
+   "uses": 4
+  },
+  {
+   "id": 676,
+   "src": "熱斗くん、\nちょっとこまったコトに\nなっちゃったのよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 677,
+   "src": "ヘリコプターみたいなナビが\nやってきて、おまえの\nチカラを 見せろって・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 678,
+   "src": "それで、バトルをするコトに\nなったんだけど、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 679,
+   "src": "あいてのナビが\nすごいスピードでね・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 680,
+   "src": "またたくまに\nマグネットマンの\nだいじなプログラムを",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 681,
+   "src": "うばっていってしまったの",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 682,
+   "src": "おねがい、オラン島\nはいこうの",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 683,
+   "src": "さくがんきのところまで\nきてちょうだい!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 684,
+   "src": "はじめまして 熱斗くん、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 685,
+   "src": "ワタシは キミの\nおとうさんといっしょに\nけんきゅうしていたものだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 686,
+   "src": "キミの おとうさんから\nあずかっていた",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 687,
+   "src": "ナビカスタマイザーを\nおくるよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 688,
+   "src": "つかいかたは\nおぼえているかい?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 689,
+   "src": "ねんのため、かいておくよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 690,
+   "src": "この ナビカスタマイザーを\nPETにくみこんで\nきどうさせると、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 691,
+   "src": "さまざまな、プログラムを\nロックマンに くみこむコトが\nできるんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "070199C",
+    5
+   ],
+   "uses": 2
+  }
+ ]
+}

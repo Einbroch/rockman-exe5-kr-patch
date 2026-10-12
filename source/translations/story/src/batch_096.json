@@ -1,0 +1,2230 @@
+{
+ "batch": 96,
+ "items": [
+  {
+   "id": 16025,
+   "src": "ワタシの\nかいせきのうりょくがあれば\nこんなトビラなど・・・",
+   "speakers": [
+    "SearchMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07D8700",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16026,
+   "src": "・・・・・・・・・・・・・・・",
+   "speakers": [
+    "SearchMan",
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07D8700",
+    20
+   ],
+   "uses": 4
+  },
+  {
+   "id": 16027,
+   "src": "すこし時間が かかりそうですけど\nもんだいは なさそうですね・・・",
+   "speakers": [
+    "NumberMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07D8700",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16028,
+   "src": "どんなもんだケロ!",
+   "speakers": [
+    "ToadMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07D8700",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16029,
+   "src": "このていどの トビラ・・・",
+   "speakers": [
+    "ProtoMan",
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07D8700",
+    29
+   ],
+   "uses": 4
+  },
+  {
+   "id": 16030,
+   "src": "フンッ!",
+   "speakers": [
+    "Colonel"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07D8700",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16031,
+   "src": "トビラが ひらいた!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07D8700",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16032,
+   "src": "トビラが とじた!",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07D8700",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16033,
+   "src": "はんのうが ない・・・\nこのスイッチは\nほかのナビでないと ダメなようだ",
+   "speakers": [],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07D8700",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16034,
+   "src": "「ぞく・ボクらのたいよう」と\nゆめのクロスオーバーバトル!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16035,
+   "src": "なまえや コメントを\nへんこうするよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16036,
+   "src": "クロスオーバーバトルの\nゲームせつめいを するよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16037,
+   "src": "あいての とうろくを\nまっているところだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick",
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    10
+   ],
+   "uses": 8
+  },
+  {
+   "id": 16038,
+   "src": "」に\nたいせんを もうしこむ?\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16039,
+   "src": "」に\nたいせんを もうしこんだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16040,
+   "src": "あいてとの せつぞくに\nしっぱいしたよ・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    15
+   ],
+   "uses": 4
+  },
+  {
+   "id": 16041,
+   "src": "バトルのもうしこみを\nキャンセルしたよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16042,
+   "src": "バトルのもうしこみを\nたいせんあいてに\nキャンセルされちゃった",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16043,
+   "src": "ワイヤレスアダプタの\nしょきかに しっぱいしたよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    19
+   ],
+   "uses": 4
+  },
+  {
+   "id": 16044,
+   "src": "なまえを にゅうりょく\nしてね",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    20
+   ],
+   "uses": 4
+  },
+  {
+   "id": 16045,
+   "src": "コメントを にゅうりょく\nしてね",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    21
+   ],
+   "uses": 4
+  },
+  {
+   "id": 16046,
+   "src": "」\nで オーケー?\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    22
+   ],
+   "uses": 8
+  },
+  {
+   "id": 16047,
+   "src": "にゅうりょくを ちゅうしして\nメニューに もどる?\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    24
+   ],
+   "uses": 12
+  },
+  {
+   "id": 16048,
+   "src": "なまえの へんしゅうに\nもどる?\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    25
+   ],
+   "uses": 8
+  },
+  {
+   "id": 16049,
+   "src": "にゅうりょくを ちゅうしして\nタイトルがめんに もどる?\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    26
+   ],
+   "uses": 4
+  },
+  {
+   "id": 16066,
+   "src": "やったね、熱斗くん!\nナイスオペレーティング!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    80
+   ],
+   "uses": 4
+  },
+  {
+   "id": 16067,
+   "src": "ざんねんだったね、熱斗くん\nボクも もっと がんばらなきゃ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    82
+   ],
+   "uses": 4
+  },
+  {
+   "id": 16069,
+   "src": "熱斗くん・・・\nにげちゃダメだよ・・・",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    85
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16070,
+   "src": "つうしんエラーだ・・・\nもういちど やりなおそう",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    86
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16071,
+   "src": "クロスオーバーバトルとは?\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    90
+   ],
+   "uses": 6
+  },
+  {
+   "id": 16072,
+   "src": "オジャマバットについて\\n",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    90
+   ],
+   "uses": 6
+  },
+  {
+   "id": 16073,
+   "src": "ブロッキングとマックスモード",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    90
+   ],
+   "uses": 6
+  },
+  {
+   "id": 16074,
+   "src": "クロスオーバーバトルとは\n「ロックマンエグゼ5」と\n「ぞく・ボクらのたいよう」の",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    93
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16075,
+   "src": "まったくちがうゲームどうしで\nどちらがさきに シェードマンを\nたおせるかを きそうゲームなんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    93
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16076,
+   "src": "さきにシェードマンを たおすか\nジャンゴくんのHPを0にすれば\nボクらの勝ちになるよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    93
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16077,
+   "src": "おたがいに あることをすると\nあいてのプレイを ジャマしあえる\nオジャマバットを おくれるんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16078,
+   "src": "ボクらは バットキャノンという\nチップをシェードマンにあてれば\nオジャマバットを おくれるよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16079,
+   "src": "ただしバットキャノンは1~4の\n4しゅるいがあって それぞれ\nオジャマのないようが ちがうんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16080,
+   "src": "バットキャノン1は",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16081,
+   "src": "\nこれをおくると ジャンゴくんに\nステータスいじょうが おこるんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16082,
+   "src": "バットキャノン2は",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16083,
+   "src": "\nこれをおくると ゾクタイがわに\nシェードクロウがしゅつげんするよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16084,
+   "src": "バットキャノン3は",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16085,
+   "src": "\nこれをおくると ゾクタイがわの\nシェードマンのHPが かいふく!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16086,
+   "src": "バットキャノン4は",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16087,
+   "src": "\nなんと3しゅるいの オジャマ\nバットをいっきにおくっちゃうよ!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16088,
+   "src": "そしてさらに もうひとつ\nオジャマバットをおくる\nほうほうが あるんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16089,
+   "src": "それはズバリ カウンター!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16090,
+   "src": "シェードマンの攻撃のしゅんかんに\nチップ攻撃をあてると\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16091,
+   "src": "をおくることが できるんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16092,
+   "src": "ゾクタイがわのシェードマンが\nウイングストームという\nひっさつわざを つかうよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16093,
+   "src": "ただし!\nオジャマバットはとうぜん\nおくられてくることもあるんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16094,
+   "src": "がくるとメットール\\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16095,
+   "src": "がくるとララチューバ\nが しゅつげんするよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16096,
+   "src": "はシェードマンのHPかいふく\\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16097,
+   "src": "はシェードマンが\nひっさつビッグノイズを つかうよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16098,
+   "src": "ブロッキングっていうのは\n1回だけつかえる\nぼうぎょわざ なんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    95
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16099,
+   "src": "カスタム画面をぬけるときに\nOKじゃなくて\nブロッキングを えらぶと",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    95
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16100,
+   "src": "なんと あいてがおくってきた\nオジャマバットを すべて\nはねかえすことが できるんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    95
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16101,
+   "src": "ただし、あいても いちどだけ\nブロッキングをつかえるってことを\nわすれないようにね!",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    95
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16102,
+   "src": "あと、バトルが ながびくと\nマックスモ-ドに\nとつにゅうするよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    95
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16103,
+   "src": "マックスモードだと\n攻撃力が2ばいに なるから",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    95
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16104,
+   "src": "ながい しあいでも\nけっちゃくが つくようになるんだ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DA780",
+    95
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16105,
+   "src": "」に\nつうしんを もうしこむ?\n",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "07DB6B4",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16106,
+   "src": "」に\nつうしんを もうしこんだよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DB6B4",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16107,
+   "src": "つうしんのもうしこみを\nキャンセルしたよ",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DB6B4",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16108,
+   "src": "つうしんのもうしこみを\nあいてに キャンセルされちゃった",
+   "speakers": [
+    "MegaMan"
+   ],
+   "windows": [
+    "msgOpenQuick"
+   ],
+   "where": [
+    "blues",
+    "07DB6B4",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16138,
+   "src": "オース!\nかんりにんのデカオです!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16139,
+   "src": "まずは このHPへようこそ\nありがとうだぜっ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16140,
+   "src": "ここは 熱いオトコの\nバトルケイジバンだぜ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16141,
+   "src": "ウイルスバスティングや\nネットバトルについて\nかきこんでくれよ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16142,
+   "src": "もちろん ネットバトルの\nちょうせんじょうでも\nOKだぜ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16143,
+   "src": "そんときは 秋原町イチの\nネットバトラーである\nデカオさまと",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16144,
+   "src": "そのナビのガッツマンが\nおあいてさせてもらうぜ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16145,
+   "src": "秋原小6ーAのみんなも\nドンドン かきこんでくれよな!\nまってるぜ!!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16146,
+   "src": "熱いオトコの\nバトルケイジバンって\nなんなのよ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16147,
+   "src": "レディーである\nワタシは かけないわけ!?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16148,
+   "src": "フン まあいいわ\nさっそくネットバトルの\nごしどうを おねがいしようかしら",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16149,
+   "src": "ボクサーみたいなウイルスは\nどうすれば たおせるのかしら?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16150,
+   "src": "攻撃しようとすると\nいきなり目の前に あらわれて\nパンチがとんでくるのよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16151,
+   "src": "さすがの やいとちゃんも\nおてあげなのよね!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16152,
+   "src": "へへ、\nもちろん 熱いおんなのこも\nかきこんでくれよ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16153,
+   "src": "そして、\nそいつは チャンプルだな!\nオレさまに まかせとけ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16154,
+   "src": "ヤツはおなじれつに いどうすると\nいきなり目の前のマスにあらわれて\nパンチしてくるんだ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16155,
+   "src": "目の前に あらわれたしゅんかんに\nほかのマスにいどうして ヤツが\nパンチを からぶりしたスキに",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16156,
+   "src": "ガッツパンチ を\nおみまいだぜ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16157,
+   "src": "これが チャンプルの\nこうりゃくほうだぜ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16158,
+   "src": "ガッツ! ガッツ!\nガッツパンチを\nおみまいするでガス!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16159,
+   "src": "ガッツマシンガンも\nあるでガッツ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16160,
+   "src": "ガッツハンマーも\nおすすめでガス!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16161,
+   "src": "ガッツパンチは ともかく、",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16162,
+   "src": "デカオさんの\nアドバイスのおかげで\nチャンプルを タオせました",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16163,
+   "src": "やいとさまに カわって\nこのグライドが\nおレイモウしアげます",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16164,
+   "src": "ところで みんな、\n今日の しゅくだいで でた\nじゆうかだいのないよう きめた?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16165,
+   "src": "わたしは ナビのロールと\nいっしょに 属性について\nレポートを かくよていなの",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16166,
+   "src": "やあ!\nバトルけんきゅうかの\nコーエツにいさんだよ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16167,
+   "src": "属性とは\nいいところに目をつけたね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16168,
+   "src": "「属性をせいすものは\\n バトルをせいす!」",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16169,
+   "src": "って、いわれるほど\nだいじなものなんだ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16170,
+   "src": "属性は炎・水・電気・木\nの4つあるんだけど",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16171,
+   "src": "炎は木に 木は電気に\n電気は水に 水は炎に",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16172,
+   "src": "あいての属性に たいして\nゆうりな属性の攻撃をあてると\n攻撃力が 2バイになるんだ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16173,
+   "src": "ヒントを あげすぎたかな?\n後は自分でしらべてくれよ\nガンバレ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16174,
+   "src": "ウワサに きいたんだけど、\nバトルでチップが がったい\nすることがあるらしいの",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16175,
+   "src": "キャノンどうしが がったいして\nギガキャノンっていうチップに\nなったって きいたんだけど",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16176,
+   "src": "わたしも ためしたんだけど\nがったいしなくって\nこれは ないしょのはなしだよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16177,
+   "src": "それは\n「プログラムアドバンス」\nりゃくしてP.Aだぜ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16178,
+   "src": "チップコードがABCと\nじゅんばんになっている\nチップを3枚",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16179,
+   "src": "じゅんばんどおりにえらんで\nスロットインするんだ!\nすると・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16180,
+   "src": "P.A はつどう!\nつうじょうのチップとは\nひかくにならない 力があるぜ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16181,
+   "src": "このデカオさまですら\nP.Aは みちのりょういきだ!\nふかおいは や・め・と・き・な",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16182,
+   "src": "へェー、P.Aか・・・\nおくがふかそうだね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16183,
+   "src": "さすが デカオくん!\nなんだか わたしでも\nできそうな 気がしてきたわ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16184,
+   "src": "P.Aを たくさんさがして\nしゅくだいにするわ\nありがとう!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16185,
+   "src": "秋原小6-A、\nしゅっせきばんごう\n4ばんの ユウです",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16186,
+   "src": "このあいだ バトル中に\nミステリーデータが\nあったんだけど",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16187,
+   "src": "こわさずにバトルをおえたら\nなんと!\nミステリーデータが・・・",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16188,
+   "src": "へへへ その後はヒミツだよ\nしゅくだいのかだいは\nこのミステリーデータできまり!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16189,
+   "src": "ボクは レギュラーチップだな",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16190,
+   "src": "バトルのとき かならず\nカスタム画面にでる\nチップのことなんだけど",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16191,
+   "src": "これは へんしゅう画面中\nすきなチップのところで",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16192,
+   "src": "セレクトボタンを おして\nせっていするんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16193,
+   "src": "きいろいわくが ついたら\nせっていかんりょう!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16194,
+   "src": "へへへ どうだい、\nカンペキだろう?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16195,
+   "src": "やあ!\nコーエツにいさんだよ\nう~ん おしいね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16196,
+   "src": "レギュラーチップで\nたいせつな「ようりょう」 が\nぬけているよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16197,
+   "src": "ようりょうとは\nチップのみぎがわに\nかいてある 数字で",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16198,
+   "src": "チップのデータサイズの\nことなんだけど",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16199,
+   "src": "PETの レギュラーメモリが\nえらんだチップの\nデータサイズより",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16200,
+   "src": "大きい時しか\nレギュラーチップは\nせっていできないんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16201,
+   "src": "ようりょうは\n「レギュラーUP」っていう\nアイテムでふやせるよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16202,
+   "src": "レギュラーチップを\nじぶんの せんりゃくに\nくみこめれば",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16203,
+   "src": "きびしい バトルも\n勝ちぬけるはずだよ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16204,
+   "src": "あたらしいPETたいおうの\nナビカスはつばい!!\nもちろん ダッシュでGETです!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16205,
+   "src": "プログラミングは はじめてで\nナビを こわしちゃわないかって、\nこわかったんですけど",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16206,
+   "src": "パズルかんかくで\nか~んた~ん カスタマイズ!\nたのしいですよね~",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16207,
+   "src": "ちなみに みなさんは\nどんなカスタマイズ\nされてるんですか?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16208,
+   "src": "ぼくは オペレートがヘタで\nすぐにナビが デリート\nされるんです",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16209,
+   "src": "そこで 「HP+200」と\n「セルフリカバリー」で",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16210,
+   "src": "すぐにデリートされない\nタフなナビにカスタマイズしました",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16211,
+   "src": "ちなみに このプログラムは\nオラン島エリア3の\nショップでこうにゅう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16212,
+   "src": "オススメです!\nこんど かんこうがてらに\n行ってみてはどうですか?",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16213,
+   "src": "オレは じぶんのフォルダを\n電気ビリビリフォルダにしたくて\n電気属性のチップをあつめてるんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16214,
+   "src": "そういうときには\n「バッテリーモード」 って\nプログラムの でばんだぜ!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16215,
+   "src": "これを ナビカスにくみこめば\n電気属性のウイルスが\nよってくるようになるんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16216,
+   "src": "ナビカスは ナビのせいのうを\nアップさせるだけじゃないぜ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16217,
+   "src": "やあ!\nナビカスも バッチリな\nコーエツにいさんだよ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16218,
+   "src": "トキタダくんのいうとおりだね\nナビカスは ナビきょうかだけが\nもくてきではないんだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16219,
+   "src": "じぶんの もくてきにあわせた\nカスタマイズをすることが",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16220,
+   "src": "ナビカスマスターへの\nだいいっぽと いえるね",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E17DC",
+    16
+   ],
+   "uses": 2
+  }
+ ]
+}

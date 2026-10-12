@@ -1,0 +1,1756 @@
+{
+ "batch": 125,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 1300,
+   "src": "キャノン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    1
+   ],
+   "uses": 2,
+   "hint": "캐논"
+  },
+  {
+   "id": 1301,
+   "src": "ハイキャノン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    2
+   ],
+   "uses": 2,
+   "hint": "하이캐논"
+  },
+  {
+   "id": 1302,
+   "src": "メガキャノン",
+   "speakers": [],
+   "windows": [
+    "none",
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    3
+   ],
+   "uses": 4,
+   "hint": "메가캐논"
+  },
+  {
+   "id": 1303,
+   "src": "エアシュート",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    4
+   ],
+   "uses": 2,
+   "hint": "에어슛"
+  },
+  {
+   "id": 1304,
+   "src": "エアホッケー",
+   "speakers": [],
+   "windows": [
+    "none",
+    "msgOpen"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    5
+   ],
+   "uses": 4
+  },
+  {
+   "id": 1305,
+   "src": "ブーメラン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1306,
+   "src": "サイレンス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    7
+   ],
+   "uses": 4,
+   "hint": "사일런스"
+  },
+  {
+   "id": 1307,
+   "src": "トルネード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    8
+   ],
+   "uses": 2,
+   "hint": "토네이도"
+  },
+  {
+   "id": 1308,
+   "src": "ワイドショット1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    9
+   ],
+   "uses": 2,
+   "hint": "와이드샷1"
+  },
+  {
+   "id": 1309,
+   "src": "ワイドショット2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    10
+   ],
+   "uses": 2,
+   "hint": "와이드샷2"
+  },
+  {
+   "id": 1310,
+   "src": "ワイドショット3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    11
+   ],
+   "uses": 2,
+   "hint": "와이드샷3"
+  },
+  {
+   "id": 1311,
+   "src": "マークキャノン1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1312,
+   "src": "マークキャノン2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1313,
+   "src": "マークキャノン3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1314,
+   "src": "バルカン1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    15
+   ],
+   "uses": 2,
+   "hint": "발칸1"
+  },
+  {
+   "id": 1315,
+   "src": "バルカン2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    16
+   ],
+   "uses": 2,
+   "hint": "발칸2"
+  },
+  {
+   "id": 1316,
+   "src": "バルカン3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    17
+   ],
+   "uses": 2,
+   "hint": "발칸3"
+  },
+  {
+   "id": 1317,
+   "src": "スプレッドガン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    18
+   ],
+   "uses": 2,
+   "hint": "스프레드건"
+  },
+  {
+   "id": 1318,
+   "src": "サンダーボール",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1319,
+   "src": "アイスシード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1320,
+   "src": "パルスビーム1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1321,
+   "src": "パルスビーム2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1322,
+   "src": "パルスビーム3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1323,
+   "src": "スペースユラ1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1324,
+   "src": "スペースユラ2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1325,
+   "src": "スペースユラ3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1326,
+   "src": "ノイズストーム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    27
+   ],
+   "uses": 2,
+   "hint": "노이즈스톰"
+  },
+  {
+   "id": 1327,
+   "src": "ライフシンクロ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    28
+   ],
+   "uses": 2,
+   "hint": "라이프싱크로"
+  },
+  {
+   "id": 1328,
+   "src": "ミニボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    29
+   ],
+   "uses": 2,
+   "hint": "미니봄"
+  },
+  {
+   "id": 1329,
+   "src": "エナジーボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    30
+   ],
+   "uses": 2,
+   "hint": "에너지봄"
+  },
+  {
+   "id": 1330,
+   "src": "メガエナジーボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    31
+   ],
+   "uses": 2,
+   "hint": "메가에너지봄"
+  },
+  {
+   "id": 1331,
+   "src": "ガンデルソル1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    32
+   ],
+   "uses": 2,
+   "hint": "건델솔1"
+  },
+  {
+   "id": 1332,
+   "src": "ガンデルソル2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    33
+   ],
+   "uses": 2,
+   "hint": "건델솔2"
+  },
+  {
+   "id": 1333,
+   "src": "ガンデルソル3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    34
+   ],
+   "uses": 2,
+   "hint": "건델솔3"
+  },
+  {
+   "id": 1334,
+   "src": "アースクエイク1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1335,
+   "src": "アースクエイク2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1336,
+   "src": "アースクエイク3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1337,
+   "src": "クラックボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1338,
+   "src": "パラライズボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1339,
+   "src": "リセットボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1340,
+   "src": "バグボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    41
+   ],
+   "uses": 2,
+   "hint": "버그봄"
+  },
+  {
+   "id": 1341,
+   "src": "クサムラシード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1342,
+   "src": "マグマシード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1343,
+   "src": "ホウガン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    44
+   ],
+   "uses": 2,
+   "hint": "호우건"
+  },
+  {
+   "id": 1344,
+   "src": "カンケツセン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    45
+   ],
+   "uses": 2,
+   "hint": "간헐천"
+  },
+  {
+   "id": 1345,
+   "src": "ブラックボム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    46
+   ],
+   "uses": 4,
+   "hint": "블랙봄"
+  },
+  {
+   "id": 1346,
+   "src": "オーシャンシード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1347,
+   "src": "ソード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    48
+   ],
+   "uses": 2,
+   "hint": "소드"
+  },
+  {
+   "id": 1348,
+   "src": "ワイドソード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    49
+   ],
+   "uses": 4,
+   "hint": "와이드소드"
+  },
+  {
+   "id": 1349,
+   "src": "ワイドブレード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    51
+   ],
+   "uses": 2,
+   "hint": "와이드블레이드"
+  },
+  {
+   "id": 1350,
+   "src": "ロングブレード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    52
+   ],
+   "uses": 2,
+   "hint": "롱블레이드"
+  },
+  {
+   "id": 1351,
+   "src": "フウジンラケット",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    53
+   ],
+   "uses": 2,
+   "hint": "풍신라켓"
+  },
+  {
+   "id": 1352,
+   "src": "カスタムソード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    54
+   ],
+   "uses": 2,
+   "hint": "커스텀소드"
+  },
+  {
+   "id": 1353,
+   "src": "バリアブルソード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    55
+   ],
+   "uses": 2,
+   "hint": "배리어블소드"
+  },
+  {
+   "id": 1354,
+   "src": "イアイフォーム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    56
+   ],
+   "uses": 2,
+   "hint": "이아이폼"
+  },
+  {
+   "id": 1355,
+   "src": "エンゲツクナイ1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    57
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1356,
+   "src": "エンゲツクナイ2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    58
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1357,
+   "src": "エンゲツクナイ3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    59
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1358,
+   "src": "サムライソード1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    60
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1359,
+   "src": "サムライソード2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    61
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1360,
+   "src": "サムライソード3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    62
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1361,
+   "src": "センシャホウ1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    63
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1362,
+   "src": "センシャホウ2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    64
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1363,
+   "src": "センシャホウ3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    65
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1364,
+   "src": "レッドフルーツ1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1365,
+   "src": "レッドフルーツ2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    67
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1366,
+   "src": "レッドフルーツ3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    68
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1367,
+   "src": "スカルチェーン1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    69
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1368,
+   "src": "スカルチェーン2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1369,
+   "src": "スカルチェーン3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    71
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1370,
+   "src": "ドリルアーム1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1371,
+   "src": "ドリルアーム2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    73
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1372,
+   "src": "ドリルアーム3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    74
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1373,
+   "src": "カウントボム1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    75
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1374,
+   "src": "カウントボム2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    76
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1375,
+   "src": "カウントボム3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    77
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1376,
+   "src": "イナズマキング1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    78
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1377,
+   "src": "イナズマキング2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    79
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1378,
+   "src": "イナズマキング3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    80
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1379,
+   "src": "バンブーランス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    81
+   ],
+   "uses": 2,
+   "hint": "뱀부랜스"
+  },
+  {
+   "id": 1380,
+   "src": "ヨーヨー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    82
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1381,
+   "src": "トップウ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    83
+   ],
+   "uses": 4,
+   "hint": "돌풍"
+  },
+  {
+   "id": 1382,
+   "src": "スイコミ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    84
+   ],
+   "uses": 4,
+   "hint": "흡입"
+  },
+  {
+   "id": 1383,
+   "src": "ボーイズボム1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    85
+   ],
+   "uses": 2,
+   "hint": "보이즈봄1"
+  },
+  {
+   "id": 1384,
+   "src": "ボーイズボム2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    86
+   ],
+   "uses": 2,
+   "hint": "보이즈봄2"
+  },
+  {
+   "id": 1385,
+   "src": "ボーイズボム3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    87
+   ],
+   "uses": 2,
+   "hint": "보이즈봄3"
+  },
+  {
+   "id": 1386,
+   "src": "メットガード1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    88
+   ],
+   "uses": 2,
+   "hint": "메톨가드1"
+  },
+  {
+   "id": 1387,
+   "src": "メットガード2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    89
+   ],
+   "uses": 2,
+   "hint": "메톨가드2"
+  },
+  {
+   "id": 1388,
+   "src": "メットガード3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    90
+   ],
+   "uses": 2,
+   "hint": "메톨가드3"
+  },
+  {
+   "id": 1389,
+   "src": "クラックアウト",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    91
+   ],
+   "uses": 2,
+   "hint": "크랙아웃"
+  },
+  {
+   "id": 1390,
+   "src": "ダブルクラック",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    92
+   ],
+   "uses": 2,
+   "hint": "더블크랙"
+  },
+  {
+   "id": 1391,
+   "src": "トリプルクラック",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    93
+   ],
+   "uses": 2,
+   "hint": "트리플크랙"
+  },
+  {
+   "id": 1392,
+   "src": "マグナム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    94
+   ],
+   "uses": 2,
+   "hint": "매그넘"
+  },
+  {
+   "id": 1393,
+   "src": "スチールゼリー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    95
+   ],
+   "uses": 2,
+   "hint": "스틸젤리"
+  },
+  {
+   "id": 1394,
+   "src": "カモンスネーク",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    96
+   ],
+   "uses": 2,
+   "hint": "컴온스네이크"
+  },
+  {
+   "id": 1395,
+   "src": "サークルガン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    97
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1396,
+   "src": "ステルスマイン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    98
+   ],
+   "uses": 2,
+   "hint": "스텔스마인"
+  },
+  {
+   "id": 1397,
+   "src": "ストーンキューブ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    99
+   ],
+   "uses": 4,
+   "hint": "스톤큐브"
+  },
+  {
+   "id": 1398,
+   "src": "オウエンカ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    100
+   ],
+   "uses": 4,
+   "hint": "응원가"
+  },
+  {
+   "id": 1399,
+   "src": "ディスコード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    101
+   ],
+   "uses": 4,
+   "hint": "디스코드"
+  },
+  {
+   "id": 1400,
+   "src": "ティンパニー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    102
+   ],
+   "uses": 4,
+   "hint": "팀파니"
+  },
+  {
+   "id": 1401,
+   "src": "ワラニンギョウ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    103
+   ],
+   "uses": 4,
+   "hint": "짚인형"
+  },
+  {
+   "id": 1402,
+   "src": "メテオアース1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    104
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1403,
+   "src": "メテオアース2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    105
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1404,
+   "src": "メテオアース3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    106
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1405,
+   "src": "リカバリー10",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    107
+   ],
+   "uses": 2,
+   "hint": "리커버리10"
+  },
+  {
+   "id": 1406,
+   "src": "リカバリー30",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    108
+   ],
+   "uses": 2,
+   "hint": "리커버리30"
+  },
+  {
+   "id": 1407,
+   "src": "リカバリー50",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    109
+   ],
+   "uses": 2,
+   "hint": "리커버리50"
+  },
+  {
+   "id": 1408,
+   "src": "リカバリー80",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    110
+   ],
+   "uses": 2,
+   "hint": "리커버리80"
+  },
+  {
+   "id": 1409,
+   "src": "リカバリー120",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    111
+   ],
+   "uses": 2,
+   "hint": "리커버리120"
+  },
+  {
+   "id": 1410,
+   "src": "リカバリー150",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    112
+   ],
+   "uses": 2,
+   "hint": "리커버리150"
+  },
+  {
+   "id": 1411,
+   "src": "リカバリー200",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    113
+   ],
+   "uses": 2,
+   "hint": "리커버리200"
+  },
+  {
+   "id": 1412,
+   "src": "リカバリー300",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    114
+   ],
+   "uses": 2,
+   "hint": "리커버리300"
+  },
+  {
+   "id": 1413,
+   "src": "バスターアップ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    115
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1414,
+   "src": "パネルスチール",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    116
+   ],
+   "uses": 2,
+   "hint": "패널스틸"
+  },
+  {
+   "id": 1415,
+   "src": "エリアスチール",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    117
+   ],
+   "uses": 2,
+   "hint": "에리어스틸"
+  },
+  {
+   "id": 1416,
+   "src": "スチールリベンジ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    118
+   ],
+   "uses": 2,
+   "hint": "스틸리벤지"
+  },
+  {
+   "id": 1417,
+   "src": "スチールパニシュ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    119
+   ],
+   "uses": 2,
+   "hint": "스틸퍼니시"
+  },
+  {
+   "id": 1418,
+   "src": "パネルリターン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    122
+   ],
+   "uses": 2,
+   "hint": "패널리턴"
+  },
+  {
+   "id": 1419,
+   "src": "デスマッチ1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "074B3C0",
+    123
+   ],
+   "uses": 2,
+   "hint": "데스매치1"
+  }
+ ]
+}

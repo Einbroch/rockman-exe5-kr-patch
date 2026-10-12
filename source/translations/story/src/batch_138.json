@@ -1,0 +1,413 @@
+{
+ "batch": 138,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 16286,
+   "src": " グライド     ようこそ         ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    0
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16287,
+   "src": " メイル      おめでと~        ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16288,
+   "src": " ガッツマン    おめでとうでガス!    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16289,
+   "src": " やいと      ありがと!        ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    3
+   ],
+   "uses": 2,
+   "hint": " 야이토      고마워!         "
+  },
+  {
+   "id": 16290,
+   "src": " とくもり     しんがたPET!     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16291,
+   "src": " ロール      RE:しんがたPET!  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16292,
+   "src": " とくもり     きになる~        ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16293,
+   "src": " ムームー     秋原エリアが!!     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16294,
+   "src": " パヤチ      ムームーさん?      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16295,
+   "src": " ベルツさん    秋原エリア かいほう   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16296,
+   "src": " やいと      RE:秋原エリア かいほう",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16297,
+   "src": " ゲイツ      ヘロ~やいとさん     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16298,
+   "src": " デカオ      オラン島 といえば    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16299,
+   "src": " やいと      RE:オラン島 といえば ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16300,
+   "src": " デカオ      チップデザイナー!!   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16301,
+   "src": " やいと      RE:チップデザイナー!!",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16302,
+   "src": " ノア       チップトレーダー     ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16303,
+   "src": " ジョー      RE:チップトレーダー  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16304,
+   "src": " るぅた      クィーン・チェーコごう  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16305,
+   "src": " ぼるく      じけん!         ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16306,
+   "src": " ジゴロー     RE:じけん!      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16307,
+   "src": " ちかっち     秋原町パニック      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16308,
+   "src": " やいと      RE:秋原町パニック   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16309,
+   "src": " デカオ      オレさまですら・・・   ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16310,
+   "src": " ヨシカワ     よびフォルダ       ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16311,
+   "src": " コーエツにいさん RE:よびフォルダ    ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16312,
+   "src": " たかやん     まめじょうほう      ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16313,
+   "src": " トッポ      まめじょうほう その2  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 16314,
+   "src": " ケンタロー    まめじょうほう その3  ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07E27FC",
+    28
+   ],
+   "uses": 2
+  }
+ ]
+}

@@ -1,0 +1,2119 @@
+{
+ "batch": 5,
+ "items": [
+  {
+   "id": 1256,
+   "src": "おおっと!\nいやしパワーの こういってん\nメディがさんせんです!",
+   "speakers": [
+    "Ribitta"
+   ],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07099E8",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1257,
+   "src": "おおっと!\nすべてをきりさく サーベル攻撃\nカーネルがさんせんです!",
+   "speakers": [
+    "Ribitta"
+   ],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07099E8",
+    67
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1258,
+   "src": "おおっと!\nシノビのわざをもつ あんさつしゃ\nシャドーマンがさんせんです!",
+   "speakers": [
+    "Ribitta"
+   ],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07099E8",
+    68
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1259,
+   "src": "おおっと!\nすうじをあやつる けいさんナビ\nナンバーマンがさんせんです!",
+   "speakers": [
+    "Ribitta"
+   ],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07099E8",
+    69
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1260,
+   "src": "おおっと!\n大地の力が そのパワーのみなもと\nトマホークマンがさんせんです!",
+   "speakers": [
+    "Ribitta"
+   ],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07099E8",
+    70
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1261,
+   "src": "おおっと!\nゆうかんなる ちゅうぎのせんし\nナイトマンがさんせんです!",
+   "speakers": [
+    "Ribitta"
+   ],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07099E8",
+    71
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1262,
+   "src": "おおっと!\nあいすべき マイナビ \nトードマンがさんせんです!",
+   "speakers": [
+    "Ribitta"
+   ],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "07099E8",
+    72
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1638,
+   "src": "前方のてき1たいを\n攻撃できる\nキャノンほう",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    1
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1639,
+   "src": "ヒットしたあいてを\n1マスおくへおす\nくうきほう",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1640,
+   "src": "かべにはんしゃする\nエアホッケーを\nななめ右になげる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1641,
+   "src": "バトルフィールドの\nはしにそってとぶ\nかんつうブーメラン",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1642,
+   "src": "ララミュートをおく\nえんそうちゅう\nあいてはもうもくに",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1643,
+   "src": "2マス前方に\n8ヒットのたつまき\nを発生させる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1644,
+   "src": "たて3マスのはばを\nもつワイドショット\nを前方へはなつ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    9
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1645,
+   "src": "前方3れつまでの\nてきをロックオンし\nキャノン攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    12
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1646,
+   "src": "3れんしゃバルカン\nヒットすると1マス\nおくにもかんつう!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1647,
+   "src": "5れんしゃバルカン\nヒットすると1マス\nおくにもかんつう!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1648,
+   "src": "7れんしゃバルカン\nヒットすると1マス\nおくにもかんつう!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1649,
+   "src": "ヒットすると\nまわりの1マスに\nゆうばく!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1650,
+   "src": "ゆっくりとすすむ\nついび電気攻撃\nあたるとマヒする!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1651,
+   "src": "3マス前にタネ!\n9マス分のパネルを\nこおりにする!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1652,
+   "src": "前方におんぱ攻撃!\nものにあたると\nまわりにひろがる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    21
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1653,
+   "src": "たて3マスはばで\nゆれながらすすむ\nユラをはっしゃ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    24
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1654,
+   "src": "2マス前にノイズの\nアラシ!バグがある\nとパワーアップする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1655,
+   "src": "2マス前のてきに\nカーソル!てきの\nHPをおなじにする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1656,
+   "src": "3マス前におちる\nボムをなげつける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1657,
+   "src": "3マス前に\nれんぞくばくふうの\nボムをなげつける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    30
+   ],
+   "uses": 4
+  },
+  {
+   "id": 1658,
+   "src": "ボタンをおしつづけ\nると2マス前方の\nたて3マスに日の光",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    32
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1659,
+   "src": "3マス前方に\nアースクエイク攻撃\nじめんをヒビに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    35
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1660,
+   "src": "3マス前方にボム!\nたて3マス攻撃で\nじめんをヒビに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1661,
+   "src": "3マス前方にボム!\nたて3マス攻撃で\nマヒこうかつき!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1662,
+   "src": "3マス前方にボム!\nたて3マス攻撃で\nパワーダウンこうか",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1663,
+   "src": "あいてをバグらせる\nバグボムを3マス前\nになげつける",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1664,
+   "src": "3マス前にタネ!\n9マス分のパネルを\nクサムラにする!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1665,
+   "src": "3マス前にタネ!\n9マス分のパネルを\nマグマにする!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    43
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1666,
+   "src": "3マス前に\nホウガンをなげる!\nパネルはかい攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    44
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1667,
+   "src": "3マス前になげつけ\nあなマスにおちると\n水がふきだす!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    45
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1668,
+   "src": "ふはつだんを\n3マス前になげる!\n炎攻撃でバクハツ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    46
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1669,
+   "src": "3マス前にタネ!\n9マス分のパネルを\n水パネルにする!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    47
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1670,
+   "src": "目の前のてきを\nきりつける!\n攻撃はんいは1マス",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    48
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1671,
+   "src": "目の前のてきを\nきりつける!\nはんいはたて3マス",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    49
+   ],
+   "uses": 4
+  },
+  {
+   "id": 1672,
+   "src": "目の前のてきを\nきりつける!\nはんいはよこ2マス",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    50
+   ],
+   "uses": 4
+  },
+  {
+   "id": 1673,
+   "src": "目の前のてきを\n風でふきとばす!\nはんいはたて3マス",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    53
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1674,
+   "src": "カスタムゲージが\nマンタンにちかい\nほど攻撃力アップ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    54
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1675,
+   "src": "へんげんじざいの\nテクニカルソード",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    55
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1676,
+   "src": "Aボタンをおして\nいる間に入ってくる\nてきをきる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    56
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1677,
+   "src": "じぶんのまわりに\nかいてんぎり!\nふかいきずをおわす",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    57
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1678,
+   "src": "ワイドとロングに\n2回れんぞくで\nきりつける!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    60
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1679,
+   "src": "前方にほうげき!\n画面はしにとどくと\nたて3マスばくふう",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    63
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1680,
+   "src": "りんごがしゅつげん\n攻撃をあてるとHP\nが300かいふく!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    66
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1681,
+   "src": "りんごがしゅつげん\n攻撃をあてると\nむてきじょうたいに",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    67
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1682,
+   "src": "りんごがしゅつげん\n攻撃をあてると\nフルシンクロに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    68
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1683,
+   "src": "3マスだけすすむ\nついびするホネ!\nあたるとこんらんに",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    69
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1684,
+   "src": "前方2マスはんいを\nドリル攻撃!\nてきをおしやる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    72
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1685,
+   "src": "3びょうごに\nばくはつするボムを\nてきエリアにおく!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    75
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1686,
+   "src": "3マス前にピカラー\nがしゅつげん!\nじゅうじにほうでん",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    78
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1687,
+   "src": "てきエリアの右はし\nたてれつにとつぜん\nたけやりが発生!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    81
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1688,
+   "src": "3マス前までとどく\nヨーヨー攻撃!\n3マス前は3ヒット",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    82
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1689,
+   "src": "ウインドボックスを\nおき てきエリアに\n風をふかせる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    83
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1690,
+   "src": "バキュームファンを\nおき 風でてきを\nすいよせる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    84
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1691,
+   "src": "目の前のマスに\nボーイズボム!\nおすと前へすすむ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    85
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1692,
+   "src": "タイミングガードし\n攻撃をしょうげきは\nにしてはねかえす!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    88
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1693,
+   "src": "パネルはかい攻撃!\n目の前の1マスを\nけしさってしまう",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    91
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1694,
+   "src": "パネルはかい攻撃!\n前のよこ2マスを\nけしさってしまう",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    92
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1695,
+   "src": "パネルはかい攻撃!\n前のたて3マスを\nけしさってしまう",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    93
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1696,
+   "src": "カーソルをとめて\nパネルをはかいする\nマグナムをハッシャ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    94
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1697,
+   "src": "てきエリア左はしに\nパネルをぬりかえる\nゼリー攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    95
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1698,
+   "src": "自分のエリアの\nあなマスから\nこヘビがとんでいく",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    96
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1699,
+   "src": "まわるサイトを\nボタンでとめて\nショット攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    97
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1700,
+   "src": "てきエリアのどこか\nに見えないじらいを\nセットする!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    98
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1701,
+   "src": "目の前のマスに\nストーンキューブを\n発生させる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    99
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1702,
+   "src": "ララパッパをおく\nえんそうちゅう\n自分がむてきに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    100
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1703,
+   "src": "ララチューバをおく\nえんそうちゅう\nあいてがこんらん!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    101
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1704,
+   "src": "ララボーンをおく\nえんそうちゅう\nじしんであしどめ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    102
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1705,
+   "src": "おそろしいノロイの\nワラニンギョウを\n3マス前方になげる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    103
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1706,
+   "src": "てきめがけて\nふりそそぐメテオ\nじめんをヒビに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    104
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1707,
+   "src": "HPを10\nかいふくする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    107
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1708,
+   "src": "HPを30\nかいふくする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    108
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1709,
+   "src": "HPを50\nかいふくする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    109
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1710,
+   "src": "HPを80\nかいふくする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    110
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1711,
+   "src": "HPを120\nかいふくする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    111
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1712,
+   "src": "HPを150\nかいふくする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    112
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1713,
+   "src": "HPを200\nかいふくする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    113
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1714,
+   "src": "HPを300\nかいふくする",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    114
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1715,
+   "src": "そのバトル中\nバスターの攻撃力を\n1アップさせる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    115
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1716,
+   "src": "前方のてきエリアの\n1マスを 自分の\nエリアにぬりかえる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    116
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1717,
+   "src": "てきエリアの左はし\nたて1れつを自分の\nエリアにぬりかえる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    117
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1718,
+   "src": "ぬすまれたパネルの\nかずだけ あいてに\n40のダメージ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    118
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1719,
+   "src": "ぬすまれたパネルの\nかずだけ あいてに\n20のダメージ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    119
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1720,
+   "src": "しばらくのあいだ\nカスタムゲージの\nスピードがおちる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    120
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1721,
+   "src": "しばらくのあいだ\nカスタムゲージの\nスピードがあがる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    121
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1722,
+   "src": "自分のエリアの\nパネルをノーマルに\nもどす!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    122
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1723,
+   "src": "パネルのあるマスが\nすべてヒビに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    123
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1724,
+   "src": "あいているマスが\nすべてこわれる!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    124
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1725,
+   "src": "パネルのあるマスが\nすべてどくぬまに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    125
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1726,
+   "src": "じぶんのエリアの\n水パネルをすいこみ\nてきにあめをふらす",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    126
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1727,
+   "src": "自エリアをぎせいに\nしてつぎのチップの\n攻撃力を+10ずつ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    127
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1728,
+   "src": "前方3マス攻撃\nぞくせいパネルの\n上だとパワーアップ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    128
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1729,
+   "src": "きょうりょくな光で\nあいてをもうもく\nじょうたいにする!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    129
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1730,
+   "src": "しゅういをおそう\n風をおこすしゃりん\nを前方にすべらせる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    130
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1731,
+   "src": "少しの間とうめいに\nなって ほとんどの\n攻撃にあたらない",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    133
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1732,
+   "src": "はがれても また\nふっかつするバリア\n電気攻撃にはよわい",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    134
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1733,
+   "src": "バリアをはり\n10HPぶんの\nダメージをむこうか",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    135
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1734,
+   "src": "バリアをはり\n100HPぶんの\nダメージをむこうか",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    136
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1735,
+   "src": "バリアをはり\n200HPぶんの\nダメージをむこうか",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    137
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1736,
+   "src": "すさまじいキタカゼ\nがバリアやオーラを\nふきとばしてしまう",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    138
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1737,
+   "src": "目の前のパネルを\nダメージはんげんの\nホーリーパネルに!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    139
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1738,
+   "src": "てきにワナをはる\n炎の攻撃をだすと\n自分がダメージ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    140
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1739,
+   "src": "てきにワナをはる\n水の攻撃をだすと\n自分がダメージ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    141
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1740,
+   "src": "てきにワナをはる\n電気の攻撃をだすと\n自分がダメージ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    142
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1741,
+   "src": "てきにワナをはる\n木の攻撃をだすと\n自分がダメージ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    143
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1742,
+   "src": "てきにワナをはる\nよびだしたナビを\nねがえらせる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    144
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1743,
+   "src": "てきにワナをはる\n攻撃にあたると\nしゅりけん攻撃!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    145
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1744,
+   "src": "てきにワナをはる\nソード攻撃をうけ\nながしてはんげき!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    146
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1745,
+   "src": "てきにワナをはる\nてきのリカバリーが\nぎゃくにダメージに",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    147
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1746,
+   "src": "カーソルのあいてに\nほかのてきがうけた\nダメージをコピー!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    148
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1747,
+   "src": "攻撃チップのあとに\nえらぶと 攻撃力を\n+10できる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    149
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1748,
+   "src": "ナビチップの\nあとにえらぶと\n攻撃力を+20!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    150
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1749,
+   "src": "前方たて3れつで\n一ばんちかいてきの\nいるれつにパンチ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    151
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1750,
+   "src": "じぶんのまわりの\nてきに炎攻撃!\nもえうつっていく!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    154
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1751,
+   "src": "えんをえがいて\nすすむウズマキ!\nじめんを水パネルに",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    157
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1752,
+   "src": "モリの入ったアワを\nりょうななめ前方に\nはっせいさせる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    160
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1753,
+   "src": "前方に電気のいと!\nとなりあったてきに\n電気がながれていく",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    163
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1754,
+   "src": "ひろがる電撃!\nカスタムゲージを\nしょうひしてはなつ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    166
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1755,
+   "src": "ガードするとあいて\nにかみつくシールド\nあいてはのろわれる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    169
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1756,
+   "src": "水パネルから\nツナミがはっせい",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    172
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1757,
+   "src": "マグマパネルから\nアカツナミはっせい",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    173
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1758,
+   "src": "あなパネルから\nドロツナミはっせい",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    174
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1759,
+   "src": "2マス前にむけて\nサボテンをはなつ\n4回はねすすむ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    175
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1760,
+   "src": "前方にタネをはなつ\n画面そとから2マス\nのえだがのびてくる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    178
+   ],
+   "uses": 6
+  },
+  {
+   "id": 1761,
+   "src": "エリアノシュウイヲ\nマワルカーソルヲ\nトメテコウゲキセヨ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    187
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1762,
+   "src": "キョダイナソードデ\nゼンポウノアイテヲ\nキリツケルノダ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    188
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1763,
+   "src": "オノレノナカノヤミ\nヲトキハナチ ミヲ\nユダネルノダ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    189
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1764,
+   "src": "ツギノチップノ\nコウゲキリョクヲ\n+50シテヤロウ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    190
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1765,
+   "src": "ウシロデアンシン\nシテイルテキヲ\nハイゴカラネラエ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    191
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1766,
+   "src": "タテ3マスノワイド\nショットガアイテヲ\nツラヌイテススム",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    192
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1767,
+   "src": "マヒコウカヲモッタ\nサンダーボールデ\nジワジワオイツメヨ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    193
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1768,
+   "src": "キョウイノカイフク\nノウリョクヲモッテ\nイルノダ・・・",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    194
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1769,
+   "src": "メテオノアメガ\nテキヲネラッテ\nフリソソグデアロウ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    195
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1770,
+   "src": "オノレノハカイ\nショウドウヲミタス\nヤミノドリルナリ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    196
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1771,
+   "src": "キズヲオウホドニ\nハンイヲヒロゲル\nニクシミノアラシ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    197
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1772,
+   "src": "ソノサウンドハ\nキクモノノウゴキヲ\nフウジテシマウノダ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    198
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1773,
+   "src": "タカラヨウヨビ3",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    199
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1774,
+   "src": "タカラヨウヨビ4",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    200
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1775,
+   "src": "攻撃力が200より\nひくい攻撃を\nむこうかするオーラ",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    201
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1776,
+   "src": "へっているHP分が\n攻撃力になる\nのろいのカタナ!",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    202
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1777,
+   "src": "目の前のマスに\nこわしてはいけない\nオジゾウサンをおく",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    203
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1778,
+   "src": "目の前のマスに\nどくを発生させる\nアヌビスぞうをおく",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    204
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1779,
+   "src": "攻撃チップのあとに\nえらぶと 攻撃力を\n+30できる",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    205
+   ],
+   "uses": 2
+  },
+  {
+   "id": 1780,
+   "src": "ナビに発生している\nバグをしゅうせいし\nとりのぞく",
+   "speakers": [],
+   "windows": [
+    "msgOpenQuickExt:1"
+   ],
+   "where": [
+    "blues",
+    "074C258",
+    206
+   ],
+   "uses": 2
+  }
+ ]
+}

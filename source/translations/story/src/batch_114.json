@@ -1,0 +1,276 @@
+{
+ "batch": 114,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 543,
+   "src": "パネルバグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    126
+   ],
+   "uses": 2
+  },
+  {
+   "id": 544,
+   "src": "バスターからうち",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    127
+   ],
+   "uses": 2
+  },
+  {
+   "id": 545,
+   "src": "ダメージもうもく",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    128
+   ],
+   "uses": 2
+  },
+  {
+   "id": 546,
+   "src": "ダメージこんらん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    129
+   ],
+   "uses": 2
+  },
+  {
+   "id": 547,
+   "src": "ダメージHPバグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    130
+   ],
+   "uses": 2
+  },
+  {
+   "id": 548,
+   "src": "ダメージバグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    131
+   ],
+   "uses": 2
+  },
+  {
+   "id": 549,
+   "src": "カスタムダメージ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    132
+   ],
+   "uses": 2
+  },
+  {
+   "id": 550,
+   "src": "ココロバグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    133
+   ],
+   "uses": 2
+  },
+  {
+   "id": 551,
+   "src": "バトルHPバグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    134
+   ],
+   "uses": 2
+  },
+  {
+   "id": 552,
+   "src": "カスタムHPバグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    135
+   ],
+   "uses": 2
+  },
+  {
+   "id": 553,
+   "src": "ステータスバグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    136
+   ],
+   "uses": 2
+  },
+  {
+   "id": 554,
+   "src": "バグストッパー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    137
+   ],
+   "uses": 4,
+   "hint": "버그스토퍼"
+  },
+  {
+   "id": 555,
+   "src": "コレクターズアイ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    138
+   ],
+   "uses": 4,
+   "hint": "컬렉터즈아이"
+  },
+  {
+   "id": 556,
+   "src": "ユーモアセンス",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    139
+   ],
+   "uses": 4,
+   "hint": "유머센스"
+  },
+  {
+   "id": 557,
+   "src": "ダンディズム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    140
+   ],
+   "uses": 4
+  },
+  {
+   "id": 558,
+   "src": "オートランニング",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    141
+   ],
+   "uses": 4
+  },
+  {
+   "id": 559,
+   "src": "ソウルクリーナー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    142
+   ],
+   "uses": 4,
+   "hint": "소울클리너"
+  },
+  {
+   "id": 560,
+   "src": "エンカウントバグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    143
+   ],
+   "uses": 2
+  },
+  {
+   "id": 561,
+   "src": "コレクターバグ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "06FF808",
+    144
+   ],
+   "uses": 2
+  }
+ ]
+}

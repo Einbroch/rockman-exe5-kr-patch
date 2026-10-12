@@ -1,0 +1,1023 @@
+{
+ "batch": 133,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 2835,
+   "src": "シチューのレシピ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    1
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2836,
+   "src": "パパのIDカード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    2
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2837,
+   "src": "たけざお",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    3
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2838,
+   "src": "つりいと",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    4
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2839,
+   "src": "イソメ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    5
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2840,
+   "src": "木のいた",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    6
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2841,
+   "src": "かれえだ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    7
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2842,
+   "src": "かれくさ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    8
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2843,
+   "src": "かいじょキー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    9
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2844,
+   "src": "しこうプログラム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    10
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2845,
+   "src": "げんごプログラム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    11
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2846,
+   "src": "いどうプログラム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    12
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2847,
+   "src": "こうげきプログラム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    13
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2848,
+   "src": "しょくいんのメモ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    14
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2849,
+   "src": "さくがんプログラム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    15
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2850,
+   "src": "メガバキューム",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    16
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2851,
+   "src": "ていしそうちのキー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    17
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2852,
+   "src": "ぼうすいへきキー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    18
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2853,
+   "src": "ぼうすいへきキーA",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    19
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2854,
+   "src": "ぼうすいへきキーB",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    20
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2855,
+   "src": "ぼうすいへきキーC",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    21
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2856,
+   "src": "科学キー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    22
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2857,
+   "src": "しょうたいけん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    23
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2858,
+   "src": "スタンプカード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    24
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2859,
+   "src": "メモデータ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    25
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2860,
+   "src": "ふるいカギデータ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    26
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2861,
+   "src": "テキストデータ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    27
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2862,
+   "src": "ヨロイデータ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    28
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2863,
+   "src": "カタナデータ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    29
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2864,
+   "src": "カブトデータ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    30
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2865,
+   "src": "ボクトウ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    31
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2866,
+   "src": "ガウのしゃしん",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    32
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2867,
+   "src": "パストキーデータ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    33
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2868,
+   "src": "おまもり",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    34
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2869,
+   "src": "メイルのPET",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    35
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2870,
+   "src": "デカオのPET",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    36
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2871,
+   "src": "やいとのPET",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    37
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2872,
+   "src": "ネビュラID",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    38
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2873,
+   "src": "データディスク",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    39
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2874,
+   "src": "そふのてがみ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    40
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2875,
+   "src": "メモリーデータ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    41
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2876,
+   "src": "データファイル",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    42
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2877,
+   "src": "スピンホワイト",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    64
+   ],
+   "uses": 2,
+   "hint": "스핀 화이트"
+  },
+  {
+   "id": 2878,
+   "src": "スピンイエロー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    65
+   ],
+   "uses": 2,
+   "hint": "스핀 옐로"
+  },
+  {
+   "id": 2879,
+   "src": "スピンピンク",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    66
+   ],
+   "uses": 2,
+   "hint": "스핀 핑크"
+  },
+  {
+   "id": 2880,
+   "src": "スピンレッド",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    67
+   ],
+   "uses": 2,
+   "hint": "스핀 레드"
+  },
+  {
+   "id": 2881,
+   "src": "スピンブルー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    68
+   ],
+   "uses": 2,
+   "hint": "스핀 블루"
+  },
+  {
+   "id": 2882,
+   "src": "スピングリーン",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    69
+   ],
+   "uses": 2,
+   "hint": "스핀 그린"
+  },
+  {
+   "id": 2883,
+   "src": "メイルのPコード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    80
+   ],
+   "uses": 2,
+   "hint": "메일의 P코드"
+  },
+  {
+   "id": 2884,
+   "src": "デカオのPコード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    81
+   ],
+   "uses": 2,
+   "hint": "데카오의 P코드"
+  },
+  {
+   "id": 2885,
+   "src": "やいとのPコード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    82
+   ],
+   "uses": 2,
+   "hint": "야이토의 P코드"
+  },
+  {
+   "id": 2886,
+   "src": "かがくのPコード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    83
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2887,
+   "src": "お城のPコード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    84
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2888,
+   "src": "ふるいPコード",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    85
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2889,
+   "src": "メイルのバナー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    86
+   ],
+   "uses": 2,
+   "hint": "메일의 배너"
+  },
+  {
+   "id": 2890,
+   "src": "デカオのバナー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    87
+   ],
+   "uses": 2,
+   "hint": "데카오의 배너"
+  },
+  {
+   "id": 2891,
+   "src": "やいとのバナー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    88
+   ],
+   "uses": 2,
+   "hint": "야이토의 배너"
+  },
+  {
+   "id": 2892,
+   "src": "かがくのバナー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    89
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2893,
+   "src": "お城のバナー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    90
+   ],
+   "uses": 2
+  },
+  {
+   "id": 2894,
+   "src": "HPメモリ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    96
+   ],
+   "uses": 2,
+   "hint": "HP메모리"
+  },
+  {
+   "id": 2895,
+   "src": "かくちょうメモリ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    97
+   ],
+   "uses": 2,
+   "hint": "확장 메모리"
+  },
+  {
+   "id": 2896,
+   "src": "レギュラーUP1",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    98
+   ],
+   "uses": 2,
+   "hint": "레귤러UP1"
+  },
+  {
+   "id": 2897,
+   "src": "レギュラーUP2",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    99
+   ],
+   "uses": 2,
+   "hint": "레귤러UP2"
+  },
+  {
+   "id": 2898,
+   "src": "レギュラーUP3",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    100
+   ],
+   "uses": 2,
+   "hint": "레귤러UP3"
+  },
+  {
+   "id": 2899,
+   "src": "サブメモリ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    101
+   ],
+   "uses": 2,
+   "hint": "서브메모리"
+  },
+  {
+   "id": 2900,
+   "src": "ミニエネルギー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    112
+   ],
+   "uses": 2,
+   "hint": "미니 에너지"
+  },
+  {
+   "id": 2901,
+   "src": "フルエネルギー",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    113
+   ],
+   "uses": 2,
+   "hint": "풀 에너지"
+  },
+  {
+   "id": 2902,
+   "src": "アントラップ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    115
+   ],
+   "uses": 2,
+   "hint": "언트랩"
+  },
+  {
+   "id": 2903,
+   "src": "エネミーサーチ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    116
+   ],
+   "uses": 2,
+   "hint": "에너미 서치"
+  },
+  {
+   "id": 2904,
+   "src": "オープンロック",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    117
+   ],
+   "uses": 2,
+   "hint": "오픈 록"
+  },
+  {
+   "id": 2905,
+   "src": "サブチップセット",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "076DC14",
+    118
+   ],
+   "uses": 2
+  }
+ ]
+}

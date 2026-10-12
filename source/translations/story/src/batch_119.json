@@ -1,0 +1,96 @@
+{
+ "batch": 119,
+ "kind": "menu",
+ "items": [
+  {
+   "id": 1029,
+   "src": "スタンダードチップ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706548",
+    0
+   ],
+   "uses": 2,
+   "hint": "스탠다드칩"
+  },
+  {
+   "id": 1030,
+   "src": "メガクラスチップ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706548",
+    1
+   ],
+   "uses": 2,
+   "hint": "메가클래스칩"
+  },
+  {
+   "id": 1031,
+   "src": "ギガクラスチップ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706548",
+    2
+   ],
+   "uses": 2,
+   "hint": "기가클래스칩"
+  },
+  {
+   "id": 1032,
+   "src": "P.Aメモ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706548",
+    3
+   ],
+   "uses": 2,
+   "hint": "P.A메모"
+  },
+  {
+   "id": 1033,
+   "src": "シークレット",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706548",
+    5
+   ],
+   "uses": 2,
+   "hint": "시크릿"
+  },
+  {
+   "id": 1034,
+   "src": "ダークチップ",
+   "speakers": [],
+   "windows": [
+    "none"
+   ],
+   "where": [
+    "blues",
+    "0706548",
+    6
+   ],
+   "uses": 2,
+   "hint": "다크 칩"
+  }
+ ]
+}
